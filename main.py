@@ -65,9 +65,7 @@ def update_readme_from_csv(readme_file, csv_file):
         readme.write(updated_readme_content)
 
 
-def main():
-    # Read the CSV file
-    csv_filename = "topics.csv"
+def main():    
     with open(csv_filename, "r") as csv_file:
         reader = csv.DictReader(csv_file)
         topics = list(reader)
@@ -96,4 +94,6 @@ def main():
 
 
 if __name__ == "__main__":
+    csv_filename = "topics.csv"
     main()
+    # update_readme_from_csv('README.md', csv_file=csv_filename)
