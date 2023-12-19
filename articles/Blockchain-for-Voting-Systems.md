@@ -1,6 +1,6 @@
 # Blockchain for Voting Systems
 
-![Blockchain Voting Illustration](Blockchain-for-Voting-Systems.png)
+![Blockchain Voting Illustration](https://raw.githubusercontent.com/Kanakjr/100-days-of-AI-Writing/main/images/Blockchain-for-Voting-Systems.png)
 
 The concept of using blockchain technology for voting systems has gained significant attention in recent years. Blockchain, at its core, is a distributed ledger technology that allows data to be stored globally on thousands of servers. This makes it incredibly difficult for any single party to take control of or alter the information without being detected by others. Let's explore how this technology can revolutionize the way we vote.
 

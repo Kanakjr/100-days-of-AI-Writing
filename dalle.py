@@ -2,6 +2,7 @@ from langchain.utilities.dalle_image_generator import DallEAPIWrapper
 from langchain.prompts import PromptTemplate
 from langchain.chains import LLMChain
 
+
 class CustomDallEAPIWrapper(DallEAPIWrapper):
     """Custom subclass of DallEAPIWrapper with additional parameters."""
 

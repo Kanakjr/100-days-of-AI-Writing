@@ -1,6 +1,6 @@
 # AI in Healthcare: Predictive Analytics
 
-![AI Predictive Analytics in Healthcare](AI-in-Healthcare:-Predictive-Analytics.png)
+![AI Predictive Analytics in Healthcare](https://raw.githubusercontent.com/Kanakjr/100-days-of-AI-Writing/main/images/AI-in-Healthcare:-Predictive-Analytics.png)
 
 The integration of Artificial Intelligence (AI) into healthcare is transforming the industry by enabling the prediction of diseases and patient outcomes with unprecedented accuracy. Predictive analytics in healthcare uses AI algorithms and machine learning models to analyze historical and real-time data to forecast future events. This technology has the potential to improve patient care, reduce costs, and enhance the overall efficiency of healthcare systems.
 

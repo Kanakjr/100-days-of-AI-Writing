@@ -10,8 +10,8 @@ import requests
 
 from langchain.cache import SQLiteCache
 from langchain.globals import set_llm_cache
-set_llm_cache(SQLiteCache(database_path=".langchain.db"))
 
+set_llm_cache(SQLiteCache(database_path=".langchain.db"))
 
 
 class CustomDallEAPIWrapper(DallEAPIWrapper):
@@ -55,38 +55,40 @@ def get_openAPI_response(text, task, OPENAI_MODEL=None, max_tokens=1000, llm=Non
     response = str(response.content)
     return response
 
+
 def save_to_md_file(topic_name, text):
     # Replace blank spaces with "-"
-    filename = topic_name.replace(' ', '-') + '.md'
+    filename = topic_name.replace(" ", "-") + ".md"
     # Create the "articles" folder if it doesn't exist
-    folder_path = 'articles'
+    folder_path = "articles"
     if not os.path.exists(folder_path):
         os.makedirs(folder_path)
     # Create and write to the Markdown file
     file_path = os.path.join(folder_path, filename)
-    with open(file_path, 'w') as file:
+    with open(file_path, "w") as file:
         file.write(f"{text}")
     print(f"File '{filename}' saved successfully in the 'articles' folder.")
     return filename
 
 
-def download_and_save_image(url,topic_name):
+def download_and_save_image(url, topic_name):
     # Create the "images" folder if it doesn't exist
-    folder_path = 'images'
+    folder_path = "images"
     if not os.path.exists(folder_path):
         os.makedirs(folder_path)
     # Get the filename from the URL
-    filename = topic_name.replace(' ', '-') + '.png'
+    filename = topic_name.replace(" ", "-") + ".png"
     # Download the image
     response = requests.get(url)
     if response.status_code == 200:
         # Save the image to the "images" folder
         file_path = os.path.join(folder_path, filename)
-        with open(file_path, 'wb') as file:
+        with open(file_path, "wb") as file:
             file.write(response.content)
 
         print(f"Image downloaded and saved successfully in the 'images' folder.")
-        return filename
+        git_file_url = os.environ.get("GIT_IMG_BASEURL") + filename
+        return git_file_url
 
     else:
         print(f"Failed to download the image. Status code: {response.status_code}")
