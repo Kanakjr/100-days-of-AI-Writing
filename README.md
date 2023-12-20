@@ -25,7 +25,10 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 5 | Multi Omics Sequencing | Genomics and Personalized Medicine | How multi omics sequencing is paving the way for personalized medical treatments. | Genomics, Personalized Medicine, Multi Omics, Healthcare | [Genomics-and-Personalized-Medicine.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Genomics-and-Personalized-Medicine.md) |
 | 6 | AI | AI and Ethics: Navigating the Future | The ethical considerations and challenges of implementing AI in various sectors. | AI, Ethics, Society, Innovation | [AI-and-Ethics:-Navigating-the-Future.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-and-Ethics:-Navigating-the-Future.md) |
 | 7 | Public Blockchain | Decentralized Finance (DeFi) Revolution | How blockchain is disrupting traditional finance with decentralized financial services. | Blockchain, DeFi, Finance, Disruption | [Decentralized-Finance-(DeFi)-Revolution.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Decentralized-Finance-(DeFi)-Revolution.md) |
+| 8 | Robotics | Robotics in Disaster Response | Utilizing robotics technology for effective disaster response and recovery operations. | Robotics, Disaster Response, Safety, Technology | [Robotics-in-Disaster-Response.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Robotics-in-Disaster-Response.md) |
 <!-- TABLE END -->
+
+
 
 
 
