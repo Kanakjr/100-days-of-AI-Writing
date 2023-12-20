@@ -24,7 +24,10 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 4 | Energy Storage | Advancements in Battery Technologies | Innovations in energy storage that are enabling the transition to renewable energy sources. | Energy Storage, Batteries, Renewable Energy, Innovation | [Advancements-in-Battery-Technologies.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Advancements-in-Battery-Technologies.md) |
 | 5 | Multi Omics Sequencing | Genomics and Personalized Medicine | How multi omics sequencing is paving the way for personalized medical treatments. | Genomics, Personalized Medicine, Multi Omics, Healthcare | [Genomics-and-Personalized-Medicine.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Genomics-and-Personalized-Medicine.md) |
 | 6 | AI | AI and Ethics: Navigating the Future | The ethical considerations and challenges of implementing AI in various sectors. | AI, Ethics, Society, Innovation | [AI-and-Ethics:-Navigating-the-Future.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-and-Ethics:-Navigating-the-Future.md) |
+| 7 | Public Blockchain | Decentralized Finance (DeFi) Revolution | How blockchain is disrupting traditional finance with decentralized financial services. | Blockchain, DeFi, Finance, Disruption | [Decentralized-Finance-(DeFi)-Revolution.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Decentralized-Finance-(DeFi)-Revolution.md) |
 <!-- TABLE END -->
+
+
 
 
 
