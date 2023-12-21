@@ -26,7 +26,13 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 6 | AI | AI and Ethics: Navigating the Future | The ethical considerations and challenges of implementing AI in various sectors. | AI, Ethics, Society, Innovation | [AI-and-Ethics:-Navigating-the-Future.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-and-Ethics:-Navigating-the-Future.md) |
 | 7 | Public Blockchain | Decentralized Finance (DeFi) Revolution | How blockchain is disrupting traditional finance with decentralized financial services. | Blockchain, DeFi, Finance, Disruption | [Decentralized-Finance-(DeFi)-Revolution.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Decentralized-Finance-(DeFi)-Revolution.md) |
 | 8 | Robotics | Robotics in Disaster Response | Utilizing robotics technology for effective disaster response and recovery operations. | Robotics, Disaster Response, Safety, Technology | [Robotics-in-Disaster-Response.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Robotics-in-Disaster-Response.md) |
+| 9 | Energy Storage | Grid-Scale Energy Storage Solutions | Emerging technologies in large-scale energy storage that stabilize and enhance the electric grid. | Energy Storage, Grid, Electricity, Innovation | [Grid-Scale-Energy-Storage-Solutions.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Grid-Scale-Energy-Storage-Solutions.md) |
+| 10 | Multi Omics Sequencing | The Role of Proteomics in Disease Research | Exploring the impact of proteomics in understanding diseases and developing new treatments. | Proteomics, Disease Research, Multi Omics, Healthcare | [The-Role-of-Proteomics-in-Disease-Research.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/The-Role-of-Proteomics-in-Disease-Research.md) |
 <!-- TABLE END -->
+
+
+
+
 
 
 
