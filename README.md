@@ -34,7 +34,11 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 14 | Energy Storage | Solar Energy Storage Systems | Innovative storage solutions to maximize the use of solar energy. | Energy Storage, Solar Energy, Renewables, Sustainability | [Solar-Energy-Storage-Systems.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Solar-Energy-Storage-Systems.md) |
 | 15 | Multi Omics Sequencing | Cancer Genomics and Treatment | How sequencing is transforming cancer diagnosis and personalized treatment plans. | Cancer, Genomics, Personalized Medicine, Treatment | [Cancer-Genomics-and-Treatment.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Cancer-Genomics-and-Treatment.md) |
 | 16 | AI | AI in Autonomous Vehicles | The role of AI in the development of self-driving cars. | AI, Autonomous Vehicles, Transportation, Safety | [AI-in-Autonomous-Vehicles.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-in-Autonomous-Vehicles.md) |
+| 17 | Public Blockchain | Tokenization of Assets | How blockchain enables the digital representation of real-world assets. | Blockchain, Tokenization, Assets, Digital Economy | [Tokenization-of-Assets.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Tokenization-of-Assets.md) |
+| 18 | Robotics | Collaborative Robots in SMEs | The impact of cobots in small and medium-sized enterprises. | Robotics, Cobots, SMEs, Collaboration | [Collaborative-Robots-in-SMEs.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Collaborative-Robots-in-SMEs.md) |
 <!-- TABLE END -->
+
+
 
 
 
