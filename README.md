@@ -36,7 +36,10 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 16 | AI | AI in Autonomous Vehicles | The role of AI in the development of self-driving cars. | AI, Autonomous Vehicles, Transportation, Safety | [AI-in-Autonomous-Vehicles.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-in-Autonomous-Vehicles.md) |
 | 17 | Public Blockchain | Tokenization of Assets | How blockchain enables the digital representation of real-world assets. | Blockchain, Tokenization, Assets, Digital Economy | [Tokenization-of-Assets.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Tokenization-of-Assets.md) |
 | 18 | Robotics | Collaborative Robots in SMEs | The impact of cobots in small and medium-sized enterprises. | Robotics, Cobots, SMEs, Collaboration | [Collaborative-Robots-in-SMEs.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Collaborative-Robots-in-SMEs.md) |
+| 19 | Energy Storage | Next-Generation Nuclear Batteries | Developing long-lasting and safe nuclear battery technology. | Energy Storage, Nuclear Batteries, Innovation, Safety | [Next-Generation-Nuclear-Batteries.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Next-Generation-Nuclear-Batteries.md) |
 <!-- TABLE END -->
+
+
 
 
 
