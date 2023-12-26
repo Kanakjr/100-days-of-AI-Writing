@@ -28,7 +28,25 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 8 | Robotics | Robotics in Disaster Response | Utilizing robotics technology for effective disaster response and recovery operations. | Robotics, Disaster Response, Safety, Technology | [Robotics-in-Disaster-Response.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Robotics-in-Disaster-Response.md) |
 | 9 | Energy Storage | Grid-Scale Energy Storage Solutions | Emerging technologies in large-scale energy storage that stabilize and enhance the electric grid. | Energy Storage, Grid, Electricity, Innovation | [Grid-Scale-Energy-Storage-Solutions.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Grid-Scale-Energy-Storage-Solutions.md) |
 | 10 | Multi Omics Sequencing | The Role of Proteomics in Disease Research | Exploring the impact of proteomics in understanding diseases and developing new treatments. | Proteomics, Disease Research, Multi Omics, Healthcare | [The-Role-of-Proteomics-in-Disease-Research.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/The-Role-of-Proteomics-in-Disease-Research.md) |
+| 11 | AI | Natural Language Processing Advances | Improvements in NLP enabling more human-like interactions with AI systems. | AI, NLP, Machine Learning, Communication | [Natural-Language-Processing-Advances.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Natural-Language-Processing-Advances.md) |
+| 12 | Public Blockchain | Smart Contracts in Real Estate | Using blockchain to automate and secure real estate transactions. | Blockchain, Smart Contracts, Real Estate, Automation | [Smart-Contracts-in-Real-Estate.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Smart-Contracts-in-Real-Estate.md) |
+| 13 | Robotics | Exoskeletons for Rehabilitation | Robotic exoskeletons aiding in physical therapy and rehabilitation. | Robotics, Exoskeletons, Rehabilitation, Healthcare | [Exoskeletons-for-Rehabilitation.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Exoskeletons-for-Rehabilitation.md) |
+| 14 | Energy Storage | Solar Energy Storage Systems | Innovative storage solutions to maximize the use of solar energy. | Energy Storage, Solar Energy, Renewables, Sustainability | [Solar-Energy-Storage-Systems.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Solar-Energy-Storage-Systems.md) |
+| 15 | Multi Omics Sequencing | Cancer Genomics and Treatment | How sequencing is transforming cancer diagnosis and personalized treatment plans. | Cancer, Genomics, Personalized Medicine, Treatment | [Cancer-Genomics-and-Treatment.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Cancer-Genomics-and-Treatment.md) |
+| 16 | AI | AI in Autonomous Vehicles | The role of AI in the development of self-driving cars. | AI, Autonomous Vehicles, Transportation, Safety | [AI-in-Autonomous-Vehicles.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-in-Autonomous-Vehicles.md) |
 <!-- TABLE END -->
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
