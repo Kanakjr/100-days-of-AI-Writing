@@ -38,7 +38,10 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 18 | Robotics | Collaborative Robots in SMEs | The impact of cobots in small and medium-sized enterprises. | Robotics, Cobots, SMEs, Collaboration | [Collaborative-Robots-in-SMEs.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Collaborative-Robots-in-SMEs.md) |
 | 19 | Energy Storage | Next-Generation Nuclear Batteries | Developing long-lasting and safe nuclear battery technology. | Energy Storage, Nuclear Batteries, Innovation, Safety | [Next-Generation-Nuclear-Batteries.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Next-Generation-Nuclear-Batteries.md) |
 | 20 | Multi Omics Sequencing | Multi-Omics for Aging Research | Using multi-omics approaches to understand and treat age-related diseases. | Aging, Multi Omics, Research, Longevity | [Multi-Omics-for-Aging-Research.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Multi-Omics-for-Aging-Research.md) |
+| 21 | AI | AI-Driven Cybersecurity | Leveraging AI to enhance cybersecurity measures and threat detection. | AI, Cybersecurity, Threat Detection, Technology | [AI-Driven-Cybersecurity.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-Driven-Cybersecurity.md) |
 <!-- TABLE END -->
+
+
 
 
 
