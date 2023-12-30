@@ -40,7 +40,10 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 20 | Multi Omics Sequencing | Multi-Omics for Aging Research | Using multi-omics approaches to understand and treat age-related diseases. | Aging, Multi Omics, Research, Longevity | [Multi-Omics-for-Aging-Research.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Multi-Omics-for-Aging-Research.md) |
 | 21 | AI | AI-Driven Cybersecurity | Leveraging AI to enhance cybersecurity measures and threat detection. | AI, Cybersecurity, Threat Detection, Technology | [AI-Driven-Cybersecurity.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-Driven-Cybersecurity.md) |
 | 22 | Public Blockchain | Blockchain in Supply Chain Transparency | Improving supply chain management with blockchain for transparency and traceability. | Blockchain, Supply Chain, Transparency, Efficiency | [Blockchain-in-Supply-Chain-Transparency.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-in-Supply-Chain-Transparency.md) |
+| 23 | Robotics | Underwater Robotics for Ocean Exploration | Advancements in robotics for deep-sea exploration and research. | Robotics, Underwater, Ocean Exploration, Research | [Underwater-Robotics-for-Ocean-Exploration.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Underwater-Robotics-for-Ocean-Exploration.md) |
 <!-- TABLE END -->
+
+
 
 
 
