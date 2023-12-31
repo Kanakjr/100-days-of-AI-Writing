@@ -41,7 +41,10 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 21 | AI | AI-Driven Cybersecurity | Leveraging AI to enhance cybersecurity measures and threat detection. | AI, Cybersecurity, Threat Detection, Technology | [AI-Driven-Cybersecurity.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-Driven-Cybersecurity.md) |
 | 22 | Public Blockchain | Blockchain in Supply Chain Transparency | Improving supply chain management with blockchain for transparency and traceability. | Blockchain, Supply Chain, Transparency, Efficiency | [Blockchain-in-Supply-Chain-Transparency.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-in-Supply-Chain-Transparency.md) |
 | 23 | Robotics | Underwater Robotics for Ocean Exploration | Advancements in robotics for deep-sea exploration and research. | Robotics, Underwater, Ocean Exploration, Research | [Underwater-Robotics-for-Ocean-Exploration.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Underwater-Robotics-for-Ocean-Exploration.md) |
+| 24 | Energy Storage | Flywheel Energy Storage Systems | Exploring the potential of flywheel technology for energy storage. | Energy Storage, Flywheel, Innovation, Efficiency | [Flywheel-Energy-Storage-Systems.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Flywheel-Energy-Storage-Systems.md) |
 <!-- TABLE END -->
+
+
 
 
 
