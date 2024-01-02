@@ -43,7 +43,10 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 23 | Robotics | Underwater Robotics for Ocean Exploration | Advancements in robotics for deep-sea exploration and research. | Robotics, Underwater, Ocean Exploration, Research | [Underwater-Robotics-for-Ocean-Exploration.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Underwater-Robotics-for-Ocean-Exploration.md) |
 | 24 | Energy Storage | Flywheel Energy Storage Systems | Exploring the potential of flywheel technology for energy storage. | Energy Storage, Flywheel, Innovation, Efficiency | [Flywheel-Energy-Storage-Systems.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Flywheel-Energy-Storage-Systems.md) |
 | 25 | Multi Omics Sequencing | Neurogenomics and Brain Health | Studying the genome's role in brain health and neurological diseases. | Neurogenomics, Brain Health, Multi Omics, Neuroscience | [Neurogenomics-and-Brain-Health.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Neurogenomics-and-Brain-Health.md) |
+| 26 | AI | AI in Precision Agriculture | Using AI to optimize farming practices and increase crop yields. | AI, Agriculture, Precision Farming, Sustainability | [AI-in-Precision-Agriculture.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-in-Precision-Agriculture.md) |
 <!-- TABLE END -->
+
+
 
 
 
