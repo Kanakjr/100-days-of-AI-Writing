@@ -45,7 +45,10 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 25 | Multi Omics Sequencing | Neurogenomics and Brain Health | Studying the genome's role in brain health and neurological diseases. | Neurogenomics, Brain Health, Multi Omics, Neuroscience | [Neurogenomics-and-Brain-Health.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Neurogenomics-and-Brain-Health.md) |
 | 26 | AI | AI in Precision Agriculture | Using AI to optimize farming practices and increase crop yields. | AI, Agriculture, Precision Farming, Sustainability | [AI-in-Precision-Agriculture.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-in-Precision-Agriculture.md) |
 | 27 | Public Blockchain | Blockchain for Intellectual Property | Protecting IP rights through immutable blockchain records. | Blockchain, Intellectual Property, Rights Management, Legal Tech | [Blockchain-for-Intellectual-Property.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-for-Intellectual-Property.md) |
+| 28 | Robotics | Robotic Process Automation (RPA) in Finance | Implementing RPA to streamline financial operations and reduce errors. | Robotics, RPA, Finance, Automation | [Robotic-Process-Automation-(RPA)-in-Finance.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Robotic-Process-Automation-(RPA)-in-Finance.md) |
 <!-- TABLE END -->
+
+
 
 
 
