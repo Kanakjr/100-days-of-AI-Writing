@@ -48,7 +48,10 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 28 | Robotics | Robotic Process Automation (RPA) in Finance | Implementing RPA to streamline financial operations and reduce errors. | Robotics, RPA, Finance, Automation | [Robotic-Process-Automation-(RPA)-in-Finance.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Robotic-Process-Automation-(RPA)-in-Finance.md) |
 | 29 | Energy Storage | Hydrogen Fuel Cells for Energy Storage | The role of hydrogen fuel cells in clean energy storage solutions. | Energy Storage, Hydrogen, Fuel Cells, Clean Energy | [Hydrogen-Fuel-Cells-for-Energy-Storage.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Hydrogen-Fuel-Cells-for-Energy-Storage.md) |
 | 30 | Multi Omics Sequencing | Epigenomics and Disease Prevention | Investigating how epigenetic changes influence disease and can be used for prevention. | Epigenomics, Disease Prevention, Multi Omics, Healthcare | [Epigenomics-and-Disease-Prevention.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Epigenomics-and-Disease-Prevention.md) |
+| 31 | AI | AI in Drug Discovery and Development | Accelerating pharmaceutical research with AI-driven drug discovery. | AI, Drug Discovery, Pharmaceuticals, Innovation | [AI-in-Drug-Discovery-and-Development.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-in-Drug-Discovery-and-Development.md) |
 <!-- TABLE END -->
+
+
 
 
 
