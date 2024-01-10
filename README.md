@@ -50,7 +50,10 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 30 | Multi Omics Sequencing | Epigenomics and Disease Prevention | Investigating how epigenetic changes influence disease and can be used for prevention. | Epigenomics, Disease Prevention, Multi Omics, Healthcare | [Epigenomics-and-Disease-Prevention.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Epigenomics-and-Disease-Prevention.md) |
 | 31 | AI | AI in Drug Discovery and Development | Accelerating pharmaceutical research with AI-driven drug discovery. | AI, Drug Discovery, Pharmaceuticals, Innovation | [AI-in-Drug-Discovery-and-Development.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-in-Drug-Discovery-and-Development.md) |
 | 32 | Public Blockchain | Decentralized Autonomous Organizations (DAOs) | The rise and function of DAOs in the blockchain ecosystem. | Blockchain, DAOs, Decentralization, Governance | [Decentralized-Autonomous-Organizations-(DAOs).md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Decentralized-Autonomous-Organizations-(DAOs).md) |
+| 33 | Robotics | Space Robotics for Extraterrestrial Exploration | Developing robots for missions to other planets and celestial bodies. | Robotics, Space, Exploration, Extraterrestrial | [Space-Robotics-for-Extraterrestrial-Exploration.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Space-Robotics-for-Extraterrestrial-Exploration.md) |
 <!-- TABLE END -->
+
+
 
 
 
