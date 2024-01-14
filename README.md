@@ -54,7 +54,10 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 34 | Energy Storage | Thermal Energy Storage Systems | Innovations in storing energy as heat for later use. | Energy Storage, Thermal Energy, Innovation, Sustainability | [Thermal-Energy-Storage-Systems.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Thermal-Energy-Storage-Systems.md) |
 | 35 | Multi Omics Sequencing | The Microbiome and Human Health | Exploring the relationship between the microbiome and overall health. | Microbiome, Human Health, Multi Omics, Research | [The-Microbiome-and-Human-Health.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/The-Microbiome-and-Human-Health.md) |
 | 36 | AI | AI for Climate Change Predictions | Utilizing AI to model and predict climate change impacts. | AI, Climate Change, Predictions, Environmental Science | [AI-for-Climate-Change-Predictions.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-for-Climate-Change-Predictions.md) |
+| 37 | Public Blockchain | Cryptocurrency and Financial Inclusion | How cryptocurrencies can provide financial services to the unbanked population. | Blockchain, Cryptocurrency, Financial Inclusion, Economy | [Cryptocurrency-and-Financial-Inclusion.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Cryptocurrency-and-Financial-Inclusion.md) |
 <!-- TABLE END -->
+
+
 
 
 
