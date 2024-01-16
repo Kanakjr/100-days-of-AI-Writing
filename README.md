@@ -56,7 +56,10 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 36 | AI | AI for Climate Change Predictions | Utilizing AI to model and predict climate change impacts. | AI, Climate Change, Predictions, Environmental Science | [AI-for-Climate-Change-Predictions.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-for-Climate-Change-Predictions.md) |
 | 37 | Public Blockchain | Cryptocurrency and Financial Inclusion | How cryptocurrencies can provide financial services to the unbanked population. | Blockchain, Cryptocurrency, Financial Inclusion, Economy | [Cryptocurrency-and-Financial-Inclusion.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Cryptocurrency-and-Financial-Inclusion.md) |
 | 38 | Robotics | Agricultural Robots for Sustainable Farming | Robots that assist in creating more sustainable and efficient farming practices. | Robotics, Agriculture, Sustainability, Efficiency | [Agricultural-Robots-for-Sustainable-Farming.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Agricultural-Robots-for-Sustainable-Farming.md) |
+| 39 | Energy Storage | Mechanical Energy Storage Innovations | Exploring new mechanical systems for storing energy. | Energy Storage, Mechanical, Innovation, Technology | [Mechanical-Energy-Storage-Innovations.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Mechanical-Energy-Storage-Innovations.md) |
 <!-- TABLE END -->
+
+
 
 
 
