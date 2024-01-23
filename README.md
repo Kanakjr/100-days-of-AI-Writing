@@ -63,7 +63,10 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 43 | Robotics | Robots in Elderly Care | The use of robotics to support the care and independence of the elderly. | Robotics, Elderly Care, Healthcare, Assistance | [Robots-in-Elderly-Care.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Robots-in-Elderly-Care.md) |
 | 44 | Energy Storage | Capacitive Energy Storage Technology | Advances in capacitors for high-density energy storage applications. | Energy Storage, Capacitors, High-Density, Technology | [Capacitive-Energy-Storage-Technology.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Capacitive-Energy-Storage-Technology.md) |
 | 45 | Multi Omics Sequencing | Functional Genomics in Drug Resistance | Studying gene functions to combat drug resistance in diseases. | Functional Genomics, Drug Resistance, Multi Omics, Pharmaceuticals | [Functional-Genomics-in-Drug-Resistance.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Functional-Genomics-in-Drug-Resistance.md) |
+| 46 | AI | AI-Enhanced Predictive Maintenance | Using AI to predict equipment failures and schedule timely maintenance. | AI, Predictive Maintenance, Industry, Efficiency | [AI-Enhanced-Predictive-Maintenance.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-Enhanced-Predictive-Maintenance.md) |
 <!-- TABLE END -->
+
+
 
 
 
