@@ -65,7 +65,10 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 45 | Multi Omics Sequencing | Functional Genomics in Drug Resistance | Studying gene functions to combat drug resistance in diseases. | Functional Genomics, Drug Resistance, Multi Omics, Pharmaceuticals | [Functional-Genomics-in-Drug-Resistance.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Functional-Genomics-in-Drug-Resistance.md) |
 | 46 | AI | AI-Enhanced Predictive Maintenance | Using AI to predict equipment failures and schedule timely maintenance. | AI, Predictive Maintenance, Industry, Efficiency | [AI-Enhanced-Predictive-Maintenance.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-Enhanced-Predictive-Maintenance.md) |
 | 47 | Public Blockchain | Blockchain in Digital Content Rights Management | Protecting creators' rights and managing digital content distribution with blockchain. | Blockchain, Content Rights, Digital Media, Copyright | [Blockchain-in-Digital-Content-Rights-Management.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-in-Digital-Content-Rights-Management.md) |
+| 48 | Robotics | Humanoid Robots and Social Interaction | Developing humanoid robots for social interaction and assistance. | Robotics, Humanoid Robots, Social Interaction, AI | [Humanoid-Robots-and-Social-Interaction.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Humanoid-Robots-and-Social-Interaction.md) |
 <!-- TABLE END -->
+
+
 
 
 
