@@ -73,7 +73,10 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 53 | Robotics | Robots for Personal Assistance | Development of robots to aid in daily tasks for individuals. | Robotics, Personal Assistance, AI, Daily Living | [Robots-for-Personal-Assistance.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Robots-for-Personal-Assistance.md) |
 | 54 | Energy Storage | Wireless Energy Transfer Systems | Innovative methods for transferring energy wirelessly. | Energy Storage, Wireless, Energy Transfer, Technology | [Wireless-Energy-Transfer-Systems.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Wireless-Energy-Transfer-Systems.md) |
 | 55 | Multi Omics Sequencing | Metabolomics in Nutritional Science | Using metabolomics to understand the effects of diet on health. | Metabolomics, Nutrition, Multi Omics, Health Science | [Metabolomics-in-Nutritional-Science.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Metabolomics-in-Nutritional-Science.md) |
+| 56 | AI | AI in Weather Forecasting | Enhancing the accuracy of weather predictions with AI technologies. | AI, Weather Forecasting, Predictive Analytics, Meteorology | [AI-in-Weather-Forecasting.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-in-Weather-Forecasting.md) |
 <!-- TABLE END -->
+
+
 
 
 
