@@ -77,7 +77,10 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 57 | Public Blockchain | Blockchain for Renewable Energy Certificates | Tracking and trading renewable energy certificates on the blockchain. | Blockchain, Renewable Energy, Certificates, Trading | [Blockchain-for-Renewable-Energy-Certificates.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-for-Renewable-Energy-Certificates.md) |
 | 58 | Robotics | Industrial Inspection Drones | Using drones for automated inspection in industrial settings. | Robotics, Drones, Industrial Inspection, Automation | [Industrial-Inspection-Drones.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Industrial-Inspection-Drones.md) |
 | 59 | Energy Storage | Solid-State Batteries | Development of solid-state batteries for improved safety and performance. | Energy Storage, Solid-State Batteries, Innovation, Performance | [Solid-State-Batteries.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Solid-State-Batteries.md) |
+| 60 | Multi Omics Sequencing | Transcriptomics in Developmental Biology | Studying RNA transcripts to understand organism development. | Transcriptomics, Developmental Biology, Multi Omics, Genetics | [Transcriptomics-in-Developmental-Biology.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Transcriptomics-in-Developmental-Biology.md) |
 <!-- TABLE END -->
+
+
 
 
 
