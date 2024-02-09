@@ -79,7 +79,10 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 59 | Energy Storage | Solid-State Batteries | Development of solid-state batteries for improved safety and performance. | Energy Storage, Solid-State Batteries, Innovation, Performance | [Solid-State-Batteries.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Solid-State-Batteries.md) |
 | 60 | Multi Omics Sequencing | Transcriptomics in Developmental Biology | Studying RNA transcripts to understand organism development. | Transcriptomics, Developmental Biology, Multi Omics, Genetics | [Transcriptomics-in-Developmental-Biology.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Transcriptomics-in-Developmental-Biology.md) |
 | 61 | AI | AI for Real-Time Language Translation | Real-time translation services powered by artificial intelligence. | AI, Language Translation, Real-Time, Communication | [AI-for-Real-Time-Language-Translation.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-for-Real-Time-Language-Translation.md) |
+| 62 | Public Blockchain | Blockchain in Charity and Donations | Increasing transparency in charitable donations with blockchain. | Blockchain, Charity, Donations, Transparency | [Blockchain-in-Charity-and-Donations.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-in-Charity-and-Donations.md) |
 <!-- TABLE END -->
+
+
 
 
 
