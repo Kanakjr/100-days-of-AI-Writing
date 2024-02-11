@@ -81,7 +81,10 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 61 | AI | AI for Real-Time Language Translation | Real-time translation services powered by artificial intelligence. | AI, Language Translation, Real-Time, Communication | [AI-for-Real-Time-Language-Translation.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-for-Real-Time-Language-Translation.md) |
 | 62 | Public Blockchain | Blockchain in Charity and Donations | Increasing transparency in charitable donations with blockchain. | Blockchain, Charity, Donations, Transparency | [Blockchain-in-Charity-and-Donations.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-in-Charity-and-Donations.md) |
 | 63 | Robotics | Search and Rescue Robots | Robots designed to assist in search and rescue operations. | Robotics, Search and Rescue, Safety, Emergency Services | [Search-and-Rescue-Robots.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Search-and-Rescue-Robots.md) |
+| 64 | Energy Storage | Bio-inspired Energy Storage Technology | Energy storage solutions inspired by biological systems. | Energy Storage, Bio-inspired, Innovation, Biomimicry | [Bio-inspired-Energy-Storage-Technology.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Bio-inspired-Energy-Storage-Technology.md) |
 <!-- TABLE END -->
+
+
 
 
 
