@@ -84,7 +84,10 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 64 | Energy Storage | Bio-inspired Energy Storage Technology | Energy storage solutions inspired by biological systems. | Energy Storage, Bio-inspired, Innovation, Biomimicry | [Bio-inspired-Energy-Storage-Technology.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Bio-inspired-Energy-Storage-Technology.md) |
 | 65 | Multi Omics Sequencing | Genome Editing and CRISPR Technology | The impact of CRISPR and genome editing on genetic research. | Genome Editing, CRISPR, Multi Omics, Biotechnology | [Genome-Editing-and-CRISPR-Technology.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Genome-Editing-and-CRISPR-Technology.md) |
 | 66 | AI | AI in Content Creation | Automated content generation using AI for various media. | AI, Content Creation, Automation, Media | [AI-in-Content-Creation.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-in-Content-Creation.md) |
+| 67 | Public Blockchain | Blockchain for Academic Credentials | Secure storage and verification of academic credentials on the blockchain. | Blockchain, Academic Credentials, Education, Verification | [Blockchain-for-Academic-Credentials.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-for-Academic-Credentials.md) |
 <!-- TABLE END -->
+
+
 
 
 
