@@ -86,7 +86,10 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 66 | AI | AI in Content Creation | Automated content generation using AI for various media. | AI, Content Creation, Automation, Media | [AI-in-Content-Creation.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-in-Content-Creation.md) |
 | 67 | Public Blockchain | Blockchain for Academic Credentials | Secure storage and verification of academic credentials on the blockchain. | Blockchain, Academic Credentials, Education, Verification | [Blockchain-for-Academic-Credentials.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-for-Academic-Credentials.md) |
 | 68 | Robotics | Robotic Surgery Systems | Advancements in robotic systems for performing surgical procedures. | Robotics, Robotic Surgery, Healthcare, Precision | [Robotic-Surgery-Systems.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Robotic-Surgery-Systems.md) |
+| 69 | Energy Storage | Quantum Battery Technology | Exploring the potential of quantum physics in energy storage. | Energy Storage, Quantum Batteries, Innovation, Physics | [Quantum-Battery-Technology.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Quantum-Battery-Technology.md) |
 <!-- TABLE END -->
+
+
 
 
 
