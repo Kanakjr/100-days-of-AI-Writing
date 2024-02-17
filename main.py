@@ -10,7 +10,7 @@ from utils import update_csv, git_add_and_push
 
 load_dotenv('./.env')
 
-def main():    
+def main(csv_filename="topics.csv"):    
     with open(csv_filename, "r") as csv_file:
         reader = csv.DictReader(csv_file)
         topics = list(reader)
@@ -43,7 +43,7 @@ def main():
 
 
 if __name__ == "__main__":
-    csv_filename = "topics.csv"
     main()
+    print("Sleeping for 15 seconds before posting to Medium")
     time.sleep(15)
     main_medium()

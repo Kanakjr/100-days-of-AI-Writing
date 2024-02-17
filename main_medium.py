@@ -6,7 +6,7 @@ from utils import update_csv, git_add_and_push
 
 load_dotenv('./.env')
 
-def main_medium():    
+def main_medium(csv_filename="topics.csv"):    
     with open(csv_filename, "r") as csv_file:
         reader = csv.DictReader(csv_file)
         topics = list(reader)
@@ -43,5 +43,4 @@ def main_medium():
 
 
 if __name__ == "__main__":
-    csv_filename = "topics.csv"
     main_medium()
