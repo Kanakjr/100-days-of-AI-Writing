@@ -2,9 +2,10 @@ import csv
 import subprocess
 from datetime import datetime
 from article import generate_article
-from utils import get_llm
+from utils import get_llm, check_if_md_file_exists
 from dotenv import load_dotenv
 import os
+from medium import post_to_medium
 
 load_dotenv('./.env')
 
@@ -77,11 +78,15 @@ def main():
             selected_topic = topic
             break
 
-    # Generate the article
-    print(f"Processing: {selected_topic['Name']}")
-    md_filename = generate_article(
-        selected_topic["Name"], selected_topic["Description"], llm=get_llm()
-    )
+    md_filename = check_if_md_file_exists(selected_topic["Name"])
+    if md_filename:
+        print(f"Article for '{selected_topic['Name']}' already exists.")
+    else:
+        # Generate the article
+        print(f"Processing: {selected_topic['Name']}")
+        md_filename = generate_article(
+            selected_topic["Name"], selected_topic["Description"], llm=get_llm()
+        )
 
     # Update the CSV with the .md file location
     update_csv(csv_filename, int(selected_topic["Sr.No"]), md_filename)

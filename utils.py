@@ -70,6 +70,20 @@ def save_to_md_file(topic_name, text):
     print(f"File '{filename}' saved successfully in the 'articles' folder.")
     return filename
 
+def check_if_md_file_exists(topic_name):
+    # Replace blank spaces with "-"
+    filename = topic_name.replace(" ", "-") + ".md"
+    # Create the "articles" folder if it doesn't exist
+    folder_path = "articles"
+    if not os.path.exists(folder_path):
+        os.makedirs(folder_path)
+    # Create and write to the Markdown file
+    file_path = os.path.join(folder_path, filename)
+    if os.path.exists(file_path):
+        return filename
+    else:
+        None
+
 
 def download_and_save_image(url, topic_name):
     # Create the "images" folder if it doesn't exist
