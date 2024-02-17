@@ -19,8 +19,8 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | Sr.No | Category | Name | Description | Medium | Link |
 |-------|----------|------|-------------|------|------|
 | 1 | AI | AI in Healthcare: Predictive Analytics | How AI is revolutionizing healthcare by predicting diseases and patient outcomes. | https://medium.com/@kanakjr/ai-in-healthcare-predictive-analytics-2265b1bb2a8c | [AI-in-Healthcare:-Predictive-Analytics.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-in-Healthcare:-Predictive-Analytics.md) |
-| 2 | Public Blockchain | Blockchain for Voting Systems | Exploring the potential of blockchain technology to create secure and transparent voting systems. |  | [Blockchain-for-Voting-Systems.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-for-Voting-Systems.md) |
-| 3 | Robotics | Autonomous Robots in Manufacturing | The rise of autonomous robots and their impact on efficiency and safety in manufacturing. |  | [Autonomous-Robots-in-Manufacturing.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Autonomous-Robots-in-Manufacturing.md) |
+| 2 | Public Blockchain | Blockchain for Voting Systems | Exploring the potential of blockchain technology to create secure and transparent voting systems. | https://medium.com/@kanakjr/blockchain-for-voting-systems-de6ea3cce733 | [Blockchain-for-Voting-Systems.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-for-Voting-Systems.md) |
+| 3 | Robotics | Autonomous Robots in Manufacturing | The rise of autonomous robots and their impact on efficiency and safety in manufacturing. | https://medium.com/@kanakjr/autonomous-robots-in-manufacturing-84d420112858 | [Autonomous-Robots-in-Manufacturing.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Autonomous-Robots-in-Manufacturing.md) |
 | 4 | Energy Storage | Advancements in Battery Technologies | Innovations in energy storage that are enabling the transition to renewable energy sources. |  | [Advancements-in-Battery-Technologies.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Advancements-in-Battery-Technologies.md) |
 | 5 | Multi Omics Sequencing | Genomics and Personalized Medicine | How multi omics sequencing is paving the way for personalized medical treatments. |  | [Genomics-and-Personalized-Medicine.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Genomics-and-Personalized-Medicine.md) |
 | 6 | AI | AI and Ethics: Navigating the Future | The ethical considerations and challenges of implementing AI in various sectors. |  | [AI-and-Ethics:-Navigating-the-Future.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-and-Ethics:-Navigating-the-Future.md) |
@@ -90,6 +90,10 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 70 | Multi Omics Sequencing | Proteomics in Biomarker Discovery | Using proteomics to discover new biomarkers for diseases. |  | [Proteomics-in-Biomarker-Discovery.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Proteomics-in-Biomarker-Discovery.md) |
 | 71 | AI | AI in E-commerce Optimization | Using AI to optimize e-commerce platforms for better user experiences. |  | [AI-in-E-commerce-Optimization.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-in-E-commerce-Optimization.md) |
 <!-- TABLE END -->
+
+
+
+
 
 
 

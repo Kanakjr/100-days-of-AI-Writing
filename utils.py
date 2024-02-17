@@ -1,13 +1,14 @@
 from langchain.chat_models import ChatOpenAI
 from langchain.schema import HumanMessage
 from langchain.utilities.dalle_image_generator import DallEAPIWrapper
-from langchain.prompts import PromptTemplate
-from langchain.chains import LLMChain
 
 import os
-import json
 import requests
 import csv
+
+import subprocess
+from datetime import datetime
+
 
 from langchain.cache import SQLiteCache
 from langchain.globals import set_llm_cache
@@ -146,3 +147,22 @@ def update_readme_from_csv(readme_file, csv_file):
     # Write the updated content back to README
     with open(readme_file, 'w', encoding='utf-8') as readme:
         readme.write(updated_readme_content)
+
+def update_csv(csv_filename, row_index, md_filename, medium_url=''):
+    # Update the CSV file with the .md file location in the "Link" column
+    with open(csv_filename, "r") as csv_file:
+        data = list(csv.reader(csv_file))
+
+    data[row_index][data[0].index("Link")] = md_filename
+    data[row_index][data[0].index("Medium")] = medium_url
+
+    with open(csv_filename, "w", newline="") as csv_file:
+        writer = csv.writer(csv_file)
+        writer.writerows(data)
+
+
+def git_add_and_push(topic):
+    # Git add and push
+    subprocess.run(["git", "add", "."])
+    subprocess.run(["git", "commit", "-m", f"Added {topic} article"])
+    subprocess.run(["git", "push"])
