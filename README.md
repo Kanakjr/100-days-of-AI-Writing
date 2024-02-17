@@ -89,7 +89,10 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 69 | Energy Storage | Quantum Battery Technology | Exploring the potential of quantum physics in energy storage. |  | [Quantum-Battery-Technology.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Quantum-Battery-Technology.md) |
 | 70 | Multi Omics Sequencing | Proteomics in Biomarker Discovery | Using proteomics to discover new biomarkers for diseases. |  | [Proteomics-in-Biomarker-Discovery.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Proteomics-in-Biomarker-Discovery.md) |
 | 71 | AI | AI in E-commerce Optimization | Using AI to optimize e-commerce platforms for better user experiences. |  | [AI-in-E-commerce-Optimization.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-in-E-commerce-Optimization.md) |
+| 72 | Public Blockchain | Blockchain for Gaming and Virtual Goods | Implementing blockchain for secure transactions in gaming and virtual goods. |  | [Blockchain-for-Gaming-and-Virtual-Goods.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-for-Gaming-and-Virtual-Goods.md) |
 <!-- TABLE END -->
+
+
 
 
 
