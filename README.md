@@ -21,7 +21,7 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 1 | AI | AI in Healthcare: Predictive Analytics | How AI is revolutionizing healthcare by predicting diseases and patient outcomes. | https://medium.com/@kanakjr/ai-in-healthcare-predictive-analytics-2265b1bb2a8c | [AI-in-Healthcare:-Predictive-Analytics.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-in-Healthcare:-Predictive-Analytics.md) |
 | 2 | Public Blockchain | Blockchain for Voting Systems | Exploring the potential of blockchain technology to create secure and transparent voting systems. | https://medium.com/@kanakjr/blockchain-for-voting-systems-de6ea3cce733 | [Blockchain-for-Voting-Systems.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-for-Voting-Systems.md) |
 | 3 | Robotics | Autonomous Robots in Manufacturing | The rise of autonomous robots and their impact on efficiency and safety in manufacturing. | https://medium.com/@kanakjr/autonomous-robots-in-manufacturing-84d420112858 | [Autonomous-Robots-in-Manufacturing.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Autonomous-Robots-in-Manufacturing.md) |
-| 4 | Energy Storage | Advancements in Battery Technologies | Innovations in energy storage that are enabling the transition to renewable energy sources. |  | [Advancements-in-Battery-Technologies.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Advancements-in-Battery-Technologies.md) |
+| 4 | Energy Storage | Advancements in Battery Technologies | Innovations in energy storage that are enabling the transition to renewable energy sources. | https://medium.com/@kanakjr/advancements-in-battery-technologies-34a129ed6c3f | [Advancements-in-Battery-Technologies.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Advancements-in-Battery-Technologies.md) |
 | 5 | Multi Omics Sequencing | Genomics and Personalized Medicine | How multi omics sequencing is paving the way for personalized medical treatments. |  | [Genomics-and-Personalized-Medicine.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Genomics-and-Personalized-Medicine.md) |
 | 6 | AI | AI and Ethics: Navigating the Future | The ethical considerations and challenges of implementing AI in various sectors. |  | [AI-and-Ethics:-Navigating-the-Future.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-and-Ethics:-Navigating-the-Future.md) |
 | 7 | Public Blockchain | Decentralized Finance (DeFi) Revolution | How blockchain is disrupting traditional finance with decentralized financial services. |  | [Decentralized-Finance-(DeFi)-Revolution.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Decentralized-Finance-(DeFi)-Revolution.md) |
@@ -92,6 +92,8 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 72 | Public Blockchain | Blockchain for Gaming and Virtual Goods | Implementing blockchain for secure transactions in gaming and virtual goods. |  | [Blockchain-for-Gaming-and-Virtual-Goods.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-for-Gaming-and-Virtual-Goods.md) |
 | 73 | Robotics | Educational Robots for STEM | Robots designed to enhance STEM education for students. |  | [Educational-Robots-for-STEM.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Educational-Robots-for-STEM.md) |
 <!-- TABLE END -->
+
+
 
 
 
