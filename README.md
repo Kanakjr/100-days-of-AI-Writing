@@ -22,7 +22,7 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 2 | Public Blockchain | Blockchain for Voting Systems | Exploring the potential of blockchain technology to create secure and transparent voting systems. | https://medium.com/@kanakjr/blockchain-for-voting-systems-de6ea3cce733 | [Blockchain-for-Voting-Systems.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-for-Voting-Systems.md) |
 | 3 | Robotics | Autonomous Robots in Manufacturing | The rise of autonomous robots and their impact on efficiency and safety in manufacturing. | https://medium.com/@kanakjr/autonomous-robots-in-manufacturing-84d420112858 | [Autonomous-Robots-in-Manufacturing.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Autonomous-Robots-in-Manufacturing.md) |
 | 4 | Energy Storage | Advancements in Battery Technologies | Innovations in energy storage that are enabling the transition to renewable energy sources. | https://medium.com/@kanakjr/advancements-in-battery-technologies-34a129ed6c3f | [Advancements-in-Battery-Technologies.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Advancements-in-Battery-Technologies.md) |
-| 5 | Multi Omics Sequencing | Genomics and Personalized Medicine | How multi omics sequencing is paving the way for personalized medical treatments. |  | [Genomics-and-Personalized-Medicine.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Genomics-and-Personalized-Medicine.md) |
+| 5 | Multi Omics Sequencing | Genomics and Personalized Medicine | How multi omics sequencing is paving the way for personalized medical treatments. | https://medium.com/@kanakjr/genomics-and-personalized-medicine-21472cb20c8d | [Genomics-and-Personalized-Medicine.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Genomics-and-Personalized-Medicine.md) |
 | 6 | AI | AI and Ethics: Navigating the Future | The ethical considerations and challenges of implementing AI in various sectors. |  | [AI-and-Ethics:-Navigating-the-Future.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-and-Ethics:-Navigating-the-Future.md) |
 | 7 | Public Blockchain | Decentralized Finance (DeFi) Revolution | How blockchain is disrupting traditional finance with decentralized financial services. |  | [Decentralized-Finance-(DeFi)-Revolution.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Decentralized-Finance-(DeFi)-Revolution.md) |
 | 8 | Robotics | Robotics in Disaster Response | Utilizing robotics technology for effective disaster response and recovery operations. |  | [Robotics-in-Disaster-Response.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Robotics-in-Disaster-Response.md) |
@@ -93,6 +93,8 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 73 | Robotics | Educational Robots for STEM | Robots designed to enhance STEM education for students. |  | [Educational-Robots-for-STEM.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Educational-Robots-for-STEM.md) |
 | 74 | Energy Storage | Redox Flow Batteries | The use of redox flow batteries for large-scale energy storage applications. |  | [Redox-Flow-Batteries.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Redox-Flow-Batteries.md) |
 <!-- TABLE END -->
+
+
 
 
 
