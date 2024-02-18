@@ -92,7 +92,10 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 72 | Public Blockchain | Blockchain for Gaming and Virtual Goods | Implementing blockchain for secure transactions in gaming and virtual goods. |  | [Blockchain-for-Gaming-and-Virtual-Goods.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-for-Gaming-and-Virtual-Goods.md) |
 | 73 | Robotics | Educational Robots for STEM | Robots designed to enhance STEM education for students. |  | [Educational-Robots-for-STEM.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Educational-Robots-for-STEM.md) |
 | 74 | Energy Storage | Redox Flow Batteries | The use of redox flow batteries for large-scale energy storage applications. |  | [Redox-Flow-Batteries.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Redox-Flow-Batteries.md) |
+| 75 | Multi Omics Sequencing | Single-Cell Genomics in Cancer Research | Applying single-cell genomics to understand cancer at the cellular level. |  | [Single-Cell-Genomics-in-Cancer-Research.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Single-Cell-Genomics-in-Cancer-Research.md) |
 <!-- TABLE END -->
+
+
 
 
 
