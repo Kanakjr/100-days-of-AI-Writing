@@ -25,7 +25,7 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 5 | Multi Omics Sequencing | Genomics and Personalized Medicine | How multi omics sequencing is paving the way for personalized medical treatments. | https://medium.com/@kanakjr/genomics-and-personalized-medicine-21472cb20c8d | [Genomics-and-Personalized-Medicine.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Genomics-and-Personalized-Medicine.md) |
 | 6 | AI | AI and Ethics: Navigating the Future | The ethical considerations and challenges of implementing AI in various sectors. | https://medium.com/@kanakjr/ai-and-ethics-navigating-the-future-988fcebbcdbb | [AI-and-Ethics:-Navigating-the-Future.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-and-Ethics:-Navigating-the-Future.md) |
 | 7 | Public Blockchain | Decentralized Finance (DeFi) Revolution | How blockchain is disrupting traditional finance with decentralized financial services. | https://medium.com/@kanakjr/decentralized-finance-defi-revolution-23e89f966808 | [Decentralized-Finance-(DeFi)-Revolution.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Decentralized-Finance-(DeFi)-Revolution.md) |
-| 8 | Robotics | Robotics in Disaster Response | Utilizing robotics technology for effective disaster response and recovery operations. |  | [Robotics-in-Disaster-Response.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Robotics-in-Disaster-Response.md) |
+| 8 | Robotics | Robotics in Disaster Response | Utilizing robotics technology for effective disaster response and recovery operations. | https://medium.com/@kanakjr/robotics-in-disaster-response-a05768e9befb | [Robotics-in-Disaster-Response.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Robotics-in-Disaster-Response.md) |
 | 9 | Energy Storage | Grid-Scale Energy Storage Solutions | Emerging technologies in large-scale energy storage that stabilize and enhance the electric grid. |  | [Grid-Scale-Energy-Storage-Solutions.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Grid-Scale-Energy-Storage-Solutions.md) |
 | 10 | Multi Omics Sequencing | The Role of Proteomics in Disease Research | Exploring the impact of proteomics in understanding diseases and developing new treatments. |  | [The-Role-of-Proteomics-in-Disease-Research.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/The-Role-of-Proteomics-in-Disease-Research.md) |
 | 11 | AI | Natural Language Processing Advances | Improvements in NLP enabling more human-like interactions with AI systems. |  | [Natural-Language-Processing-Advances.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Natural-Language-Processing-Advances.md) |
@@ -96,6 +96,8 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 76 | AI | AI for Network Security | Employing AI to secure computer networks against cyber threats. |  | [AI-for-Network-Security.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-for-Network-Security.md) |
 | 77 | Public Blockchain | Blockchain for Land Registry | Using blockchain to record and verify land ownership and transactions. |  | [Blockchain-for-Land-Registry.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-for-Land-Registry.md) |
 <!-- TABLE END -->
+
+
 
 
 
