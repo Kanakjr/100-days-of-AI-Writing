@@ -24,7 +24,7 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 4 | Energy Storage | Advancements in Battery Technologies | Innovations in energy storage that are enabling the transition to renewable energy sources. | https://medium.com/@kanakjr/advancements-in-battery-technologies-34a129ed6c3f | [Advancements-in-Battery-Technologies.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Advancements-in-Battery-Technologies.md) |
 | 5 | Multi Omics Sequencing | Genomics and Personalized Medicine | How multi omics sequencing is paving the way for personalized medical treatments. | https://medium.com/@kanakjr/genomics-and-personalized-medicine-21472cb20c8d | [Genomics-and-Personalized-Medicine.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Genomics-and-Personalized-Medicine.md) |
 | 6 | AI | AI and Ethics: Navigating the Future | The ethical considerations and challenges of implementing AI in various sectors. | https://medium.com/@kanakjr/ai-and-ethics-navigating-the-future-988fcebbcdbb | [AI-and-Ethics:-Navigating-the-Future.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-and-Ethics:-Navigating-the-Future.md) |
-| 7 | Public Blockchain | Decentralized Finance (DeFi) Revolution | How blockchain is disrupting traditional finance with decentralized financial services. |  | [Decentralized-Finance-(DeFi)-Revolution.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Decentralized-Finance-(DeFi)-Revolution.md) |
+| 7 | Public Blockchain | Decentralized Finance (DeFi) Revolution | How blockchain is disrupting traditional finance with decentralized financial services. | https://medium.com/@kanakjr/decentralized-finance-defi-revolution-23e89f966808 | [Decentralized-Finance-(DeFi)-Revolution.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Decentralized-Finance-(DeFi)-Revolution.md) |
 | 8 | Robotics | Robotics in Disaster Response | Utilizing robotics technology for effective disaster response and recovery operations. |  | [Robotics-in-Disaster-Response.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Robotics-in-Disaster-Response.md) |
 | 9 | Energy Storage | Grid-Scale Energy Storage Solutions | Emerging technologies in large-scale energy storage that stabilize and enhance the electric grid. |  | [Grid-Scale-Energy-Storage-Solutions.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Grid-Scale-Energy-Storage-Solutions.md) |
 | 10 | Multi Omics Sequencing | The Role of Proteomics in Disease Research | Exploring the impact of proteomics in understanding diseases and developing new treatments. |  | [The-Role-of-Proteomics-in-Disease-Research.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/The-Role-of-Proteomics-in-Disease-Research.md) |
@@ -95,6 +95,8 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 75 | Multi Omics Sequencing | Single-Cell Genomics in Cancer Research | Applying single-cell genomics to understand cancer at the cellular level. |  | [Single-Cell-Genomics-in-Cancer-Research.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Single-Cell-Genomics-in-Cancer-Research.md) |
 | 76 | AI | AI for Network Security | Employing AI to secure computer networks against cyber threats. |  | [AI-for-Network-Security.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-for-Network-Security.md) |
 <!-- TABLE END -->
+
+
 
 
 
