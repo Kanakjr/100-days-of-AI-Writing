@@ -96,7 +96,10 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 76 | AI | AI for Network Security | Employing AI to secure computer networks against cyber threats. |  | [AI-for-Network-Security.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-for-Network-Security.md) |
 | 77 | Public Blockchain | Blockchain for Land Registry | Using blockchain to record and verify land ownership and transactions. |  | [Blockchain-for-Land-Registry.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-for-Land-Registry.md) |
 | 78 | Robotics | Warehouse Automation Robots | Robots that automate tasks in warehouses for increased efficiency. |  | [Warehouse-Automation-Robots.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Warehouse-Automation-Robots.md) |
+| 79 | Energy Storage | Piezoelectric Energy Harvesting | Converting mechanical stress into electrical energy using piezoelectric materials. |  | [Piezoelectric-Energy-Harvesting.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Piezoelectric-Energy-Harvesting.md) |
 <!-- TABLE END -->
+
+
 
 
 
