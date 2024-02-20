@@ -26,7 +26,7 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 6 | AI | AI and Ethics: Navigating the Future | The ethical considerations and challenges of implementing AI in various sectors. | https://medium.com/@kanakjr/ai-and-ethics-navigating-the-future-988fcebbcdbb | [AI-and-Ethics:-Navigating-the-Future.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-and-Ethics:-Navigating-the-Future.md) |
 | 7 | Public Blockchain | Decentralized Finance (DeFi) Revolution | How blockchain is disrupting traditional finance with decentralized financial services. | https://medium.com/@kanakjr/decentralized-finance-defi-revolution-23e89f966808 | [Decentralized-Finance-(DeFi)-Revolution.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Decentralized-Finance-(DeFi)-Revolution.md) |
 | 8 | Robotics | Robotics in Disaster Response | Utilizing robotics technology for effective disaster response and recovery operations. | https://medium.com/@kanakjr/robotics-in-disaster-response-a05768e9befb | [Robotics-in-Disaster-Response.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Robotics-in-Disaster-Response.md) |
-| 9 | Energy Storage | Grid-Scale Energy Storage Solutions | Emerging technologies in large-scale energy storage that stabilize and enhance the electric grid. |  | [Grid-Scale-Energy-Storage-Solutions.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Grid-Scale-Energy-Storage-Solutions.md) |
+| 9 | Energy Storage | Grid-Scale Energy Storage Solutions | Emerging technologies in large-scale energy storage that stabilize and enhance the electric grid. | https://medium.com/@kanakjr/grid-scale-energy-storage-solutions-ca1ce9a995ab | [Grid-Scale-Energy-Storage-Solutions.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Grid-Scale-Energy-Storage-Solutions.md) |
 | 10 | Multi Omics Sequencing | The Role of Proteomics in Disease Research | Exploring the impact of proteomics in understanding diseases and developing new treatments. |  | [The-Role-of-Proteomics-in-Disease-Research.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/The-Role-of-Proteomics-in-Disease-Research.md) |
 | 11 | AI | Natural Language Processing Advances | Improvements in NLP enabling more human-like interactions with AI systems. |  | [Natural-Language-Processing-Advances.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Natural-Language-Processing-Advances.md) |
 | 12 | Public Blockchain | Smart Contracts in Real Estate | Using blockchain to automate and secure real estate transactions. |  | [Smart-Contracts-in-Real-Estate.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Smart-Contracts-in-Real-Estate.md) |
@@ -97,6 +97,8 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 77 | Public Blockchain | Blockchain for Land Registry | Using blockchain to record and verify land ownership and transactions. |  | [Blockchain-for-Land-Registry.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-for-Land-Registry.md) |
 | 78 | Robotics | Warehouse Automation Robots | Robots that automate tasks in warehouses for increased efficiency. |  | [Warehouse-Automation-Robots.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Warehouse-Automation-Robots.md) |
 <!-- TABLE END -->
+
+
 
 
 
