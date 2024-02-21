@@ -97,7 +97,10 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 77 | Public Blockchain | Blockchain for Land Registry | Using blockchain to record and verify land ownership and transactions. |  | [Blockchain-for-Land-Registry.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-for-Land-Registry.md) |
 | 78 | Robotics | Warehouse Automation Robots | Robots that automate tasks in warehouses for increased efficiency. |  | [Warehouse-Automation-Robots.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Warehouse-Automation-Robots.md) |
 | 79 | Energy Storage | Piezoelectric Energy Harvesting | Converting mechanical stress into electrical energy using piezoelectric materials. |  | [Piezoelectric-Energy-Harvesting.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Piezoelectric-Energy-Harvesting.md) |
+| 80 | Multi Omics Sequencing | Lipidomics in Metabolic Disorders | Studying lipid profiles to understand and treat metabolic disorders. |  | [Lipidomics-in-Metabolic-Disorders.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Lipidomics-in-Metabolic-Disorders.md) |
 <!-- TABLE END -->
+
+
 
 
 
