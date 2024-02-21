@@ -29,7 +29,7 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 9 | Energy Storage | Grid-Scale Energy Storage Solutions | Emerging technologies in large-scale energy storage that stabilize and enhance the electric grid. | https://medium.com/@kanakjr/grid-scale-energy-storage-solutions-ca1ce9a995ab | [Grid-Scale-Energy-Storage-Solutions.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Grid-Scale-Energy-Storage-Solutions.md) |
 | 10 | Multi Omics Sequencing | The Role of Proteomics in Disease Research | Exploring the impact of proteomics in understanding diseases and developing new treatments. | https://medium.com/@kanakjr/the-role-of-proteomics-in-disease-research-285fc939ad15 | [The-Role-of-Proteomics-in-Disease-Research.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/The-Role-of-Proteomics-in-Disease-Research.md) |
 | 11 | AI | Natural Language Processing Advances | Improvements in NLP enabling more human-like interactions with AI systems. | https://medium.com/@kanakjr/natural-language-processing-advances-5007eb22f6c9 | [Natural-Language-Processing-Advances.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Natural-Language-Processing-Advances.md) |
-| 12 | Public Blockchain | Smart Contracts in Real Estate | Using blockchain to automate and secure real estate transactions. |  | [Smart-Contracts-in-Real-Estate.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Smart-Contracts-in-Real-Estate.md) |
+| 12 | Public Blockchain | Smart Contracts in Real Estate | Using blockchain to automate and secure real estate transactions. | https://medium.com/@kanakjr/smart-contracts-in-real-estate-using-blockchain-to-automate-and-secure-real-estate-transactions-19d4b572b434 | [Smart-Contracts-in-Real-Estate.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Smart-Contracts-in-Real-Estate.md) |
 | 13 | Robotics | Exoskeletons for Rehabilitation | Robotic exoskeletons aiding in physical therapy and rehabilitation. |  | [Exoskeletons-for-Rehabilitation.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Exoskeletons-for-Rehabilitation.md) |
 | 14 | Energy Storage | Solar Energy Storage Systems | Innovative storage solutions to maximize the use of solar energy. |  | [Solar-Energy-Storage-Systems.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Solar-Energy-Storage-Systems.md) |
 | 15 | Multi Omics Sequencing | Cancer Genomics and Treatment | How sequencing is transforming cancer diagnosis and personalized treatment plans. |  | [Cancer-Genomics-and-Treatment.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Cancer-Genomics-and-Treatment.md) |
@@ -100,6 +100,8 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 80 | Multi Omics Sequencing | Lipidomics in Metabolic Disorders | Studying lipid profiles to understand and treat metabolic disorders. |  | [Lipidomics-in-Metabolic-Disorders.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Lipidomics-in-Metabolic-Disorders.md) |
 | 81 | AI | AI for Fraud Detection | AI systems that detect and prevent fraudulent activities in various industries. |  | [AI-for-Fraud-Detection.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-for-Fraud-Detection.md) |
 <!-- TABLE END -->
+
+
 
 
 
