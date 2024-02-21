@@ -28,7 +28,7 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 8 | Robotics | Robotics in Disaster Response | Utilizing robotics technology for effective disaster response and recovery operations. | https://medium.com/@kanakjr/robotics-in-disaster-response-a05768e9befb | [Robotics-in-Disaster-Response.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Robotics-in-Disaster-Response.md) |
 | 9 | Energy Storage | Grid-Scale Energy Storage Solutions | Emerging technologies in large-scale energy storage that stabilize and enhance the electric grid. | https://medium.com/@kanakjr/grid-scale-energy-storage-solutions-ca1ce9a995ab | [Grid-Scale-Energy-Storage-Solutions.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Grid-Scale-Energy-Storage-Solutions.md) |
 | 10 | Multi Omics Sequencing | The Role of Proteomics in Disease Research | Exploring the impact of proteomics in understanding diseases and developing new treatments. | https://medium.com/@kanakjr/the-role-of-proteomics-in-disease-research-285fc939ad15 | [The-Role-of-Proteomics-in-Disease-Research.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/The-Role-of-Proteomics-in-Disease-Research.md) |
-| 11 | AI | Natural Language Processing Advances | Improvements in NLP enabling more human-like interactions with AI systems. |  | [Natural-Language-Processing-Advances.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Natural-Language-Processing-Advances.md) |
+| 11 | AI | Natural Language Processing Advances | Improvements in NLP enabling more human-like interactions with AI systems. | https://medium.com/@kanakjr/natural-language-processing-advances-5007eb22f6c9 | [Natural-Language-Processing-Advances.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Natural-Language-Processing-Advances.md) |
 | 12 | Public Blockchain | Smart Contracts in Real Estate | Using blockchain to automate and secure real estate transactions. |  | [Smart-Contracts-in-Real-Estate.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Smart-Contracts-in-Real-Estate.md) |
 | 13 | Robotics | Exoskeletons for Rehabilitation | Robotic exoskeletons aiding in physical therapy and rehabilitation. |  | [Exoskeletons-for-Rehabilitation.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Exoskeletons-for-Rehabilitation.md) |
 | 14 | Energy Storage | Solar Energy Storage Systems | Innovative storage solutions to maximize the use of solar energy. |  | [Solar-Energy-Storage-Systems.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Solar-Energy-Storage-Systems.md) |
@@ -99,6 +99,8 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 79 | Energy Storage | Piezoelectric Energy Harvesting | Converting mechanical stress into electrical energy using piezoelectric materials. |  | [Piezoelectric-Energy-Harvesting.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Piezoelectric-Energy-Harvesting.md) |
 | 80 | Multi Omics Sequencing | Lipidomics in Metabolic Disorders | Studying lipid profiles to understand and treat metabolic disorders. |  | [Lipidomics-in-Metabolic-Disorders.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Lipidomics-in-Metabolic-Disorders.md) |
 <!-- TABLE END -->
+
+
 
 
 
