@@ -99,7 +99,10 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 79 | Energy Storage | Piezoelectric Energy Harvesting | Converting mechanical stress into electrical energy using piezoelectric materials. |  | [Piezoelectric-Energy-Harvesting.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Piezoelectric-Energy-Harvesting.md) |
 | 80 | Multi Omics Sequencing | Lipidomics in Metabolic Disorders | Studying lipid profiles to understand and treat metabolic disorders. |  | [Lipidomics-in-Metabolic-Disorders.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Lipidomics-in-Metabolic-Disorders.md) |
 | 81 | AI | AI for Fraud Detection | AI systems that detect and prevent fraudulent activities in various industries. |  | [AI-for-Fraud-Detection.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-for-Fraud-Detection.md) |
+| 82 | Public Blockchain | Blockchain for Art and Collectibles | Authenticating and tracking ownership of art and collectibles using blockchain. |  | [Blockchain-for-Art-and-Collectibles.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-for-Art-and-Collectibles.md) |
 <!-- TABLE END -->
+
+
 
 
 
