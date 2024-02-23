@@ -101,7 +101,10 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 81 | AI | AI for Fraud Detection | AI systems that detect and prevent fraudulent activities in various industries. |  | [AI-for-Fraud-Detection.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-for-Fraud-Detection.md) |
 | 82 | Public Blockchain | Blockchain for Art and Collectibles | Authenticating and tracking ownership of art and collectibles using blockchain. |  | [Blockchain-for-Art-and-Collectibles.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-for-Art-and-Collectibles.md) |
 | 83 | Robotics | Assistive Robots for the Disabled | Developing robots to assist individuals with disabilities. |  | [Assistive-Robots-for-the-Disabled.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Assistive-Robots-for-the-Disabled.md) |
+| 84 | Energy Storage | Nanomaterials for Supercapacitors | Innovating with nanomaterials to enhance supercapacitor performance. |  | [Nanomaterials-for-Supercapacitors.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Nanomaterials-for-Supercapacitors.md) |
 <!-- TABLE END -->
+
+
 
 
 
