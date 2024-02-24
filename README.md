@@ -102,7 +102,10 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 82 | Public Blockchain | Blockchain for Art and Collectibles | Authenticating and tracking ownership of art and collectibles using blockchain. |  | [Blockchain-for-Art-and-Collectibles.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-for-Art-and-Collectibles.md) |
 | 83 | Robotics | Assistive Robots for the Disabled | Developing robots to assist individuals with disabilities. |  | [Assistive-Robots-for-the-Disabled.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Assistive-Robots-for-the-Disabled.md) |
 | 84 | Energy Storage | Nanomaterials for Supercapacitors | Innovating with nanomaterials to enhance supercapacitor performance. |  | [Nanomaterials-for-Supercapacitors.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Nanomaterials-for-Supercapacitors.md) |
+| 85 | Multi Omics Sequencing | Integrative Omics for Systems Biology | Combining various omics data to understand complex biological systems. |  | [Integrative-Omics-for-Systems-Biology.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Integrative-Omics-for-Systems-Biology.md) |
 <!-- TABLE END -->
+
+
 
 
 
