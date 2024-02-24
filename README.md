@@ -33,7 +33,7 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 13 | Robotics | Exoskeletons for Rehabilitation | Robotic exoskeletons aiding in physical therapy and rehabilitation. | https://medium.com/@kanakjr/exoskeletons-for-rehabilitation-718a4b38e010 | [Exoskeletons-for-Rehabilitation.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Exoskeletons-for-Rehabilitation.md) |
 | 14 | Energy Storage | Solar Energy Storage Systems | Innovative storage solutions to maximize the use of solar energy. | https://medium.com/@kanakjr/solar-energy-storage-systems-innovative-storage-solutions-to-maximize-the-use-of-solar-energy-298ce30908d7 | [Solar-Energy-Storage-Systems.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Solar-Energy-Storage-Systems.md) |
 | 15 | Multi Omics Sequencing | Cancer Genomics and Treatment | How sequencing is transforming cancer diagnosis and personalized treatment plans. | https://medium.com/@kanakjr/cancer-genomics-and-treatment-1fac4b2be510 | [Cancer-Genomics-and-Treatment.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Cancer-Genomics-and-Treatment.md) |
-| 16 | AI | AI in Autonomous Vehicles | The role of AI in the development of self-driving cars. |  | [AI-in-Autonomous-Vehicles.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-in-Autonomous-Vehicles.md) |
+| 16 | AI | AI in Autonomous Vehicles | The role of AI in the development of self-driving cars. | https://medium.com/@kanakjr/ai-in-autonomous-vehicles-the-role-of-ai-in-the-development-of-self-driving-cars-0fd309c2d612 | [AI-in-Autonomous-Vehicles.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-in-Autonomous-Vehicles.md) |
 | 17 | Public Blockchain | Tokenization of Assets | How blockchain enables the digital representation of real-world assets. |  | [Tokenization-of-Assets.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Tokenization-of-Assets.md) |
 | 18 | Robotics | Collaborative Robots in SMEs | The impact of cobots in small and medium-sized enterprises. |  | [Collaborative-Robots-in-SMEs.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Collaborative-Robots-in-SMEs.md) |
 | 19 | Energy Storage | Next-Generation Nuclear Batteries | Developing long-lasting and safe nuclear battery technology. |  | [Next-Generation-Nuclear-Batteries.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Next-Generation-Nuclear-Batteries.md) |
@@ -104,6 +104,8 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 84 | Energy Storage | Nanomaterials for Supercapacitors | Innovating with nanomaterials to enhance supercapacitor performance. |  | [Nanomaterials-for-Supercapacitors.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Nanomaterials-for-Supercapacitors.md) |
 | 85 | Multi Omics Sequencing | Integrative Omics for Systems Biology | Combining various omics data to understand complex biological systems. |  | [Integrative-Omics-for-Systems-Biology.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Integrative-Omics-for-Systems-Biology.md) |
 <!-- TABLE END -->
+
+
 
 
 
