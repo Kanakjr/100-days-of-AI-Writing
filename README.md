@@ -36,7 +36,7 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 16 | AI | AI in Autonomous Vehicles | The role of AI in the development of self-driving cars. | https://medium.com/@kanakjr/ai-in-autonomous-vehicles-the-role-of-ai-in-the-development-of-self-driving-cars-0fd309c2d612 | [AI-in-Autonomous-Vehicles.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-in-Autonomous-Vehicles.md) |
 | 17 | Public Blockchain | Tokenization of Assets | How blockchain enables the digital representation of real-world assets. | https://medium.com/@kanakjr/tokenization-of-assets-how-blockchain-enables-the-digital-representation-of-real-world-assets-998abbb28424 | [Tokenization-of-Assets.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Tokenization-of-Assets.md) |
 | 18 | Robotics | Collaborative Robots in SMEs | The impact of cobots in small and medium-sized enterprises. | https://medium.com/@kanakjr/collaborative-robots-in-smes-the-impact-of-cobots-in-small-and-medium-sized-enterprises-d09408f0abe0 | [Collaborative-Robots-in-SMEs.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Collaborative-Robots-in-SMEs.md) |
-| 19 | Energy Storage | Next-Generation Nuclear Batteries | Developing long-lasting and safe nuclear battery technology. |  | [Next-Generation-Nuclear-Batteries.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Next-Generation-Nuclear-Batteries.md) |
+| 19 | Energy Storage | Next-Generation Nuclear Batteries | Developing long-lasting and safe nuclear battery technology. | https://medium.com/@kanakjr/next-generation-nuclear-batteries-developing-long-lasting-and-safe-nuclear-battery-technology-9126504abb41 | [Next-Generation-Nuclear-Batteries.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Next-Generation-Nuclear-Batteries.md) |
 | 20 | Multi Omics Sequencing | Multi-Omics for Aging Research | Using multi-omics approaches to understand and treat age-related diseases. |  | [Multi-Omics-for-Aging-Research.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Multi-Omics-for-Aging-Research.md) |
 | 21 | AI | AI-Driven Cybersecurity | Leveraging AI to enhance cybersecurity measures and threat detection. |  | [AI-Driven-Cybersecurity.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-Driven-Cybersecurity.md) |
 | 22 | Public Blockchain | Blockchain in Supply Chain Transparency | Improving supply chain management with blockchain for transparency and traceability. |  | [Blockchain-in-Supply-Chain-Transparency.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-in-Supply-Chain-Transparency.md) |
@@ -107,6 +107,8 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 87 | Public Blockchain | Blockchain for Peer-to-Peer Energy Trading | Enabling P2P energy trading among individuals with blockchain technology. |  | [Blockchain-for-Peer-to-Peer-Energy-Trading.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-for-Peer-to-Peer-Energy-Trading.md) |
 | 88 | Robotics | Soft Robotics for Delicate Manipulation | Soft robots capable of handling delicate objects and materials. |  | [Soft-Robotics-for-Delicate-Manipulation.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Soft-Robotics-for-Delicate-Manipulation.md) |
 <!-- TABLE END -->
+
+
 
 
 
