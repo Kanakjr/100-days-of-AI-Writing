@@ -105,7 +105,10 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 85 | Multi Omics Sequencing | Integrative Omics for Systems Biology | Combining various omics data to understand complex biological systems. |  | [Integrative-Omics-for-Systems-Biology.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Integrative-Omics-for-Systems-Biology.md) |
 | 86 | AI | AI in Film and Video Editing | Leveraging AI to automate and enhance film and video editing processes. |  | [AI-in-Film-and-Video-Editing.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-in-Film-and-Video-Editing.md) |
 | 87 | Public Blockchain | Blockchain for Peer-to-Peer Energy Trading | Enabling P2P energy trading among individuals with blockchain technology. |  | [Blockchain-for-Peer-to-Peer-Energy-Trading.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-for-Peer-to-Peer-Energy-Trading.md) |
+| 88 | Robotics | Soft Robotics for Delicate Manipulation | Soft robots capable of handling delicate objects and materials. |  | [Soft-Robotics-for-Delicate-Manipulation.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Soft-Robotics-for-Delicate-Manipulation.md) |
 <!-- TABLE END -->
+
+
 
 
 
