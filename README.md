@@ -35,7 +35,7 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 15 | Multi Omics Sequencing | Cancer Genomics and Treatment | How sequencing is transforming cancer diagnosis and personalized treatment plans. | https://medium.com/@kanakjr/cancer-genomics-and-treatment-1fac4b2be510 | [Cancer-Genomics-and-Treatment.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Cancer-Genomics-and-Treatment.md) |
 | 16 | AI | AI in Autonomous Vehicles | The role of AI in the development of self-driving cars. | https://medium.com/@kanakjr/ai-in-autonomous-vehicles-the-role-of-ai-in-the-development-of-self-driving-cars-0fd309c2d612 | [AI-in-Autonomous-Vehicles.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-in-Autonomous-Vehicles.md) |
 | 17 | Public Blockchain | Tokenization of Assets | How blockchain enables the digital representation of real-world assets. | https://medium.com/@kanakjr/tokenization-of-assets-how-blockchain-enables-the-digital-representation-of-real-world-assets-998abbb28424 | [Tokenization-of-Assets.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Tokenization-of-Assets.md) |
-| 18 | Robotics | Collaborative Robots in SMEs | The impact of cobots in small and medium-sized enterprises. |  | [Collaborative-Robots-in-SMEs.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Collaborative-Robots-in-SMEs.md) |
+| 18 | Robotics | Collaborative Robots in SMEs | The impact of cobots in small and medium-sized enterprises. | https://medium.com/@kanakjr/collaborative-robots-in-smes-the-impact-of-cobots-in-small-and-medium-sized-enterprises-d09408f0abe0 | [Collaborative-Robots-in-SMEs.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Collaborative-Robots-in-SMEs.md) |
 | 19 | Energy Storage | Next-Generation Nuclear Batteries | Developing long-lasting and safe nuclear battery technology. |  | [Next-Generation-Nuclear-Batteries.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Next-Generation-Nuclear-Batteries.md) |
 | 20 | Multi Omics Sequencing | Multi-Omics for Aging Research | Using multi-omics approaches to understand and treat age-related diseases. |  | [Multi-Omics-for-Aging-Research.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Multi-Omics-for-Aging-Research.md) |
 | 21 | AI | AI-Driven Cybersecurity | Leveraging AI to enhance cybersecurity measures and threat detection. |  | [AI-Driven-Cybersecurity.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-Driven-Cybersecurity.md) |
@@ -106,6 +106,8 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 86 | AI | AI in Film and Video Editing | Leveraging AI to automate and enhance film and video editing processes. |  | [AI-in-Film-and-Video-Editing.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-in-Film-and-Video-Editing.md) |
 | 87 | Public Blockchain | Blockchain for Peer-to-Peer Energy Trading | Enabling P2P energy trading among individuals with blockchain technology. |  | [Blockchain-for-Peer-to-Peer-Energy-Trading.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-for-Peer-to-Peer-Energy-Trading.md) |
 <!-- TABLE END -->
+
+
 
 
 
