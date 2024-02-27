@@ -108,7 +108,10 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 88 | Robotics | Soft Robotics for Delicate Manipulation | Soft robots capable of handling delicate objects and materials. |  | [Soft-Robotics-for-Delicate-Manipulation.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Soft-Robotics-for-Delicate-Manipulation.md) |
 | 89 | Energy Storage | Molten Salt Energy Storage | Using molten salt for high-temperature energy storage applications. |  | [Molten-Salt-Energy-Storage.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Molten-Salt-Energy-Storage.md) |
 | 90 | Multi Omics Sequencing | Glycomics and Immunotherapy | Exploring the role of glycomics in developing immunotherapies. |  | [Glycomics-and-Immunotherapy.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Glycomics-and-Immunotherapy.md) |
+| 91 | AI | AI in Predictive Policing | Using AI to predict and prevent crime in urban areas. |  | [AI-in-Predictive-Policing.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-in-Predictive-Policing.md) |
 <!-- TABLE END -->
+
+
 
 
 
