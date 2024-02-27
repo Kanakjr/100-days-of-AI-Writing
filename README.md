@@ -39,7 +39,7 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 19 | Energy Storage | Next-Generation Nuclear Batteries | Developing long-lasting and safe nuclear battery technology. | https://medium.com/@kanakjr/next-generation-nuclear-batteries-developing-long-lasting-and-safe-nuclear-battery-technology-9126504abb41 | [Next-Generation-Nuclear-Batteries.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Next-Generation-Nuclear-Batteries.md) |
 | 20 | Multi Omics Sequencing | Multi-Omics for Aging Research | Using multi-omics approaches to understand and treat age-related diseases. | https://medium.com/@kanakjr/multi-omics-for-aging-research-5763746bb172 | [Multi-Omics-for-Aging-Research.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Multi-Omics-for-Aging-Research.md) |
 | 21 | AI | AI-Driven Cybersecurity | Leveraging AI to enhance cybersecurity measures and threat detection. | https://medium.com/@kanakjr/ai-driven-cybersecurity-leveraging-ai-to-enhance-cybersecurity-measures-and-threat-detection-a571fd2610c5 | [AI-Driven-Cybersecurity.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-Driven-Cybersecurity.md) |
-| 22 | Public Blockchain | Blockchain in Supply Chain Transparency | Improving supply chain management with blockchain for transparency and traceability. |  | [Blockchain-in-Supply-Chain-Transparency.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-in-Supply-Chain-Transparency.md) |
+| 22 | Public Blockchain | Blockchain in Supply Chain Transparency | Improving supply chain management with blockchain for transparency and traceability. | https://medium.com/@kanakjr/blockchain-in-supply-chain-transparency-f3afe0339142 | [Blockchain-in-Supply-Chain-Transparency.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-in-Supply-Chain-Transparency.md) |
 | 23 | Robotics | Underwater Robotics for Ocean Exploration | Advancements in robotics for deep-sea exploration and research. |  | [Underwater-Robotics-for-Ocean-Exploration.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Underwater-Robotics-for-Ocean-Exploration.md) |
 | 24 | Energy Storage | Flywheel Energy Storage Systems | Exploring the potential of flywheel technology for energy storage. |  | [Flywheel-Energy-Storage-Systems.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Flywheel-Energy-Storage-Systems.md) |
 | 25 | Multi Omics Sequencing | Neurogenomics and Brain Health | Studying the genome's role in brain health and neurological diseases. |  | [Neurogenomics-and-Brain-Health.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Neurogenomics-and-Brain-Health.md) |
@@ -110,6 +110,8 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 90 | Multi Omics Sequencing | Glycomics and Immunotherapy | Exploring the role of glycomics in developing immunotherapies. |  | [Glycomics-and-Immunotherapy.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Glycomics-and-Immunotherapy.md) |
 | 91 | AI | AI in Predictive Policing | Using AI to predict and prevent crime in urban areas. |  | [AI-in-Predictive-Policing.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-in-Predictive-Policing.md) |
 <!-- TABLE END -->
+
+
 
 
 
