@@ -110,7 +110,10 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 90 | Multi Omics Sequencing | Glycomics and Immunotherapy | Exploring the role of glycomics in developing immunotherapies. |  | [Glycomics-and-Immunotherapy.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Glycomics-and-Immunotherapy.md) |
 | 91 | AI | AI in Predictive Policing | Using AI to predict and prevent crime in urban areas. |  | [AI-in-Predictive-Policing.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-in-Predictive-Policing.md) |
 | 92 | Public Blockchain | Blockchain for Music Royalties | Streamlining the distribution of music royalties with blockchain technology. |  | [Blockchain-for-Music-Royalties.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-for-Music-Royalties.md) |
+| 93 | Robotics | Robots in Precision Agriculture | Robots that perform precise agricultural tasks for crop management. |  | [Robots-in-Precision-Agriculture.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Robots-in-Precision-Agriculture.md) |
 <!-- TABLE END -->
+
+
 
 
 
