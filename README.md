@@ -42,7 +42,7 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 22 | Public Blockchain | Blockchain in Supply Chain Transparency | Improving supply chain management with blockchain for transparency and traceability. | https://medium.com/@kanakjr/blockchain-in-supply-chain-transparency-f3afe0339142 | [Blockchain-in-Supply-Chain-Transparency.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-in-Supply-Chain-Transparency.md) |
 | 23 | Robotics | Underwater Robotics for Ocean Exploration | Advancements in robotics for deep-sea exploration and research. | https://medium.com/@kanakjr/underwater-robotics-for-ocean-exploration-b69cf59148cd | [Underwater-Robotics-for-Ocean-Exploration.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Underwater-Robotics-for-Ocean-Exploration.md) |
 | 24 | Energy Storage | Flywheel Energy Storage Systems | Exploring the potential of flywheel technology for energy storage. | https://medium.com/@kanakjr/flywheel-energy-storage-systems-exploring-the-potential-of-flywheel-technology-for-energy-storage-ccc1f97f7d1e | [Flywheel-Energy-Storage-Systems.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Flywheel-Energy-Storage-Systems.md) |
-| 25 | Multi Omics Sequencing | Neurogenomics and Brain Health | Studying the genome's role in brain health and neurological diseases. |  | [Neurogenomics-and-Brain-Health.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Neurogenomics-and-Brain-Health.md) |
+| 25 | Multi Omics Sequencing | Neurogenomics and Brain Health | Studying the genome's role in brain health and neurological diseases. | https://medium.com/@kanakjr/neurogenomics-and-brain-health-6dcf2562b1c5 | [Neurogenomics-and-Brain-Health.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Neurogenomics-and-Brain-Health.md) |
 | 26 | AI | AI in Precision Agriculture | Using AI to optimize farming practices and increase crop yields. |  | [AI-in-Precision-Agriculture.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-in-Precision-Agriculture.md) |
 | 27 | Public Blockchain | Blockchain for Intellectual Property | Protecting IP rights through immutable blockchain records. |  | [Blockchain-for-Intellectual-Property.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-for-Intellectual-Property.md) |
 | 28 | Robotics | Robotic Process Automation (RPA) in Finance | Implementing RPA to streamline financial operations and reduce errors. |  | [Robotic-Process-Automation-(RPA)-in-Finance.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Robotic-Process-Automation-(RPA)-in-Finance.md) |
@@ -113,6 +113,8 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 93 | Robotics | Robots in Precision Agriculture | Robots that perform precise agricultural tasks for crop management. |  | [Robots-in-Precision-Agriculture.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Robots-in-Precision-Agriculture.md) |
 | 94 | Energy Storage | Graphene Batteries | Developing graphene-based batteries for faster charging and higher capacity. |  | [Graphene-Batteries.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Graphene-Batteries.md) |
 <!-- TABLE END -->
+
+
 
 
 
