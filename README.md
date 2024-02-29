@@ -112,7 +112,10 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 92 | Public Blockchain | Blockchain for Music Royalties | Streamlining the distribution of music royalties with blockchain technology. |  | [Blockchain-for-Music-Royalties.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-for-Music-Royalties.md) |
 | 93 | Robotics | Robots in Precision Agriculture | Robots that perform precise agricultural tasks for crop management. |  | [Robots-in-Precision-Agriculture.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Robots-in-Precision-Agriculture.md) |
 | 94 | Energy Storage | Graphene Batteries | Developing graphene-based batteries for faster charging and higher capacity. |  | [Graphene-Batteries.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Graphene-Batteries.md) |
+| 95 | Multi Omics Sequencing | Epitranscriptomics and Gene Regulation | Studying RNA modifications and their impact on gene expression. |  | [Epitranscriptomics-and-Gene-Regulation.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Epitranscriptomics-and-Gene-Regulation.md) |
 <!-- TABLE END -->
+
+
 
 
 
