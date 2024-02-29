@@ -43,7 +43,7 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 23 | Robotics | Underwater Robotics for Ocean Exploration | Advancements in robotics for deep-sea exploration and research. | https://medium.com/@kanakjr/underwater-robotics-for-ocean-exploration-b69cf59148cd | [Underwater-Robotics-for-Ocean-Exploration.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Underwater-Robotics-for-Ocean-Exploration.md) |
 | 24 | Energy Storage | Flywheel Energy Storage Systems | Exploring the potential of flywheel technology for energy storage. | https://medium.com/@kanakjr/flywheel-energy-storage-systems-exploring-the-potential-of-flywheel-technology-for-energy-storage-ccc1f97f7d1e | [Flywheel-Energy-Storage-Systems.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Flywheel-Energy-Storage-Systems.md) |
 | 25 | Multi Omics Sequencing | Neurogenomics and Brain Health | Studying the genome's role in brain health and neurological diseases. | https://medium.com/@kanakjr/neurogenomics-and-brain-health-6dcf2562b1c5 | [Neurogenomics-and-Brain-Health.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Neurogenomics-and-Brain-Health.md) |
-| 26 | AI | AI in Precision Agriculture | Using AI to optimize farming practices and increase crop yields. |  | [AI-in-Precision-Agriculture.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-in-Precision-Agriculture.md) |
+| 26 | AI | AI in Precision Agriculture | Using AI to optimize farming practices and increase crop yields. | https://medium.com/@kanakjr/ai-in-precision-agriculture-using-ai-to-optimize-farming-practices-and-increase-crop-yields-4c40d6f6f68f | [AI-in-Precision-Agriculture.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-in-Precision-Agriculture.md) |
 | 27 | Public Blockchain | Blockchain for Intellectual Property | Protecting IP rights through immutable blockchain records. |  | [Blockchain-for-Intellectual-Property.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-for-Intellectual-Property.md) |
 | 28 | Robotics | Robotic Process Automation (RPA) in Finance | Implementing RPA to streamline financial operations and reduce errors. |  | [Robotic-Process-Automation-(RPA)-in-Finance.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Robotic-Process-Automation-(RPA)-in-Finance.md) |
 | 29 | Energy Storage | Hydrogen Fuel Cells for Energy Storage | The role of hydrogen fuel cells in clean energy storage solutions. |  | [Hydrogen-Fuel-Cells-for-Energy-Storage.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Hydrogen-Fuel-Cells-for-Energy-Storage.md) |
@@ -114,6 +114,8 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 94 | Energy Storage | Graphene Batteries | Developing graphene-based batteries for faster charging and higher capacity. |  | [Graphene-Batteries.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Graphene-Batteries.md) |
 | 95 | Multi Omics Sequencing | Epitranscriptomics and Gene Regulation | Studying RNA modifications and their impact on gene expression. |  | [Epitranscriptomics-and-Gene-Regulation.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Epitranscriptomics-and-Gene-Regulation.md) |
 <!-- TABLE END -->
+
+
 
 
 
