@@ -114,7 +114,10 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 94 | Energy Storage | Graphene Batteries | Developing graphene-based batteries for faster charging and higher capacity. |  | [Graphene-Batteries.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Graphene-Batteries.md) |
 | 95 | Multi Omics Sequencing | Epitranscriptomics and Gene Regulation | Studying RNA modifications and their impact on gene expression. |  | [Epitranscriptomics-and-Gene-Regulation.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Epitranscriptomics-and-Gene-Regulation.md) |
 | 96 | AI | AI for Customer Service Automation | Automating customer service interactions with AI chatbots and virtual assistants. |  | [AI-for-Customer-Service-Automation.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-for-Customer-Service-Automation.md) |
+| 97 | Public Blockchain | Blockchain for Public Records | Maintaining secure and transparent public records with blockchain technology. |  | [Blockchain-for-Public-Records.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-for-Public-Records.md) |
 <!-- TABLE END -->
+
+
 
 
 
