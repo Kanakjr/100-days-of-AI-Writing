@@ -116,7 +116,10 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 96 | AI | AI for Customer Service Automation | Automating customer service interactions with AI chatbots and virtual assistants. |  | [AI-for-Customer-Service-Automation.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-for-Customer-Service-Automation.md) |
 | 97 | Public Blockchain | Blockchain for Public Records | Maintaining secure and transparent public records with blockchain technology. |  | [Blockchain-for-Public-Records.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-for-Public-Records.md) |
 | 98 | Robotics | Nano-Robots for Medical Applications | Developing nano-robots for targeted drug delivery and diagnostics. |  | [Nano-Robots-for-Medical-Applications.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Nano-Robots-for-Medical-Applications.md) |
+| 99 | Energy Storage | Thermophotovoltaic Energy Conversion | Converting thermal radiation into electrical energy using photovoltaic cells. |  | [Thermophotovoltaic-Energy-Conversion.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Thermophotovoltaic-Energy-Conversion.md) |
 <!-- TABLE END -->
+
+
 
 
 
