@@ -46,7 +46,7 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 26 | AI | AI in Precision Agriculture | Using AI to optimize farming practices and increase crop yields. | https://medium.com/@kanakjr/ai-in-precision-agriculture-using-ai-to-optimize-farming-practices-and-increase-crop-yields-4c40d6f6f68f | [AI-in-Precision-Agriculture.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-in-Precision-Agriculture.md) |
 | 27 | Public Blockchain | Blockchain for Intellectual Property | Protecting IP rights through immutable blockchain records. | https://medium.com/@kanakjr/blockchain-for-intellectual-property-protecting-ip-rights-through-immutable-blockchain-records-3d3bf3c545a9 | [Blockchain-for-Intellectual-Property.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-for-Intellectual-Property.md) |
 | 28 | Robotics | Robotic Process Automation (RPA) in Finance | Implementing RPA to streamline financial operations and reduce errors. | https://medium.com/@kanakjr/robotic-process-automation-rpa-in-finance-769ef63115e1 | [Robotic-Process-Automation-(RPA)-in-Finance.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Robotic-Process-Automation-(RPA)-in-Finance.md) |
-| 29 | Energy Storage | Hydrogen Fuel Cells for Energy Storage | The role of hydrogen fuel cells in clean energy storage solutions. |  | [Hydrogen-Fuel-Cells-for-Energy-Storage.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Hydrogen-Fuel-Cells-for-Energy-Storage.md) |
+| 29 | Energy Storage | Hydrogen Fuel Cells for Energy Storage | The role of hydrogen fuel cells in clean energy storage solutions. | https://medium.com/@kanakjr/hydrogen-fuel-cells-for-energy-storage-cb425a54873e | [Hydrogen-Fuel-Cells-for-Energy-Storage.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Hydrogen-Fuel-Cells-for-Energy-Storage.md) |
 | 30 | Multi Omics Sequencing | Epigenomics and Disease Prevention | Investigating how epigenetic changes influence disease and can be used for prevention. |  | [Epigenomics-and-Disease-Prevention.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Epigenomics-and-Disease-Prevention.md) |
 | 31 | AI | AI in Drug Discovery and Development | Accelerating pharmaceutical research with AI-driven drug discovery. |  | [AI-in-Drug-Discovery-and-Development.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-in-Drug-Discovery-and-Development.md) |
 | 32 | Public Blockchain | Decentralized Autonomous Organizations (DAOs) | The rise and function of DAOs in the blockchain ecosystem. |  | [Decentralized-Autonomous-Organizations-(DAOs).md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Decentralized-Autonomous-Organizations-(DAOs).md) |
@@ -118,6 +118,8 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 98 | Robotics | Nano-Robots for Medical Applications | Developing nano-robots for targeted drug delivery and diagnostics. |  | [Nano-Robots-for-Medical-Applications.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Nano-Robots-for-Medical-Applications.md) |
 | 99 | Energy Storage | Thermophotovoltaic Energy Conversion | Converting thermal radiation into electrical energy using photovoltaic cells. |  | [Thermophotovoltaic-Energy-Conversion.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Thermophotovoltaic-Energy-Conversion.md) |
 <!-- TABLE END -->
+
+
 
 
 
