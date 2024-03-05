@@ -117,7 +117,10 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 97 | Public Blockchain | Blockchain for Public Records | Maintaining secure and transparent public records with blockchain technology. |  | [Blockchain-for-Public-Records.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-for-Public-Records.md) |
 | 98 | Robotics | Nano-Robots for Medical Applications | Developing nano-robots for targeted drug delivery and diagnostics. |  | [Nano-Robots-for-Medical-Applications.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Nano-Robots-for-Medical-Applications.md) |
 | 99 | Energy Storage | Thermophotovoltaic Energy Conversion | Converting thermal radiation into electrical energy using photovoltaic cells. |  | [Thermophotovoltaic-Energy-Conversion.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Thermophotovoltaic-Energy-Conversion.md) |
+| 100 | Multi Omics Sequencing | Multi-Omics in Plant Biology | Applying multi-omics techniques to study plant biology and improve crop traits. |  | [Multi-Omics-in-Plant-Biology.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Multi-Omics-in-Plant-Biology.md) |
 <!-- TABLE END -->
+
+
 
 
 
