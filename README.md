@@ -118,7 +118,10 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 98 | Robotics | Nano-Robots for Medical Applications | Developing nano-robots for targeted drug delivery and diagnostics. |  | [Nano-Robots-for-Medical-Applications.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Nano-Robots-for-Medical-Applications.md) |
 | 99 | Energy Storage | Thermophotovoltaic Energy Conversion | Converting thermal radiation into electrical energy using photovoltaic cells. |  | [Thermophotovoltaic-Energy-Conversion.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Thermophotovoltaic-Energy-Conversion.md) |
 | 100 | Multi Omics Sequencing | Multi-Omics in Plant Biology | Applying multi-omics techniques to study plant biology and improve crop traits. |  | [Multi-Omics-in-Plant-Biology.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Multi-Omics-in-Plant-Biology.md) |
+| 101 | AI | AI in Sports Analytics | Applying AI for real-time analytics in sports to enhance performance and strategy. |  | [AI-in-Sports-Analytics.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-in-Sports-Analytics.md) |
 <!-- TABLE END -->
+
+
 
 
 
