@@ -49,7 +49,7 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 29 | Energy Storage | Hydrogen Fuel Cells for Energy Storage | The role of hydrogen fuel cells in clean energy storage solutions. | https://medium.com/@kanakjr/hydrogen-fuel-cells-for-energy-storage-cb425a54873e | [Hydrogen-Fuel-Cells-for-Energy-Storage.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Hydrogen-Fuel-Cells-for-Energy-Storage.md) |
 | 30 | Multi Omics Sequencing | Epigenomics and Disease Prevention | Investigating how epigenetic changes influence disease and can be used for prevention. | https://medium.com/@kanakjr/epigenomics-and-disease-prevention-3bc2a602a1ef | [Epigenomics-and-Disease-Prevention.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Epigenomics-and-Disease-Prevention.md) |
 | 31 | AI | AI in Drug Discovery and Development | Accelerating pharmaceutical research with AI-driven drug discovery. | https://medium.com/@kanakjr/ai-in-drug-discovery-and-development-1dc6887841dc | [AI-in-Drug-Discovery-and-Development.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-in-Drug-Discovery-and-Development.md) |
-| 32 | Public Blockchain | Decentralized Autonomous Organizations (DAOs) | The rise and function of DAOs in the blockchain ecosystem. |  | [Decentralized-Autonomous-Organizations-(DAOs).md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Decentralized-Autonomous-Organizations-(DAOs).md) |
+| 32 | Public Blockchain | Decentralized Autonomous Organizations (DAOs) | The rise and function of DAOs in the blockchain ecosystem. | https://medium.com/@kanakjr/decentralized-autonomous-organizations-daos-a63c9ed61706 | [Decentralized-Autonomous-Organizations-(DAOs).md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Decentralized-Autonomous-Organizations-(DAOs).md) |
 | 33 | Robotics | Space Robotics for Extraterrestrial Exploration | Developing robots for missions to other planets and celestial bodies. |  | [Space-Robotics-for-Extraterrestrial-Exploration.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Space-Robotics-for-Extraterrestrial-Exploration.md) |
 | 34 | Energy Storage | Thermal Energy Storage Systems | Innovations in storing energy as heat for later use. |  | [Thermal-Energy-Storage-Systems.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Thermal-Energy-Storage-Systems.md) |
 | 35 | Multi Omics Sequencing | The Microbiome and Human Health | Exploring the relationship between the microbiome and overall health. |  | [The-Microbiome-and-Human-Health.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/The-Microbiome-and-Human-Health.md) |
@@ -121,6 +121,8 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 101 | AI | AI in Sports Analytics | Applying AI for real-time analytics in sports to enhance performance and strategy. |  | [AI-in-Sports-Analytics.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-in-Sports-Analytics.md) |
 | 102 | Public Blockchain | Blockchain in Voting Integrity | Enhancing the integrity and security of electoral processes with blockchain technology. |  | [Blockchain-in-Voting-Integrity.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-in-Voting-Integrity.md) |
 <!-- TABLE END -->
+
+
 
 
 
