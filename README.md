@@ -50,7 +50,7 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 30 | Multi Omics Sequencing | Epigenomics and Disease Prevention | Investigating how epigenetic changes influence disease and can be used for prevention. | https://medium.com/@kanakjr/epigenomics-and-disease-prevention-3bc2a602a1ef | [Epigenomics-and-Disease-Prevention.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Epigenomics-and-Disease-Prevention.md) |
 | 31 | AI | AI in Drug Discovery and Development | Accelerating pharmaceutical research with AI-driven drug discovery. | https://medium.com/@kanakjr/ai-in-drug-discovery-and-development-1dc6887841dc | [AI-in-Drug-Discovery-and-Development.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-in-Drug-Discovery-and-Development.md) |
 | 32 | Public Blockchain | Decentralized Autonomous Organizations (DAOs) | The rise and function of DAOs in the blockchain ecosystem. | https://medium.com/@kanakjr/decentralized-autonomous-organizations-daos-a63c9ed61706 | [Decentralized-Autonomous-Organizations-(DAOs).md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Decentralized-Autonomous-Organizations-(DAOs).md) |
-| 33 | Robotics | Space Robotics for Extraterrestrial Exploration | Developing robots for missions to other planets and celestial bodies. |  | [Space-Robotics-for-Extraterrestrial-Exploration.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Space-Robotics-for-Extraterrestrial-Exploration.md) |
+| 33 | Robotics | Space Robotics for Extraterrestrial Exploration | Developing robots for missions to other planets and celestial bodies. | https://medium.com/@kanakjr/space-robotics-for-extraterrestrial-exploration-07486d8408ab | [Space-Robotics-for-Extraterrestrial-Exploration.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Space-Robotics-for-Extraterrestrial-Exploration.md) |
 | 34 | Energy Storage | Thermal Energy Storage Systems | Innovations in storing energy as heat for later use. |  | [Thermal-Energy-Storage-Systems.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Thermal-Energy-Storage-Systems.md) |
 | 35 | Multi Omics Sequencing | The Microbiome and Human Health | Exploring the relationship between the microbiome and overall health. |  | [The-Microbiome-and-Human-Health.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/The-Microbiome-and-Human-Health.md) |
 | 36 | AI | AI for Climate Change Predictions | Utilizing AI to model and predict climate change impacts. |  | [AI-for-Climate-Change-Predictions.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-for-Climate-Change-Predictions.md) |
@@ -122,6 +122,8 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 102 | Public Blockchain | Blockchain in Voting Integrity | Enhancing the integrity and security of electoral processes with blockchain technology. |  | [Blockchain-in-Voting-Integrity.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-in-Voting-Integrity.md) |
 | 103 | Robotics | Robots in Healthcare Assistance | Deploying robots for healthcare assistance to improve patient care. |  | [Robots-in-Healthcare-Assistance.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Robots-in-Healthcare-Assistance.md) |
 <!-- TABLE END -->
+
+
 
 
 
