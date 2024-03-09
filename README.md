@@ -51,7 +51,7 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 31 | AI | AI in Drug Discovery and Development | Accelerating pharmaceutical research with AI-driven drug discovery. | https://medium.com/@kanakjr/ai-in-drug-discovery-and-development-1dc6887841dc | [AI-in-Drug-Discovery-and-Development.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-in-Drug-Discovery-and-Development.md) |
 | 32 | Public Blockchain | Decentralized Autonomous Organizations (DAOs) | The rise and function of DAOs in the blockchain ecosystem. | https://medium.com/@kanakjr/decentralized-autonomous-organizations-daos-a63c9ed61706 | [Decentralized-Autonomous-Organizations-(DAOs).md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Decentralized-Autonomous-Organizations-(DAOs).md) |
 | 33 | Robotics | Space Robotics for Extraterrestrial Exploration | Developing robots for missions to other planets and celestial bodies. | https://medium.com/@kanakjr/space-robotics-for-extraterrestrial-exploration-07486d8408ab | [Space-Robotics-for-Extraterrestrial-Exploration.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Space-Robotics-for-Extraterrestrial-Exploration.md) |
-| 34 | Energy Storage | Thermal Energy Storage Systems | Innovations in storing energy as heat for later use. |  | [Thermal-Energy-Storage-Systems.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Thermal-Energy-Storage-Systems.md) |
+| 34 | Energy Storage | Thermal Energy Storage Systems | Innovations in storing energy as heat for later use. | https://medium.com/@kanakjr/thermal-energy-storage-systems-innovations-in-storing-energy-as-heat-for-later-use-137a7e1f6e29 | [Thermal-Energy-Storage-Systems.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Thermal-Energy-Storage-Systems.md) |
 | 35 | Multi Omics Sequencing | The Microbiome and Human Health | Exploring the relationship between the microbiome and overall health. |  | [The-Microbiome-and-Human-Health.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/The-Microbiome-and-Human-Health.md) |
 | 36 | AI | AI for Climate Change Predictions | Utilizing AI to model and predict climate change impacts. |  | [AI-for-Climate-Change-Predictions.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-for-Climate-Change-Predictions.md) |
 | 37 | Public Blockchain | Cryptocurrency and Financial Inclusion | How cryptocurrencies can provide financial services to the unbanked population. |  | [Cryptocurrency-and-Financial-Inclusion.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Cryptocurrency-and-Financial-Inclusion.md) |
@@ -123,6 +123,8 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 103 | Robotics | Robots in Healthcare Assistance | Deploying robots for healthcare assistance to improve patient care. |  | [Robots-in-Healthcare-Assistance.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Robots-in-Healthcare-Assistance.md) |
 | 104 | Energy Storage | Advanced Supercapacitors | Developing high-performance supercapacitors for energy storage and rapid charging. |  | [Advanced-Supercapacitors.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Advanced-Supercapacitors.md) |
 <!-- TABLE END -->
+
+
 
 
 
