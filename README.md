@@ -122,7 +122,10 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 102 | Public Blockchain | Blockchain in Voting Integrity | Enhancing the integrity and security of electoral processes with blockchain technology. |  | [Blockchain-in-Voting-Integrity.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-in-Voting-Integrity.md) |
 | 103 | Robotics | Robots in Healthcare Assistance | Deploying robots for healthcare assistance to improve patient care. |  | [Robots-in-Healthcare-Assistance.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Robots-in-Healthcare-Assistance.md) |
 | 104 | Energy Storage | Advanced Supercapacitors | Developing high-performance supercapacitors for energy storage and rapid charging. |  | [Advanced-Supercapacitors.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Advanced-Supercapacitors.md) |
+| 105 | Multi Omics Sequencing | Multi-Omics in Environmental Science | Using multi-omics techniques to study environmental impacts on health. |  | [Multi-Omics-in-Environmental-Science.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Multi-Omics-in-Environmental-Science.md) |
 <!-- TABLE END -->
+
+
 
 
 
