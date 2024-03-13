@@ -124,7 +124,10 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 104 | Energy Storage | Advanced Supercapacitors | Developing high-performance supercapacitors for energy storage and rapid charging. |  | [Advanced-Supercapacitors.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Advanced-Supercapacitors.md) |
 | 105 | Multi Omics Sequencing | Multi-Omics in Environmental Science | Using multi-omics techniques to study environmental impacts on health. |  | [Multi-Omics-in-Environmental-Science.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Multi-Omics-in-Environmental-Science.md) |
 | 106 | AI | Deep Learning in Image Recognition | Enhancing image recognition capabilities using deep learning technologies. |  | [Deep-Learning-in-Image-Recognition.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Deep-Learning-in-Image-Recognition.md) |
+| 107 | Public Blockchain | Blockchain for Digital Rights Management | Improving digital rights management for creators using blockchain technology. |  | [Blockchain-for-Digital-Rights-Management.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-for-Digital-Rights-Management.md) |
 <!-- TABLE END -->
+
+
 
 
 
