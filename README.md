@@ -127,7 +127,10 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 107 | Public Blockchain | Blockchain for Digital Rights Management | Improving digital rights management for creators using blockchain technology. |  | [Blockchain-for-Digital-Rights-Management.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-for-Digital-Rights-Management.md) |
 | 108 | Robotics | Industrial Automation with Robots | Advancing industrial automation through the integration of robotics technology. |  | [Industrial-Automation-with-Robots.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Industrial-Automation-with-Robots.md) |
 | 109 | Energy Storage | Hybrid Energy Systems | Combining different energy storage technologies for optimized performance. |  | [Hybrid-Energy-Systems.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Hybrid-Energy-Systems.md) |
+| 110 | Multi Omics Sequencing | Pathogenomics for Infectious Disease | Studying the genomics of pathogens to understand infectious diseases better. |  | [Pathogenomics-for-Infectious-Disease.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Pathogenomics-for-Infectious-Disease.md) |
 <!-- TABLE END -->
+
+
 
 
 
