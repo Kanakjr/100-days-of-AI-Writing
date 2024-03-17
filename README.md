@@ -56,7 +56,7 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 36 | AI | AI for Climate Change Predictions | Utilizing AI to model and predict climate change impacts. | https://medium.com/@kanakjr/ai-for-climate-change-predictions-utilizing-ai-to-model-and-predict-climate-change-impacts-200970958851 | [AI-for-Climate-Change-Predictions.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-for-Climate-Change-Predictions.md) |
 | 37 | Public Blockchain | Cryptocurrency and Financial Inclusion | How cryptocurrencies can provide financial services to the unbanked population. | https://medium.com/@kanakjr/cryptocurrency-and-financial-inclusion-b21dd2498e14 | [Cryptocurrency-and-Financial-Inclusion.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Cryptocurrency-and-Financial-Inclusion.md) |
 | 38 | Robotics | Agricultural Robots for Sustainable Farming | Robots that assist in creating more sustainable and efficient farming practices. | https://medium.com/@kanakjr/agricultural-robots-for-sustainable-farming-fd77726b9f4b | [Agricultural-Robots-for-Sustainable-Farming.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Agricultural-Robots-for-Sustainable-Farming.md) |
-| 39 | Energy Storage | Mechanical Energy Storage Innovations | Exploring new mechanical systems for storing energy. |  | [Mechanical-Energy-Storage-Innovations.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Mechanical-Energy-Storage-Innovations.md) |
+| 39 | Energy Storage | Mechanical Energy Storage Innovations | Exploring new mechanical systems for storing energy. | https://medium.com/@kanakjr/mechanical-energy-storage-innovations-exploring-new-mechanical-systems-for-storing-energy-0e3d5fa75112 | [Mechanical-Energy-Storage-Innovations.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Mechanical-Energy-Storage-Innovations.md) |
 | 40 | Multi Omics Sequencing | Proteogenomics in Precision Oncology | Combining proteomics and genomics for targeted cancer therapies. |  | [Proteogenomics-in-Precision-Oncology.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Proteogenomics-in-Precision-Oncology.md) |
 | 41 | AI | AI in Retail Personalization | Improving customer experiences in retail through AI-powered personalization. |  | [AI-in-Retail-Personalization.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-in-Retail-Personalization.md) |
 | 42 | Public Blockchain | Blockchain for Digital Identity Verification | Using blockchain to create secure and verifiable digital identities. |  | [Blockchain-for-Digital-Identity-Verification.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-for-Digital-Identity-Verification.md) |
@@ -129,6 +129,8 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 109 | Energy Storage | Hybrid Energy Systems | Combining different energy storage technologies for optimized performance. |  | [Hybrid-Energy-Systems.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Hybrid-Energy-Systems.md) |
 | 110 | Multi Omics Sequencing | Pathogenomics for Infectious Disease | Studying the genomics of pathogens to understand infectious diseases better. |  | [Pathogenomics-for-Infectious-Disease.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Pathogenomics-for-Infectious-Disease.md) |
 <!-- TABLE END -->
+
+
 
 
 
