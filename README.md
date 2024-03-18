@@ -57,7 +57,7 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 37 | Public Blockchain | Cryptocurrency and Financial Inclusion | How cryptocurrencies can provide financial services to the unbanked population. | https://medium.com/@kanakjr/cryptocurrency-and-financial-inclusion-b21dd2498e14 | [Cryptocurrency-and-Financial-Inclusion.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Cryptocurrency-and-Financial-Inclusion.md) |
 | 38 | Robotics | Agricultural Robots for Sustainable Farming | Robots that assist in creating more sustainable and efficient farming practices. | https://medium.com/@kanakjr/agricultural-robots-for-sustainable-farming-fd77726b9f4b | [Agricultural-Robots-for-Sustainable-Farming.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Agricultural-Robots-for-Sustainable-Farming.md) |
 | 39 | Energy Storage | Mechanical Energy Storage Innovations | Exploring new mechanical systems for storing energy. | https://medium.com/@kanakjr/mechanical-energy-storage-innovations-exploring-new-mechanical-systems-for-storing-energy-0e3d5fa75112 | [Mechanical-Energy-Storage-Innovations.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Mechanical-Energy-Storage-Innovations.md) |
-| 40 | Multi Omics Sequencing | Proteogenomics in Precision Oncology | Combining proteomics and genomics for targeted cancer therapies. |  | [Proteogenomics-in-Precision-Oncology.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Proteogenomics-in-Precision-Oncology.md) |
+| 40 | Multi Omics Sequencing | Proteogenomics in Precision Oncology | Combining proteomics and genomics for targeted cancer therapies. | https://medium.com/@kanakjr/proteogenomics-in-precision-oncology-f927a6c25ef5 | [Proteogenomics-in-Precision-Oncology.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Proteogenomics-in-Precision-Oncology.md) |
 | 41 | AI | AI in Retail Personalization | Improving customer experiences in retail through AI-powered personalization. |  | [AI-in-Retail-Personalization.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-in-Retail-Personalization.md) |
 | 42 | Public Blockchain | Blockchain for Digital Identity Verification | Using blockchain to create secure and verifiable digital identities. |  | [Blockchain-for-Digital-Identity-Verification.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-for-Digital-Identity-Verification.md) |
 | 43 | Robotics | Robots in Elderly Care | The use of robotics to support the care and independence of the elderly. |  | [Robots-in-Elderly-Care.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Robots-in-Elderly-Care.md) |
@@ -130,6 +130,8 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 110 | Multi Omics Sequencing | Pathogenomics for Infectious Disease | Studying the genomics of pathogens to understand infectious diseases better. |  | [Pathogenomics-for-Infectious-Disease.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Pathogenomics-for-Infectious-Disease.md) |
 | 111 | AI | AI for Sustainable Agriculture | Utilizing AI to promote sustainable agricultural practices and resource management. |  | [AI-for-Sustainable-Agriculture.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-for-Sustainable-Agriculture.md) |
 <!-- TABLE END -->
+
+
 
 
 
