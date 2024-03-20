@@ -59,7 +59,7 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 39 | Energy Storage | Mechanical Energy Storage Innovations | Exploring new mechanical systems for storing energy. | https://medium.com/@kanakjr/mechanical-energy-storage-innovations-exploring-new-mechanical-systems-for-storing-energy-0e3d5fa75112 | [Mechanical-Energy-Storage-Innovations.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Mechanical-Energy-Storage-Innovations.md) |
 | 40 | Multi Omics Sequencing | Proteogenomics in Precision Oncology | Combining proteomics and genomics for targeted cancer therapies. | https://medium.com/@kanakjr/proteogenomics-in-precision-oncology-f927a6c25ef5 | [Proteogenomics-in-Precision-Oncology.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Proteogenomics-in-Precision-Oncology.md) |
 | 41 | AI | AI in Retail Personalization | Improving customer experiences in retail through AI-powered personalization. | https://medium.com/@kanakjr/ai-in-retail-personalization-d83bebdbc758 | [AI-in-Retail-Personalization.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-in-Retail-Personalization.md) |
-| 42 | Public Blockchain | Blockchain for Digital Identity Verification | Using blockchain to create secure and verifiable digital identities. |  | [Blockchain-for-Digital-Identity-Verification.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-for-Digital-Identity-Verification.md) |
+| 42 | Public Blockchain | Blockchain for Digital Identity Verification | Using blockchain to create secure and verifiable digital identities. | https://medium.com/@kanakjr/blockchain-for-digital-identity-verification-c14e05b92efc | [Blockchain-for-Digital-Identity-Verification.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-for-Digital-Identity-Verification.md) |
 | 43 | Robotics | Robots in Elderly Care | The use of robotics to support the care and independence of the elderly. |  | [Robots-in-Elderly-Care.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Robots-in-Elderly-Care.md) |
 | 44 | Energy Storage | Capacitive Energy Storage Technology | Advances in capacitors for high-density energy storage applications. |  | [Capacitive-Energy-Storage-Technology.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Capacitive-Energy-Storage-Technology.md) |
 | 45 | Multi Omics Sequencing | Functional Genomics in Drug Resistance | Studying gene functions to combat drug resistance in diseases. |  | [Functional-Genomics-in-Drug-Resistance.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Functional-Genomics-in-Drug-Resistance.md) |
@@ -132,6 +132,8 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 112 | Public Blockchain | Decentralized Marketplaces | Creating peer-to-peer marketplaces using blockchain for secure transactions. |  | [Decentralized-Marketplaces.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Decentralized-Marketplaces.md) |
 | 113 | Robotics | Robotic Assistants in Education | Implementing robotic assistants to support educational processes and engagement. |  | [Robotic-Assistants-in-Education.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Robotic-Assistants-in-Education.md) |
 <!-- TABLE END -->
+
+
 
 
 
