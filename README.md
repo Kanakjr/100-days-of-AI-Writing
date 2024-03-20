@@ -130,7 +130,10 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 110 | Multi Omics Sequencing | Pathogenomics for Infectious Disease | Studying the genomics of pathogens to understand infectious diseases better. |  | [Pathogenomics-for-Infectious-Disease.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Pathogenomics-for-Infectious-Disease.md) |
 | 111 | AI | AI for Sustainable Agriculture | Utilizing AI to promote sustainable agricultural practices and resource management. |  | [AI-for-Sustainable-Agriculture.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-for-Sustainable-Agriculture.md) |
 | 112 | Public Blockchain | Decentralized Marketplaces | Creating peer-to-peer marketplaces using blockchain for secure transactions. |  | [Decentralized-Marketplaces.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Decentralized-Marketplaces.md) |
+| 113 | Robotics | Robotic Assistants in Education | Implementing robotic assistants to support educational processes and engagement. |  | [Robotic-Assistants-in-Education.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Robotic-Assistants-in-Education.md) |
 <!-- TABLE END -->
+
+
 
 
 
