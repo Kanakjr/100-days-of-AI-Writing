@@ -60,7 +60,7 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 40 | Multi Omics Sequencing | Proteogenomics in Precision Oncology | Combining proteomics and genomics for targeted cancer therapies. | https://medium.com/@kanakjr/proteogenomics-in-precision-oncology-f927a6c25ef5 | [Proteogenomics-in-Precision-Oncology.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Proteogenomics-in-Precision-Oncology.md) |
 | 41 | AI | AI in Retail Personalization | Improving customer experiences in retail through AI-powered personalization. | https://medium.com/@kanakjr/ai-in-retail-personalization-d83bebdbc758 | [AI-in-Retail-Personalization.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-in-Retail-Personalization.md) |
 | 42 | Public Blockchain | Blockchain for Digital Identity Verification | Using blockchain to create secure and verifiable digital identities. | https://medium.com/@kanakjr/blockchain-for-digital-identity-verification-c14e05b92efc | [Blockchain-for-Digital-Identity-Verification.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-for-Digital-Identity-Verification.md) |
-| 43 | Robotics | Robots in Elderly Care | The use of robotics to support the care and independence of the elderly. |  | [Robots-in-Elderly-Care.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Robots-in-Elderly-Care.md) |
+| 43 | Robotics | Robots in Elderly Care | The use of robotics to support the care and independence of the elderly. | https://medium.com/@kanakjr/robots-in-elderly-care-the-use-of-robotics-to-support-the-care-and-independence-of-the-elderly-be7183f7b339 | [Robots-in-Elderly-Care.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Robots-in-Elderly-Care.md) |
 | 44 | Energy Storage | Capacitive Energy Storage Technology | Advances in capacitors for high-density energy storage applications. |  | [Capacitive-Energy-Storage-Technology.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Capacitive-Energy-Storage-Technology.md) |
 | 45 | Multi Omics Sequencing | Functional Genomics in Drug Resistance | Studying gene functions to combat drug resistance in diseases. |  | [Functional-Genomics-in-Drug-Resistance.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Functional-Genomics-in-Drug-Resistance.md) |
 | 46 | AI | AI-Enhanced Predictive Maintenance | Using AI to predict equipment failures and schedule timely maintenance. |  | [AI-Enhanced-Predictive-Maintenance.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-Enhanced-Predictive-Maintenance.md) |
@@ -133,6 +133,8 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 113 | Robotics | Robotic Assistants in Education | Implementing robotic assistants to support educational processes and engagement. |  | [Robotic-Assistants-in-Education.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Robotic-Assistants-in-Education.md) |
 | 114 | Energy Storage | Lithium-Sulfur Batteries | Developing lithium-sulfur batteries for higher efficiency and energy density. |  | [Lithium-Sulfur-Batteries.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Lithium-Sulfur-Batteries.md) |
 <!-- TABLE END -->
+
+
 
 
 
