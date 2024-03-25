@@ -62,7 +62,7 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 42 | Public Blockchain | Blockchain for Digital Identity Verification | Using blockchain to create secure and verifiable digital identities. | https://medium.com/@kanakjr/blockchain-for-digital-identity-verification-c14e05b92efc | [Blockchain-for-Digital-Identity-Verification.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-for-Digital-Identity-Verification.md) |
 | 43 | Robotics | Robots in Elderly Care | The use of robotics to support the care and independence of the elderly. | https://medium.com/@kanakjr/robots-in-elderly-care-the-use-of-robotics-to-support-the-care-and-independence-of-the-elderly-be7183f7b339 | [Robots-in-Elderly-Care.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Robots-in-Elderly-Care.md) |
 | 44 | Energy Storage | Capacitive Energy Storage Technology | Advances in capacitors for high-density energy storage applications. | https://medium.com/@kanakjr/capacitive-energy-storage-technology-73c9c2713a1a | [Capacitive-Energy-Storage-Technology.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Capacitive-Energy-Storage-Technology.md) |
-| 45 | Multi Omics Sequencing | Functional Genomics in Drug Resistance | Studying gene functions to combat drug resistance in diseases. |  | [Functional-Genomics-in-Drug-Resistance.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Functional-Genomics-in-Drug-Resistance.md) |
+| 45 | Multi Omics Sequencing | Functional Genomics in Drug Resistance | Studying gene functions to combat drug resistance in diseases. | https://medium.com/@kanakjr/functional-genomics-in-drug-resistance-df4844bdc27d | [Functional-Genomics-in-Drug-Resistance.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Functional-Genomics-in-Drug-Resistance.md) |
 | 46 | AI | AI-Enhanced Predictive Maintenance | Using AI to predict equipment failures and schedule timely maintenance. |  | [AI-Enhanced-Predictive-Maintenance.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-Enhanced-Predictive-Maintenance.md) |
 | 47 | Public Blockchain | Blockchain in Digital Content Rights Management | Protecting creators' rights and managing digital content distribution with blockchain. |  | [Blockchain-in-Digital-Content-Rights-Management.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-in-Digital-Content-Rights-Management.md) |
 | 48 | Robotics | Humanoid Robots and Social Interaction | Developing humanoid robots for social interaction and assistance. |  | [Humanoid-Robots-and-Social-Interaction.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Humanoid-Robots-and-Social-Interaction.md) |
@@ -135,6 +135,8 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 115 | Multi Omics Sequencing | Stem Cell Genomics | Exploring the genomics of stem cells to understand their regenerative properties. |  | [Stem-Cell-Genomics.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Stem-Cell-Genomics.md) |
 | 116 | AI | Machine Learning in Financial Analysis | Applying machine learning to predict financial markets and analyze investment opportunities. |  | [Machine-Learning-in-Financial-Analysis.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Machine-Learning-in-Financial-Analysis.md) |
 <!-- TABLE END -->
+
+
 
 
 
