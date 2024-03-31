@@ -134,7 +134,10 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 114 | Energy Storage | Lithium-Sulfur Batteries | Developing lithium-sulfur batteries for higher efficiency and energy density. |  | [Lithium-Sulfur-Batteries.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Lithium-Sulfur-Batteries.md) |
 | 115 | Multi Omics Sequencing | Stem Cell Genomics | Exploring the genomics of stem cells to understand their regenerative properties. |  | [Stem-Cell-Genomics.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Stem-Cell-Genomics.md) |
 | 116 | AI | Machine Learning in Financial Analysis | Applying machine learning to predict financial markets and analyze investment opportunities. |  | [Machine-Learning-in-Financial-Analysis.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Machine-Learning-in-Financial-Analysis.md) |
+| 117 | Public Blockchain | Smart Contracts for Insurance | Utilizing smart contracts in blockchain to automate and secure insurance processes. |  | [Smart-Contracts-for-Insurance.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Smart-Contracts-for-Insurance.md) |
 <!-- TABLE END -->
+
+
 
 
 
