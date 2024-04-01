@@ -64,7 +64,7 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 44 | Energy Storage | Capacitive Energy Storage Technology | Advances in capacitors for high-density energy storage applications. | https://medium.com/@kanakjr/capacitive-energy-storage-technology-73c9c2713a1a | [Capacitive-Energy-Storage-Technology.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Capacitive-Energy-Storage-Technology.md) |
 | 45 | Multi Omics Sequencing | Functional Genomics in Drug Resistance | Studying gene functions to combat drug resistance in diseases. | https://medium.com/@kanakjr/functional-genomics-in-drug-resistance-df4844bdc27d | [Functional-Genomics-in-Drug-Resistance.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Functional-Genomics-in-Drug-Resistance.md) |
 | 46 | AI | AI-Enhanced Predictive Maintenance | Using AI to predict equipment failures and schedule timely maintenance. | https://medium.com/@kanakjr/ai-enhanced-predictive-maintenance-4dfda288abc8 | [AI-Enhanced-Predictive-Maintenance.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-Enhanced-Predictive-Maintenance.md) |
-| 47 | Public Blockchain | Blockchain in Digital Content Rights Management | Protecting creators' rights and managing digital content distribution with blockchain. |  | [Blockchain-in-Digital-Content-Rights-Management.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-in-Digital-Content-Rights-Management.md) |
+| 47 | Public Blockchain | Blockchain in Digital Content Rights Management | Protecting creators' rights and managing digital content distribution with blockchain. | https://medium.com/@kanakjr/blockchain-in-digital-content-rights-management-825f53c8bcac | [Blockchain-in-Digital-Content-Rights-Management.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-in-Digital-Content-Rights-Management.md) |
 | 48 | Robotics | Humanoid Robots and Social Interaction | Developing humanoid robots for social interaction and assistance. |  | [Humanoid-Robots-and-Social-Interaction.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Humanoid-Robots-and-Social-Interaction.md) |
 | 49 | Energy Storage | Bioelectrochemical Energy Storage | Biological methods of storing and generating energy. |  | [Bioelectrochemical-Energy-Storage.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Bioelectrochemical-Energy-Storage.md) |
 | 50 | Multi Omics Sequencing | Single-Cell Sequencing in Immunology | Using single-cell sequencing to understand immune responses at the cellular level. |  | [Single-Cell-Sequencing-in-Immunology.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Single-Cell-Sequencing-in-Immunology.md) |
@@ -137,6 +137,8 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 117 | Public Blockchain | Smart Contracts for Insurance | Utilizing smart contracts in blockchain to automate and secure insurance processes. |  | [Smart-Contracts-for-Insurance.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Smart-Contracts-for-Insurance.md) |
 | 118 | Robotics | Robots in Environmental Monitoring | Using robots for environmental monitoring to collect data on ecological changes. |  | [Robots-in-Environmental-Monitoring.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Robots-in-Environmental-Monitoring.md) |
 <!-- TABLE END -->
+
+
 
 
 
