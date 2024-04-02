@@ -136,7 +136,10 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 116 | AI | Machine Learning in Financial Analysis | Applying machine learning to predict financial markets and analyze investment opportunities. |  | [Machine-Learning-in-Financial-Analysis.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Machine-Learning-in-Financial-Analysis.md) |
 | 117 | Public Blockchain | Smart Contracts for Insurance | Utilizing smart contracts in blockchain to automate and secure insurance processes. |  | [Smart-Contracts-for-Insurance.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Smart-Contracts-for-Insurance.md) |
 | 118 | Robotics | Robots in Environmental Monitoring | Using robots for environmental monitoring to collect data on ecological changes. |  | [Robots-in-Environmental-Monitoring.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Robots-in-Environmental-Monitoring.md) |
+| 119 | Energy Storage | Ultrafast Charging Batteries | Innovating batteries that support ultrafast charging for electronic devices. |  | [Ultrafast-Charging-Batteries.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Ultrafast-Charging-Batteries.md) |
 <!-- TABLE END -->
+
+
 
 
 
