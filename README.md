@@ -67,7 +67,7 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 47 | Public Blockchain | Blockchain in Digital Content Rights Management | Protecting creators' rights and managing digital content distribution with blockchain. | https://medium.com/@kanakjr/blockchain-in-digital-content-rights-management-825f53c8bcac | [Blockchain-in-Digital-Content-Rights-Management.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-in-Digital-Content-Rights-Management.md) |
 | 48 | Robotics | Humanoid Robots and Social Interaction | Developing humanoid robots for social interaction and assistance. | https://medium.com/@kanakjr/humanoid-robots-and-social-interaction-672e08640b17 | [Humanoid-Robots-and-Social-Interaction.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Humanoid-Robots-and-Social-Interaction.md) |
 | 49 | Energy Storage | Bioelectrochemical Energy Storage | Biological methods of storing and generating energy. | https://medium.com/@kanakjr/bioelectrochemical-energy-storage-biological-methods-of-storing-and-generating-energy-6825b4f47ee9 | [Bioelectrochemical-Energy-Storage.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Bioelectrochemical-Energy-Storage.md) |
-| 50 | Multi Omics Sequencing | Single-Cell Sequencing in Immunology | Using single-cell sequencing to understand immune responses at the cellular level. |  | [Single-Cell-Sequencing-in-Immunology.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Single-Cell-Sequencing-in-Immunology.md) |
+| 50 | Multi Omics Sequencing | Single-Cell Sequencing in Immunology | Using single-cell sequencing to understand immune responses at the cellular level. | https://medium.com/@kanakjr/single-cell-sequencing-in-immunology-7ae5f9b02122 | [Single-Cell-Sequencing-in-Immunology.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Single-Cell-Sequencing-in-Immunology.md) |
 | 51 | AI | AI in Legal Document Analysis | AI algorithms that can analyze and summarize legal documents. |  | [AI-in-Legal-Document-Analysis.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-in-Legal-Document-Analysis.md) |
 | 52 | Public Blockchain | Blockchain in Healthcare Data Management | Secure management of healthcare data using blockchain technology. |  | [Blockchain-in-Healthcare-Data-Management.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-in-Healthcare-Data-Management.md) |
 | 53 | Robotics | Robots for Personal Assistance | Development of robots to aid in daily tasks for individuals. |  | [Robots-for-Personal-Assistance.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Robots-for-Personal-Assistance.md) |
@@ -140,6 +140,8 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 120 | Multi Omics Sequencing | Functional Metagenomics | Applying functional metagenomics to explore microbial communities and their functions. |  | [Functional-Metagenomics.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Functional-Metagenomics.md) |
 | 121 | AI | AI in Precision Medicine | Integrating AI with precision medicine to tailor healthcare to individual genetic profiles. |  | [AI-in-Precision-Medicine.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-in-Precision-Medicine.md) |
 <!-- TABLE END -->
+
+
 
 
 
