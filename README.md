@@ -139,7 +139,10 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 119 | Energy Storage | Ultrafast Charging Batteries | Innovating batteries that support ultrafast charging for electronic devices. |  | [Ultrafast-Charging-Batteries.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Ultrafast-Charging-Batteries.md) |
 | 120 | Multi Omics Sequencing | Functional Metagenomics | Applying functional metagenomics to explore microbial communities and their functions. |  | [Functional-Metagenomics.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Functional-Metagenomics.md) |
 | 121 | AI | AI in Precision Medicine | Integrating AI with precision medicine to tailor healthcare to individual genetic profiles. |  | [AI-in-Precision-Medicine.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-in-Precision-Medicine.md) |
+| 122 | Public Blockchain | Cryptocurrency Regulations | Exploring the impact of regulations on the cryptocurrency market and innovation. |  | [Cryptocurrency-Regulations.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Cryptocurrency-Regulations.md) |
 <!-- TABLE END -->
+
+
 
 
 
