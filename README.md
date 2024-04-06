@@ -69,7 +69,7 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 49 | Energy Storage | Bioelectrochemical Energy Storage | Biological methods of storing and generating energy. | https://medium.com/@kanakjr/bioelectrochemical-energy-storage-biological-methods-of-storing-and-generating-energy-6825b4f47ee9 | [Bioelectrochemical-Energy-Storage.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Bioelectrochemical-Energy-Storage.md) |
 | 50 | Multi Omics Sequencing | Single-Cell Sequencing in Immunology | Using single-cell sequencing to understand immune responses at the cellular level. | https://medium.com/@kanakjr/single-cell-sequencing-in-immunology-7ae5f9b02122 | [Single-Cell-Sequencing-in-Immunology.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Single-Cell-Sequencing-in-Immunology.md) |
 | 51 | AI | AI in Legal Document Analysis | AI algorithms that can analyze and summarize legal documents. | https://medium.com/@kanakjr/ai-in-legal-document-analysis-ai-algorithms-that-can-analyze-and-summarize-legal-documents-2ced273c9d5a | [AI-in-Legal-Document-Analysis.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-in-Legal-Document-Analysis.md) |
-| 52 | Public Blockchain | Blockchain in Healthcare Data Management | Secure management of healthcare data using blockchain technology. |  | [Blockchain-in-Healthcare-Data-Management.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-in-Healthcare-Data-Management.md) |
+| 52 | Public Blockchain | Blockchain in Healthcare Data Management | Secure management of healthcare data using blockchain technology. | https://medium.com/@kanakjr/blockchain-in-healthcare-data-management-22a5142ee095 | [Blockchain-in-Healthcare-Data-Management.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-in-Healthcare-Data-Management.md) |
 | 53 | Robotics | Robots for Personal Assistance | Development of robots to aid in daily tasks for individuals. |  | [Robots-for-Personal-Assistance.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Robots-for-Personal-Assistance.md) |
 | 54 | Energy Storage | Wireless Energy Transfer Systems | Innovative methods for transferring energy wirelessly. |  | [Wireless-Energy-Transfer-Systems.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Wireless-Energy-Transfer-Systems.md) |
 | 55 | Multi Omics Sequencing | Metabolomics in Nutritional Science | Using metabolomics to understand the effects of diet on health. |  | [Metabolomics-in-Nutritional-Science.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Metabolomics-in-Nutritional-Science.md) |
@@ -142,6 +142,8 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 122 | Public Blockchain | Cryptocurrency Regulations | Exploring the impact of regulations on the cryptocurrency market and innovation. |  | [Cryptocurrency-Regulations.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Cryptocurrency-Regulations.md) |
 | 123 | Robotics | Autonomous Delivery Robots | Developing autonomous robots for efficient and secure delivery services. |  | [Autonomous-Delivery-Robots.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Autonomous-Delivery-Robots.md) |
 <!-- TABLE END -->
+
+
 
 
 
