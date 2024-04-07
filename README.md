@@ -141,7 +141,10 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 121 | AI | AI in Precision Medicine | Integrating AI with precision medicine to tailor healthcare to individual genetic profiles. |  | [AI-in-Precision-Medicine.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-in-Precision-Medicine.md) |
 | 122 | Public Blockchain | Cryptocurrency Regulations | Exploring the impact of regulations on the cryptocurrency market and innovation. |  | [Cryptocurrency-Regulations.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Cryptocurrency-Regulations.md) |
 | 123 | Robotics | Autonomous Delivery Robots | Developing autonomous robots for efficient and secure delivery services. |  | [Autonomous-Delivery-Robots.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Autonomous-Delivery-Robots.md) |
+| 124 | Energy Storage | Bioenergy with Carbon Capture | Combining bioenergy production with carbon capture technologies for cleaner energy. |  | [Bioenergy-with-Carbon-Capture.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Bioenergy-with-Carbon-Capture.md) |
 <!-- TABLE END -->
+
+
 
 
 
