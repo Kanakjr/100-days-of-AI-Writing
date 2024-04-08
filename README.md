@@ -71,7 +71,7 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 51 | AI | AI in Legal Document Analysis | AI algorithms that can analyze and summarize legal documents. | https://medium.com/@kanakjr/ai-in-legal-document-analysis-ai-algorithms-that-can-analyze-and-summarize-legal-documents-2ced273c9d5a | [AI-in-Legal-Document-Analysis.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-in-Legal-Document-Analysis.md) |
 | 52 | Public Blockchain | Blockchain in Healthcare Data Management | Secure management of healthcare data using blockchain technology. | https://medium.com/@kanakjr/blockchain-in-healthcare-data-management-22a5142ee095 | [Blockchain-in-Healthcare-Data-Management.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-in-Healthcare-Data-Management.md) |
 | 53 | Robotics | Robots for Personal Assistance | Development of robots to aid in daily tasks for individuals. | https://medium.com/@kanakjr/robots-for-personal-assistance-development-of-robots-to-aid-in-daily-tasks-for-individuals-0177ff6cc588 | [Robots-for-Personal-Assistance.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Robots-for-Personal-Assistance.md) |
-| 54 | Energy Storage | Wireless Energy Transfer Systems | Innovative methods for transferring energy wirelessly. |  | [Wireless-Energy-Transfer-Systems.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Wireless-Energy-Transfer-Systems.md) |
+| 54 | Energy Storage | Wireless Energy Transfer Systems | Innovative methods for transferring energy wirelessly. | https://medium.com/@kanakjr/wireless-energy-transfer-systems-innovative-methods-for-transferring-energy-wirelessly-b1519c6c34d1 | [Wireless-Energy-Transfer-Systems.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Wireless-Energy-Transfer-Systems.md) |
 | 55 | Multi Omics Sequencing | Metabolomics in Nutritional Science | Using metabolomics to understand the effects of diet on health. |  | [Metabolomics-in-Nutritional-Science.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Metabolomics-in-Nutritional-Science.md) |
 | 56 | AI | AI in Weather Forecasting | Enhancing the accuracy of weather predictions with AI technologies. |  | [AI-in-Weather-Forecasting.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-in-Weather-Forecasting.md) |
 | 57 | Public Blockchain | Blockchain for Renewable Energy Certificates | Tracking and trading renewable energy certificates on the blockchain. |  | [Blockchain-for-Renewable-Energy-Certificates.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-for-Renewable-Energy-Certificates.md) |
@@ -144,6 +144,8 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 124 | Energy Storage | Bioenergy with Carbon Capture | Combining bioenergy production with carbon capture technologies for cleaner energy. |  | [Bioenergy-with-Carbon-Capture.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Bioenergy-with-Carbon-Capture.md) |
 | 125 | Multi Omics Sequencing | Pharmacogenomics for Personalized Medicine | Utilizing pharmacogenomics to customize drug therapies based on individual genomics. |  | [Pharmacogenomics-for-Personalized-Medicine.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Pharmacogenomics-for-Personalized-Medicine.md) |
 <!-- TABLE END -->
+
+
 
 
 
