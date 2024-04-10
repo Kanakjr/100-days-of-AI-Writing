@@ -144,7 +144,10 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 124 | Energy Storage | Bioenergy with Carbon Capture | Combining bioenergy production with carbon capture technologies for cleaner energy. |  | [Bioenergy-with-Carbon-Capture.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Bioenergy-with-Carbon-Capture.md) |
 | 125 | Multi Omics Sequencing | Pharmacogenomics for Personalized Medicine | Utilizing pharmacogenomics to customize drug therapies based on individual genomics. |  | [Pharmacogenomics-for-Personalized-Medicine.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Pharmacogenomics-for-Personalized-Medicine.md) |
 | 126 | AI | AI in Traffic Management and Control | Implementing AI to improve traffic management and reduce congestion in urban areas. |  | [AI-in-Traffic-Management-and-Control.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-in-Traffic-Management-and-Control.md) |
+| 127 | Public Blockchain | Blockchain for Identity Verification | Enhancing identity verification processes with secure blockchain technology. |  | [Blockchain-for-Identity-Verification.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-for-Identity-Verification.md) |
 <!-- TABLE END -->
+
+
 
 
 
