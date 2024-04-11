@@ -74,7 +74,7 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 54 | Energy Storage | Wireless Energy Transfer Systems | Innovative methods for transferring energy wirelessly. | https://medium.com/@kanakjr/wireless-energy-transfer-systems-innovative-methods-for-transferring-energy-wirelessly-b1519c6c34d1 | [Wireless-Energy-Transfer-Systems.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Wireless-Energy-Transfer-Systems.md) |
 | 55 | Multi Omics Sequencing | Metabolomics in Nutritional Science | Using metabolomics to understand the effects of diet on health. | https://medium.com/@kanakjr/metabolomics-in-nutritional-science-9d2b200edcba | [Metabolomics-in-Nutritional-Science.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Metabolomics-in-Nutritional-Science.md) |
 | 56 | AI | AI in Weather Forecasting | Enhancing the accuracy of weather predictions with AI technologies. | https://medium.com/@kanakjr/ai-in-weather-forecasting-enhancing-the-accuracy-of-weather-predictions-with-ai-technologies-8984f9b58453 | [AI-in-Weather-Forecasting.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-in-Weather-Forecasting.md) |
-| 57 | Public Blockchain | Blockchain for Renewable Energy Certificates | Tracking and trading renewable energy certificates on the blockchain. |  | [Blockchain-for-Renewable-Energy-Certificates.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-for-Renewable-Energy-Certificates.md) |
+| 57 | Public Blockchain | Blockchain for Renewable Energy Certificates | Tracking and trading renewable energy certificates on the blockchain. | https://medium.com/@kanakjr/blockchain-for-renewable-energy-certificates-aa8e2de48f3f | [Blockchain-for-Renewable-Energy-Certificates.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-for-Renewable-Energy-Certificates.md) |
 | 58 | Robotics | Industrial Inspection Drones | Using drones for automated inspection in industrial settings. |  | [Industrial-Inspection-Drones.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Industrial-Inspection-Drones.md) |
 | 59 | Energy Storage | Solid-State Batteries | Development of solid-state batteries for improved safety and performance. |  | [Solid-State-Batteries.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Solid-State-Batteries.md) |
 | 60 | Multi Omics Sequencing | Transcriptomics in Developmental Biology | Studying RNA transcripts to understand organism development. |  | [Transcriptomics-in-Developmental-Biology.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Transcriptomics-in-Developmental-Biology.md) |
@@ -147,6 +147,8 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 127 | Public Blockchain | Blockchain for Identity Verification | Enhancing identity verification processes with secure blockchain technology. |  | [Blockchain-for-Identity-Verification.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-for-Identity-Verification.md) |
 | 128 | Robotics | Robots for Precision Medicine | Using robots to automate and enhance precision in medical procedures and diagnostics. |  | [Robots-for-Precision-Medicine.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Robots-for-Precision-Medicine.md) |
 <!-- TABLE END -->
+
+
 
 
 
