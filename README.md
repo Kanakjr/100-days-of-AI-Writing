@@ -146,7 +146,10 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 126 | AI | AI in Traffic Management and Control | Implementing AI to improve traffic management and reduce congestion in urban areas. |  | [AI-in-Traffic-Management-and-Control.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-in-Traffic-Management-and-Control.md) |
 | 127 | Public Blockchain | Blockchain for Identity Verification | Enhancing identity verification processes with secure blockchain technology. |  | [Blockchain-for-Identity-Verification.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-for-Identity-Verification.md) |
 | 128 | Robotics | Robots for Precision Medicine | Using robots to automate and enhance precision in medical procedures and diagnostics. |  | [Robots-for-Precision-Medicine.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Robots-for-Precision-Medicine.md) |
+| 129 | Energy Storage | Next-Gen Hydrogen Storage | Solving hydrogen storage challenges for fuel cells and energy applications. |  | [Next-Gen-Hydrogen-Storage.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Next-Gen-Hydrogen-Storage.md) |
 <!-- TABLE END -->
+
+
 
 
 
