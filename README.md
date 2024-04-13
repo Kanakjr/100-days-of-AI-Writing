@@ -75,7 +75,7 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 55 | Multi Omics Sequencing | Metabolomics in Nutritional Science | Using metabolomics to understand the effects of diet on health. | https://medium.com/@kanakjr/metabolomics-in-nutritional-science-9d2b200edcba | [Metabolomics-in-Nutritional-Science.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Metabolomics-in-Nutritional-Science.md) |
 | 56 | AI | AI in Weather Forecasting | Enhancing the accuracy of weather predictions with AI technologies. | https://medium.com/@kanakjr/ai-in-weather-forecasting-enhancing-the-accuracy-of-weather-predictions-with-ai-technologies-8984f9b58453 | [AI-in-Weather-Forecasting.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-in-Weather-Forecasting.md) |
 | 57 | Public Blockchain | Blockchain for Renewable Energy Certificates | Tracking and trading renewable energy certificates on the blockchain. | https://medium.com/@kanakjr/blockchain-for-renewable-energy-certificates-aa8e2de48f3f | [Blockchain-for-Renewable-Energy-Certificates.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-for-Renewable-Energy-Certificates.md) |
-| 58 | Robotics | Industrial Inspection Drones | Using drones for automated inspection in industrial settings. |  | [Industrial-Inspection-Drones.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Industrial-Inspection-Drones.md) |
+| 58 | Robotics | Industrial Inspection Drones | Using drones for automated inspection in industrial settings. | https://medium.com/@kanakjr/industrial-inspection-drones-using-drones-for-automated-inspection-in-industrial-settings-5065d19352f4 | [Industrial-Inspection-Drones.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Industrial-Inspection-Drones.md) |
 | 59 | Energy Storage | Solid-State Batteries | Development of solid-state batteries for improved safety and performance. |  | [Solid-State-Batteries.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Solid-State-Batteries.md) |
 | 60 | Multi Omics Sequencing | Transcriptomics in Developmental Biology | Studying RNA transcripts to understand organism development. |  | [Transcriptomics-in-Developmental-Biology.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Transcriptomics-in-Developmental-Biology.md) |
 | 61 | AI | AI for Real-Time Language Translation | Real-time translation services powered by artificial intelligence. |  | [AI-for-Real-Time-Language-Translation.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-for-Real-Time-Language-Translation.md) |
@@ -148,6 +148,8 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 128 | Robotics | Robots for Precision Medicine | Using robots to automate and enhance precision in medical procedures and diagnostics. |  | [Robots-for-Precision-Medicine.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Robots-for-Precision-Medicine.md) |
 | 129 | Energy Storage | Next-Gen Hydrogen Storage | Solving hydrogen storage challenges for fuel cells and energy applications. |  | [Next-Gen-Hydrogen-Storage.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Next-Gen-Hydrogen-Storage.md) |
 <!-- TABLE END -->
+
+
 
 
 
