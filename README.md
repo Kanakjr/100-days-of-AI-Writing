@@ -77,7 +77,7 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 57 | Public Blockchain | Blockchain for Renewable Energy Certificates | Tracking and trading renewable energy certificates on the blockchain. | https://medium.com/@kanakjr/blockchain-for-renewable-energy-certificates-aa8e2de48f3f | [Blockchain-for-Renewable-Energy-Certificates.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-for-Renewable-Energy-Certificates.md) |
 | 58 | Robotics | Industrial Inspection Drones | Using drones for automated inspection in industrial settings. | https://medium.com/@kanakjr/industrial-inspection-drones-using-drones-for-automated-inspection-in-industrial-settings-5065d19352f4 | [Industrial-Inspection-Drones.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Industrial-Inspection-Drones.md) |
 | 59 | Energy Storage | Solid-State Batteries | Development of solid-state batteries for improved safety and performance. | https://medium.com/@kanakjr/solid-state-batteries-development-of-solid-state-batteries-for-improved-safety-and-performance-acd441374ccf | [Solid-State-Batteries.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Solid-State-Batteries.md) |
-| 60 | Multi Omics Sequencing | Transcriptomics in Developmental Biology | Studying RNA transcripts to understand organism development. |  | [Transcriptomics-in-Developmental-Biology.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Transcriptomics-in-Developmental-Biology.md) |
+| 60 | Multi Omics Sequencing | Transcriptomics in Developmental Biology | Studying RNA transcripts to understand organism development. | https://medium.com/@kanakjr/transcriptomics-in-developmental-biology-f7e10a75567a | [Transcriptomics-in-Developmental-Biology.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Transcriptomics-in-Developmental-Biology.md) |
 | 61 | AI | AI for Real-Time Language Translation | Real-time translation services powered by artificial intelligence. |  | [AI-for-Real-Time-Language-Translation.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-for-Real-Time-Language-Translation.md) |
 | 62 | Public Blockchain | Blockchain in Charity and Donations | Increasing transparency in charitable donations with blockchain. |  | [Blockchain-in-Charity-and-Donations.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-in-Charity-and-Donations.md) |
 | 63 | Robotics | Search and Rescue Robots | Robots designed to assist in search and rescue operations. |  | [Search-and-Rescue-Robots.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Search-and-Rescue-Robots.md) |
@@ -150,6 +150,8 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 130 | Multi Omics Sequencing | Comparative Genomics for Evolutionary Studies | Employing comparative genomics to study evolutionary biology and species differences. |  | [Comparative-Genomics-for-Evolutionary-Studies.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Comparative-Genomics-for-Evolutionary-Studies.md) |
 | 131 | AI | Generative AI for Creative Design | Using generative AI models to innovate in the fields of art, design and creativity |  | [Generative-AI-for-Creative-Design.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Generative-AI-for-Creative-Design.md) |
 <!-- TABLE END -->
+
+
 
 
 
