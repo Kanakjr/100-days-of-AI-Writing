@@ -148,7 +148,10 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 128 | Robotics | Robots for Precision Medicine | Using robots to automate and enhance precision in medical procedures and diagnostics. |  | [Robots-for-Precision-Medicine.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Robots-for-Precision-Medicine.md) |
 | 129 | Energy Storage | Next-Gen Hydrogen Storage | Solving hydrogen storage challenges for fuel cells and energy applications. |  | [Next-Gen-Hydrogen-Storage.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Next-Gen-Hydrogen-Storage.md) |
 | 130 | Multi Omics Sequencing | Comparative Genomics for Evolutionary Studies | Employing comparative genomics to study evolutionary biology and species differences. |  | [Comparative-Genomics-for-Evolutionary-Studies.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Comparative-Genomics-for-Evolutionary-Studies.md) |
+| 131 | AI | Generative AI for Creative Design | Using generative AI models to innovate in the fields of art, design and creativity |  | [Generative-AI-for-Creative-Design.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Generative-AI-for-Creative-Design.md) |
 <!-- TABLE END -->
+
+
 
 
 
