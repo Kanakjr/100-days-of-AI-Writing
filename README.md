@@ -78,7 +78,7 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 58 | Robotics | Industrial Inspection Drones | Using drones for automated inspection in industrial settings. | https://medium.com/@kanakjr/industrial-inspection-drones-using-drones-for-automated-inspection-in-industrial-settings-5065d19352f4 | [Industrial-Inspection-Drones.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Industrial-Inspection-Drones.md) |
 | 59 | Energy Storage | Solid-State Batteries | Development of solid-state batteries for improved safety and performance. | https://medium.com/@kanakjr/solid-state-batteries-development-of-solid-state-batteries-for-improved-safety-and-performance-acd441374ccf | [Solid-State-Batteries.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Solid-State-Batteries.md) |
 | 60 | Multi Omics Sequencing | Transcriptomics in Developmental Biology | Studying RNA transcripts to understand organism development. | https://medium.com/@kanakjr/transcriptomics-in-developmental-biology-f7e10a75567a | [Transcriptomics-in-Developmental-Biology.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Transcriptomics-in-Developmental-Biology.md) |
-| 61 | AI | AI for Real-Time Language Translation | Real-time translation services powered by artificial intelligence. |  | [AI-for-Real-Time-Language-Translation.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-for-Real-Time-Language-Translation.md) |
+| 61 | AI | AI for Real-Time Language Translation | Real-time translation services powered by artificial intelligence. | https://medium.com/@kanakjr/ai-for-real-time-language-translation-facd5d4fcffa | [AI-for-Real-Time-Language-Translation.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-for-Real-Time-Language-Translation.md) |
 | 62 | Public Blockchain | Blockchain in Charity and Donations | Increasing transparency in charitable donations with blockchain. |  | [Blockchain-in-Charity-and-Donations.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-in-Charity-and-Donations.md) |
 | 63 | Robotics | Search and Rescue Robots | Robots designed to assist in search and rescue operations. |  | [Search-and-Rescue-Robots.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Search-and-Rescue-Robots.md) |
 | 64 | Energy Storage | Bio-inspired Energy Storage Technology | Energy storage solutions inspired by biological systems. |  | [Bio-inspired-Energy-Storage-Technology.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Bio-inspired-Energy-Storage-Technology.md) |
@@ -151,6 +151,8 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 131 | AI | Generative AI for Creative Design | Using generative AI models to innovate in the fields of art, design and creativity |  | [Generative-AI-for-Creative-Design.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Generative-AI-for-Creative-Design.md) |
 | 132 | Public Blockchain | Ethereum 2.0 and Scalability | Discussing the upgrades and scalability solutions of Ethereum 2.0 for blockchain applications. |  | [Ethereum-2.0-and-Scalability.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Ethereum-2.0-and-Scalability.md) |
 <!-- TABLE END -->
+
+
 
 
 
