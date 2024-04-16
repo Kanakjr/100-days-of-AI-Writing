@@ -149,7 +149,10 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 129 | Energy Storage | Next-Gen Hydrogen Storage | Solving hydrogen storage challenges for fuel cells and energy applications. |  | [Next-Gen-Hydrogen-Storage.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Next-Gen-Hydrogen-Storage.md) |
 | 130 | Multi Omics Sequencing | Comparative Genomics for Evolutionary Studies | Employing comparative genomics to study evolutionary biology and species differences. |  | [Comparative-Genomics-for-Evolutionary-Studies.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Comparative-Genomics-for-Evolutionary-Studies.md) |
 | 131 | AI | Generative AI for Creative Design | Using generative AI models to innovate in the fields of art, design and creativity |  | [Generative-AI-for-Creative-Design.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Generative-AI-for-Creative-Design.md) |
+| 132 | Public Blockchain | Ethereum 2.0 and Scalability | Discussing the upgrades and scalability solutions of Ethereum 2.0 for blockchain applications. |  | [Ethereum-2.0-and-Scalability.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Ethereum-2.0-and-Scalability.md) |
 <!-- TABLE END -->
+
+
 
 
 
