@@ -80,7 +80,7 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 60 | Multi Omics Sequencing | Transcriptomics in Developmental Biology | Studying RNA transcripts to understand organism development. | https://medium.com/@kanakjr/transcriptomics-in-developmental-biology-f7e10a75567a | [Transcriptomics-in-Developmental-Biology.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Transcriptomics-in-Developmental-Biology.md) |
 | 61 | AI | AI for Real-Time Language Translation | Real-time translation services powered by artificial intelligence. | https://medium.com/@kanakjr/ai-for-real-time-language-translation-facd5d4fcffa | [AI-for-Real-Time-Language-Translation.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-for-Real-Time-Language-Translation.md) |
 | 62 | Public Blockchain | Blockchain in Charity and Donations | Increasing transparency in charitable donations with blockchain. | https://medium.com/@kanakjr/blockchain-in-charity-and-donations-a675f25ae62c | [Blockchain-in-Charity-and-Donations.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-in-Charity-and-Donations.md) |
-| 63 | Robotics | Search and Rescue Robots | Robots designed to assist in search and rescue operations. |  | [Search-and-Rescue-Robots.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Search-and-Rescue-Robots.md) |
+| 63 | Robotics | Search and Rescue Robots | Robots designed to assist in search and rescue operations. | https://medium.com/@kanakjr/search-and-rescue-robots-robots-designed-to-assist-in-search-and-rescue-operations-868df1ea22b0 | [Search-and-Rescue-Robots.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Search-and-Rescue-Robots.md) |
 | 64 | Energy Storage | Bio-inspired Energy Storage Technology | Energy storage solutions inspired by biological systems. |  | [Bio-inspired-Energy-Storage-Technology.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Bio-inspired-Energy-Storage-Technology.md) |
 | 65 | Multi Omics Sequencing | Genome Editing and CRISPR Technology | The impact of CRISPR and genome editing on genetic research. |  | [Genome-Editing-and-CRISPR-Technology.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Genome-Editing-and-CRISPR-Technology.md) |
 | 66 | AI | AI in Content Creation | Automated content generation using AI for various media. |  | [AI-in-Content-Creation.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-in-Content-Creation.md) |
@@ -153,6 +153,8 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 133 | Robotics | Soft Robotics in Medicine | Exploring the application of soft robotics in medical devices and procedures. |  | [Soft-Robotics-in-Medicine.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Soft-Robotics-in-Medicine.md) |
 | 134 | Energy Storage | Dynamic Wireless Charging for Electric Vehicles | Developing systems for the dynamic wireless charging of electric vehicles on the move. |  | [Dynamic-Wireless-Charging-for-Electric-Vehicles.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Dynamic-Wireless-Charging-for-Electric-Vehicles.md) |
 <!-- TABLE END -->
+
+
 
 
 
