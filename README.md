@@ -151,7 +151,10 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 131 | AI | Generative AI for Creative Design | Using generative AI models to innovate in the fields of art, design and creativity |  | [Generative-AI-for-Creative-Design.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Generative-AI-for-Creative-Design.md) |
 | 132 | Public Blockchain | Ethereum 2.0 and Scalability | Discussing the upgrades and scalability solutions of Ethereum 2.0 for blockchain applications. |  | [Ethereum-2.0-and-Scalability.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Ethereum-2.0-and-Scalability.md) |
 | 133 | Robotics | Soft Robotics in Medicine | Exploring the application of soft robotics in medical devices and procedures. |  | [Soft-Robotics-in-Medicine.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Soft-Robotics-in-Medicine.md) |
+| 134 | Energy Storage | Dynamic Wireless Charging for Electric Vehicles | Developing systems for the dynamic wireless charging of electric vehicles on the move. |  | [Dynamic-Wireless-Charging-for-Electric-Vehicles.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Dynamic-Wireless-Charging-for-Electric-Vehicles.md) |
 <!-- TABLE END -->
+
+
 
 
 
