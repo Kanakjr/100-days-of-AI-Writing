@@ -153,7 +153,10 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 133 | Robotics | Soft Robotics in Medicine | Exploring the application of soft robotics in medical devices and procedures. |  | [Soft-Robotics-in-Medicine.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Soft-Robotics-in-Medicine.md) |
 | 134 | Energy Storage | Dynamic Wireless Charging for Electric Vehicles | Developing systems for the dynamic wireless charging of electric vehicles on the move. |  | [Dynamic-Wireless-Charging-for-Electric-Vehicles.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Dynamic-Wireless-Charging-for-Electric-Vehicles.md) |
 | 135 | Multi Omics Sequencing | Genomics of Aging and Longevity | Studying the genomics associated with aging and longevity to uncover the secrets of a longer life. |  | [Genomics-of-Aging-and-Longevity.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Genomics-of-Aging-and-Longevity.md) |
+| 136 | AI | Natural Language Understanding (NLU) | Advancing NLU to enable machines to understand and interpret human language more effectively. |  | [Natural-Language-Understanding-(NLU).md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Natural-Language-Understanding-(NLU).md) |
 <!-- TABLE END -->
+
+
 
 
 
