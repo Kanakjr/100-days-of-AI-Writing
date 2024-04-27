@@ -155,7 +155,10 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 135 | Multi Omics Sequencing | Genomics of Aging and Longevity | Studying the genomics associated with aging and longevity to uncover the secrets of a longer life. |  | [Genomics-of-Aging-and-Longevity.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Genomics-of-Aging-and-Longevity.md) |
 | 136 | AI | Natural Language Understanding (NLU) | Advancing NLU to enable machines to understand and interpret human language more effectively. |  | [Natural-Language-Understanding-(NLU).md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Natural-Language-Understanding-(NLU).md) |
 | 137 | Public Blockchain | Blockchain for E-Governance | Implementing blockchain to enhance transparency and efficiency in government operations. |  | [Blockchain-for-E-Governance.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-for-E-Governance.md) |
+| 138 | Robotics | Exoskeleton Technology for Enhanced Mobility | Developing exoskeleton technology to assist with mobility and strength in individuals. |  | [Exoskeleton-Technology-for-Enhanced-Mobility.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Exoskeleton-Technology-for-Enhanced-Mobility.md) |
 <!-- TABLE END -->
+
+
 
 
 
