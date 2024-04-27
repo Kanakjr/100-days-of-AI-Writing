@@ -84,7 +84,7 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 64 | Energy Storage | Bio-inspired Energy Storage Technology | Energy storage solutions inspired by biological systems. | https://medium.com/@kanakjr/bio-inspired-energy-storage-technology-energy-storage-solutions-inspired-by-biological-systems-b9be72d737d9 | [Bio-inspired-Energy-Storage-Technology.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Bio-inspired-Energy-Storage-Technology.md) |
 | 65 | Multi Omics Sequencing | Genome Editing and CRISPR Technology | The impact of CRISPR and genome editing on genetic research. | https://medium.com/@kanakjr/genome-editing-and-crispr-technology-the-impact-of-crispr-and-genome-editing-on-genetic-research-9c4e679af7ed | [Genome-Editing-and-CRISPR-Technology.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Genome-Editing-and-CRISPR-Technology.md) |
 | 66 | AI | AI in Content Creation | Automated content generation using AI for various media. | https://medium.com/@kanakjr/ai-in-content-creation-automated-content-generation-using-ai-for-various-media-5f5d7650d36b | [AI-in-Content-Creation.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-in-Content-Creation.md) |
-| 67 | Public Blockchain | Blockchain for Academic Credentials | Secure storage and verification of academic credentials on the blockchain. |  | [Blockchain-for-Academic-Credentials.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-for-Academic-Credentials.md) |
+| 67 | Public Blockchain | Blockchain for Academic Credentials | Secure storage and verification of academic credentials on the blockchain. | https://medium.com/@kanakjr/blockchain-for-academic-credentials-fdc093a152f6 | [Blockchain-for-Academic-Credentials.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-for-Academic-Credentials.md) |
 | 68 | Robotics | Robotic Surgery Systems | Advancements in robotic systems for performing surgical procedures. |  | [Robotic-Surgery-Systems.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Robotic-Surgery-Systems.md) |
 | 69 | Energy Storage | Quantum Battery Technology | Exploring the potential of quantum physics in energy storage. |  | [Quantum-Battery-Technology.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Quantum-Battery-Technology.md) |
 | 70 | Multi Omics Sequencing | Proteomics in Biomarker Discovery | Using proteomics to discover new biomarkers for diseases. |  | [Proteomics-in-Biomarker-Discovery.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Proteomics-in-Biomarker-Discovery.md) |
@@ -157,6 +157,8 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 137 | Public Blockchain | Blockchain for E-Governance | Implementing blockchain to enhance transparency and efficiency in government operations. |  | [Blockchain-for-E-Governance.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-for-E-Governance.md) |
 | 138 | Robotics | Exoskeleton Technology for Enhanced Mobility | Developing exoskeleton technology to assist with mobility and strength in individuals. |  | [Exoskeleton-Technology-for-Enhanced-Mobility.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Exoskeleton-Technology-for-Enhanced-Mobility.md) |
 <!-- TABLE END -->
+
+
 
 
 
