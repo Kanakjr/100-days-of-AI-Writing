@@ -156,7 +156,10 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 136 | AI | Natural Language Understanding (NLU) | Advancing NLU to enable machines to understand and interpret human language more effectively. |  | [Natural-Language-Understanding-(NLU).md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Natural-Language-Understanding-(NLU).md) |
 | 137 | Public Blockchain | Blockchain for E-Governance | Implementing blockchain to enhance transparency and efficiency in government operations. |  | [Blockchain-for-E-Governance.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-for-E-Governance.md) |
 | 138 | Robotics | Exoskeleton Technology for Enhanced Mobility | Developing exoskeleton technology to assist with mobility and strength in individuals. |  | [Exoskeleton-Technology-for-Enhanced-Mobility.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Exoskeleton-Technology-for-Enhanced-Mobility.md) |
+| 139 | Energy Storage | Ammonia as an Energy Carrier | Exploring ammonia's potential as a green and efficient energy carrier for the future. |  | [Ammonia-as-an-Energy-Carrier.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Ammonia-as-an-Energy-Carrier.md) |
 <!-- TABLE END -->
+
+
 
 
 
