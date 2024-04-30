@@ -157,7 +157,10 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 137 | Public Blockchain | Blockchain for E-Governance | Implementing blockchain to enhance transparency and efficiency in government operations. |  | [Blockchain-for-E-Governance.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-for-E-Governance.md) |
 | 138 | Robotics | Exoskeleton Technology for Enhanced Mobility | Developing exoskeleton technology to assist with mobility and strength in individuals. |  | [Exoskeleton-Technology-for-Enhanced-Mobility.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Exoskeleton-Technology-for-Enhanced-Mobility.md) |
 | 139 | Energy Storage | Ammonia as an Energy Carrier | Exploring ammonia's potential as a green and efficient energy carrier for the future. |  | [Ammonia-as-an-Energy-Carrier.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Ammonia-as-an-Energy-Carrier.md) |
+| 140 | Multi Omics Sequencing | Neuroproteomics in Brain Research | Using neuroproteomics to delve into the protein dynamics of the brain for understanding neurological disorders. |  | [Neuroproteomics-in-Brain-Research.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Neuroproteomics-in-Brain-Research.md) |
 <!-- TABLE END -->
+
+
 
 
 
