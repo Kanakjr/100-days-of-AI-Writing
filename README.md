@@ -88,7 +88,7 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 68 | Robotics | Robotic Surgery Systems | Advancements in robotic systems for performing surgical procedures. | https://medium.com/@kanakjr/robotic-surgery-systems-advancements-in-robotic-systems-for-performing-surgical-procedures-d7be1965f03f | [Robotic-Surgery-Systems.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Robotic-Surgery-Systems.md) |
 | 69 | Energy Storage | Quantum Battery Technology | Exploring the potential of quantum physics in energy storage. | https://medium.com/@kanakjr/quantum-battery-technology-exploring-the-potential-of-quantum-physics-in-energy-storage-6394ae2f880b | [Quantum-Battery-Technology.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Quantum-Battery-Technology.md) |
 | 70 | Multi Omics Sequencing | Proteomics in Biomarker Discovery | Using proteomics to discover new biomarkers for diseases. | https://medium.com/@kanakjr/proteomics-in-biomarker-discovery-using-proteomics-to-discover-new-biomarkers-for-diseases-d3c45ce1385e | [Proteomics-in-Biomarker-Discovery.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Proteomics-in-Biomarker-Discovery.md) |
-| 71 | AI | AI in E-commerce Optimization | Using AI to optimize e-commerce platforms for better user experiences. |  | [AI-in-E-commerce-Optimization.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-in-E-commerce-Optimization.md) |
+| 71 | AI | AI in E-commerce Optimization | Using AI to optimize e-commerce platforms for better user experiences. | https://medium.com/@kanakjr/ai-in-e-commerce-optimization-b49fcc96d50d | [AI-in-E-commerce-Optimization.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-in-E-commerce-Optimization.md) |
 | 72 | Public Blockchain | Blockchain for Gaming and Virtual Goods | Implementing blockchain for secure transactions in gaming and virtual goods. |  | [Blockchain-for-Gaming-and-Virtual-Goods.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-for-Gaming-and-Virtual-Goods.md) |
 | 73 | Robotics | Educational Robots for STEM | Robots designed to enhance STEM education for students. |  | [Educational-Robots-for-STEM.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Educational-Robots-for-STEM.md) |
 | 74 | Energy Storage | Redox Flow Batteries | The use of redox flow batteries for large-scale energy storage applications. |  | [Redox-Flow-Batteries.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Redox-Flow-Batteries.md) |
@@ -161,6 +161,8 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 141 | AI | AI in Smart Home Automation | Enhancing smart home technologies with AI for better energy efficiency and convenience. |  | [AI-in-Smart-Home-Automation.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-in-Smart-Home-Automation.md) |
 | 142 | Public Blockchain | Decentralized Social Networks | Creating decentralized social networks to enhance user privacy and control over data. |  | [Decentralized-Social-Networks.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Decentralized-Social-Networks.md) |
 <!-- TABLE END -->
+
+
 
 
 
