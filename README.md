@@ -91,7 +91,7 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 71 | AI | AI in E-commerce Optimization | Using AI to optimize e-commerce platforms for better user experiences. | https://medium.com/@kanakjr/ai-in-e-commerce-optimization-b49fcc96d50d | [AI-in-E-commerce-Optimization.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-in-E-commerce-Optimization.md) |
 | 72 | Public Blockchain | Blockchain for Gaming and Virtual Goods | Implementing blockchain for secure transactions in gaming and virtual goods. | https://medium.com/@kanakjr/blockchain-for-gaming-and-virtual-goods-c5340e4d066a | [Blockchain-for-Gaming-and-Virtual-Goods.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-for-Gaming-and-Virtual-Goods.md) |
 | 73 | Robotics | Educational Robots for STEM | Robots designed to enhance STEM education for students. | https://medium.com/@kanakjr/educational-robots-for-stem-robots-designed-to-enhance-stem-education-for-students-f7f0cdf516ed | [Educational-Robots-for-STEM.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Educational-Robots-for-STEM.md) |
-| 74 | Energy Storage | Redox Flow Batteries | The use of redox flow batteries for large-scale energy storage applications. |  | [Redox-Flow-Batteries.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Redox-Flow-Batteries.md) |
+| 74 | Energy Storage | Redox Flow Batteries | The use of redox flow batteries for large-scale energy storage applications. | https://medium.com/@kanakjr/redox-flow-batteries-the-use-of-redox-flow-batteries-for-large-scale-energy-storage-applications-e2a391f05e8e | [Redox-Flow-Batteries.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Redox-Flow-Batteries.md) |
 | 75 | Multi Omics Sequencing | Single-Cell Genomics in Cancer Research | Applying single-cell genomics to understand cancer at the cellular level. |  | [Single-Cell-Genomics-in-Cancer-Research.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Single-Cell-Genomics-in-Cancer-Research.md) |
 | 76 | AI | AI for Network Security | Employing AI to secure computer networks against cyber threats. |  | [AI-for-Network-Security.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-for-Network-Security.md) |
 | 77 | Public Blockchain | Blockchain for Land Registry | Using blockchain to record and verify land ownership and transactions. |  | [Blockchain-for-Land-Registry.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-for-Land-Registry.md) |
@@ -164,6 +164,8 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 144 | Energy Storage | Solid Electrolyte Interfaces in Batteries | Investigating solid electrolyte interfaces for improving battery safety and longevity. |  | [Solid-Electrolyte-Interfaces-in-Batteries.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Solid-Electrolyte-Interfaces-in-Batteries.md) |
 | 145 | Multi Omics Sequencing | Proteomics in Neurodegenerative Disease | Applying proteomics to understand and find treatments for neurodegenerative diseases. |  | [Proteomics-in-Neurodegenerative-Disease.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Proteomics-in-Neurodegenerative-Disease.md) |
 <!-- TABLE END -->
+
+
 
 
 
