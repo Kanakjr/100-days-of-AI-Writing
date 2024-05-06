@@ -163,7 +163,10 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 143 | Robotics | Human-Robot Interaction (HRI) | Advancing the field of HRI to create more intuitive and effective interactions between humans and robots. |  | [Human-Robot-Interaction-(HRI).md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Human-Robot-Interaction-(HRI).md) |
 | 144 | Energy Storage | Solid Electrolyte Interfaces in Batteries | Investigating solid electrolyte interfaces for improving battery safety and longevity. |  | [Solid-Electrolyte-Interfaces-in-Batteries.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Solid-Electrolyte-Interfaces-in-Batteries.md) |
 | 145 | Multi Omics Sequencing | Proteomics in Neurodegenerative Disease | Applying proteomics to understand and find treatments for neurodegenerative diseases. |  | [Proteomics-in-Neurodegenerative-Disease.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Proteomics-in-Neurodegenerative-Disease.md) |
+| 146 | AI | AI in Supply Chain Optimization | Using AI to streamline supply chain operations and enhance logistics efficiency. |  | [AI-in-Supply-Chain-Optimization.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-in-Supply-Chain-Optimization.md) |
 <!-- TABLE END -->
+
+
 
 
 
