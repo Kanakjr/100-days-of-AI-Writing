@@ -93,7 +93,7 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 73 | Robotics | Educational Robots for STEM | Robots designed to enhance STEM education for students. | https://medium.com/@kanakjr/educational-robots-for-stem-robots-designed-to-enhance-stem-education-for-students-f7f0cdf516ed | [Educational-Robots-for-STEM.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Educational-Robots-for-STEM.md) |
 | 74 | Energy Storage | Redox Flow Batteries | The use of redox flow batteries for large-scale energy storage applications. | https://medium.com/@kanakjr/redox-flow-batteries-the-use-of-redox-flow-batteries-for-large-scale-energy-storage-applications-e2a391f05e8e | [Redox-Flow-Batteries.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Redox-Flow-Batteries.md) |
 | 75 | Multi Omics Sequencing | Single-Cell Genomics in Cancer Research | Applying single-cell genomics to understand cancer at the cellular level. | https://medium.com/@kanakjr/single-cell-genomics-in-cancer-research-9d0e848b85b3 | [Single-Cell-Genomics-in-Cancer-Research.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Single-Cell-Genomics-in-Cancer-Research.md) |
-| 76 | AI | AI for Network Security | Employing AI to secure computer networks against cyber threats. |  | [AI-for-Network-Security.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-for-Network-Security.md) |
+| 76 | AI | AI for Network Security | Employing AI to secure computer networks against cyber threats. | https://medium.com/@kanakjr/ai-for-network-security-employing-ai-to-secure-computer-networks-against-cyber-threats-00bd289f89f7 | [AI-for-Network-Security.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-for-Network-Security.md) |
 | 77 | Public Blockchain | Blockchain for Land Registry | Using blockchain to record and verify land ownership and transactions. |  | [Blockchain-for-Land-Registry.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-for-Land-Registry.md) |
 | 78 | Robotics | Warehouse Automation Robots | Robots that automate tasks in warehouses for increased efficiency. |  | [Warehouse-Automation-Robots.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Warehouse-Automation-Robots.md) |
 | 79 | Energy Storage | Piezoelectric Energy Harvesting | Converting mechanical stress into electrical energy using piezoelectric materials. |  | [Piezoelectric-Energy-Harvesting.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Piezoelectric-Energy-Harvesting.md) |
@@ -166,6 +166,8 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 146 | AI | AI in Supply Chain Optimization | Using AI to streamline supply chain operations and enhance logistics efficiency. |  | [AI-in-Supply-Chain-Optimization.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-in-Supply-Chain-Optimization.md) |
 | 147 | Public Blockchain | Token Economy and Its Impact | Exploring the impact of token economies on various sectors and their potential for innovation. |  | [Token-Economy-and-Its-Impact.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Token-Economy-and-Its-Impact.md) |
 <!-- TABLE END -->
+
+
 
 
 
