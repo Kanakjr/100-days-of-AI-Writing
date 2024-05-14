@@ -22,6 +22,9 @@ def main(csv_filename="topics.csv"):
             selected_topic = topic
             break
 
+    if not selected_topic:
+        return
+
     md_filename = check_if_md_file_exists(selected_topic["Name"])
     if md_filename:
         print(f"Article for '{selected_topic['Name']}' already exists.")
