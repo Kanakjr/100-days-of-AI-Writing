@@ -97,7 +97,7 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 77 | Public Blockchain | Blockchain for Land Registry | Using blockchain to record and verify land ownership and transactions. | https://medium.com/@kanakjr/blockchain-for-land-registry-8c60415ecbb9 | [Blockchain-for-Land-Registry.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-for-Land-Registry.md) |
 | 78 | Robotics | Warehouse Automation Robots | Robots that automate tasks in warehouses for increased efficiency. | https://medium.com/@kanakjr/warehouse-automation-robots-robots-that-automate-tasks-in-warehouses-for-increased-efficiency-9b1060beba73 | [Warehouse-Automation-Robots.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Warehouse-Automation-Robots.md) |
 | 79 | Energy Storage | Piezoelectric Energy Harvesting | Converting mechanical stress into electrical energy using piezoelectric materials. | https://medium.com/@kanakjr/piezoelectric-energy-harvesting-8ebe58775aa6 | [Piezoelectric-Energy-Harvesting.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Piezoelectric-Energy-Harvesting.md) |
-| 80 | Multi Omics Sequencing | Lipidomics in Metabolic Disorders | Studying lipid profiles to understand and treat metabolic disorders. |  | [Lipidomics-in-Metabolic-Disorders.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Lipidomics-in-Metabolic-Disorders.md) |
+| 80 | Multi Omics Sequencing | Lipidomics in Metabolic Disorders | Studying lipid profiles to understand and treat metabolic disorders. | https://medium.com/@kanakjr/lipidomics-in-metabolic-disorders-04b48500a328 | [Lipidomics-in-Metabolic-Disorders.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Lipidomics-in-Metabolic-Disorders.md) |
 | 81 | AI | AI for Fraud Detection | AI systems that detect and prevent fraudulent activities in various industries. |  | [AI-for-Fraud-Detection.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-for-Fraud-Detection.md) |
 | 82 | Public Blockchain | Blockchain for Art and Collectibles | Authenticating and tracking ownership of art and collectibles using blockchain. |  | [Blockchain-for-Art-and-Collectibles.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-for-Art-and-Collectibles.md) |
 | 83 | Robotics | Assistive Robots for the Disabled | Developing robots to assist individuals with disabilities. |  | [Assistive-Robots-for-the-Disabled.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Assistive-Robots-for-the-Disabled.md) |
@@ -169,6 +169,8 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 149 | Energy Storage | Nanostructured Materials for Batteries | Developing nanostructured materials to enhance the performance and durability of batteries. |  | [Nanostructured-Materials-for-Batteries.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Nanostructured-Materials-for-Batteries.md) |
 | 150 | Multi Omics Sequencing | Synthetic Biology and Omics | Utilizing omics approaches to advance synthetic biology for engineering biological systems. |  | [Synthetic-Biology-and-Omics.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Synthetic-Biology-and-Omics.md) |
 <!-- TABLE END -->
+
+
 
 
 
