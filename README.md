@@ -102,7 +102,7 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 82 | Public Blockchain | Blockchain for Art and Collectibles | Authenticating and tracking ownership of art and collectibles using blockchain. | https://medium.com/@kanakjr/blockchain-for-art-and-collectibles-81eda7b0e00e | [Blockchain-for-Art-and-Collectibles.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-for-Art-and-Collectibles.md) |
 | 83 | Robotics | Assistive Robots for the Disabled | Developing robots to assist individuals with disabilities. | https://medium.com/@kanakjr/assistive-robots-for-the-disabled-developing-robots-to-assist-individuals-with-disabilities-c017d1b432b6 | [Assistive-Robots-for-the-Disabled.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Assistive-Robots-for-the-Disabled.md) |
 | 84 | Energy Storage | Nanomaterials for Supercapacitors | Innovating with nanomaterials to enhance supercapacitor performance. | https://medium.com/@kanakjr/nanomaterials-for-supercapacitors-31ee68a0e1e9 | [Nanomaterials-for-Supercapacitors.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Nanomaterials-for-Supercapacitors.md) |
-| 85 | Multi Omics Sequencing | Integrative Omics for Systems Biology | Combining various omics data to understand complex biological systems. |  | [Integrative-Omics-for-Systems-Biology.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Integrative-Omics-for-Systems-Biology.md) |
+| 85 | Multi Omics Sequencing | Integrative Omics for Systems Biology | Combining various omics data to understand complex biological systems. | https://medium.com/@kanakjr/integrative-omics-for-systems-biology-3cbb0188a157 | [Integrative-Omics-for-Systems-Biology.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Integrative-Omics-for-Systems-Biology.md) |
 | 86 | AI | AI in Film and Video Editing | Leveraging AI to automate and enhance film and video editing processes. |  | [AI-in-Film-and-Video-Editing.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-in-Film-and-Video-Editing.md) |
 | 87 | Public Blockchain | Blockchain for Peer-to-Peer Energy Trading | Enabling P2P energy trading among individuals with blockchain technology. |  | [Blockchain-for-Peer-to-Peer-Energy-Trading.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-for-Peer-to-Peer-Energy-Trading.md) |
 | 88 | Robotics | Soft Robotics for Delicate Manipulation | Soft robots capable of handling delicate objects and materials. |  | [Soft-Robotics-for-Delicate-Manipulation.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Soft-Robotics-for-Delicate-Manipulation.md) |
@@ -169,6 +169,8 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 149 | Energy Storage | Nanostructured Materials for Batteries | Developing nanostructured materials to enhance the performance and durability of batteries. |  | [Nanostructured-Materials-for-Batteries.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Nanostructured-Materials-for-Batteries.md) |
 | 150 | Multi Omics Sequencing | Synthetic Biology and Omics | Utilizing omics approaches to advance synthetic biology for engineering biological systems. |  | [Synthetic-Biology-and-Omics.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Synthetic-Biology-and-Omics.md) |
 <!-- TABLE END -->
+
+
 
 
 
