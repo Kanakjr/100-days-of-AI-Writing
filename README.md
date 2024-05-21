@@ -104,7 +104,7 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 84 | Energy Storage | Nanomaterials for Supercapacitors | Innovating with nanomaterials to enhance supercapacitor performance. | https://medium.com/@kanakjr/nanomaterials-for-supercapacitors-31ee68a0e1e9 | [Nanomaterials-for-Supercapacitors.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Nanomaterials-for-Supercapacitors.md) |
 | 85 | Multi Omics Sequencing | Integrative Omics for Systems Biology | Combining various omics data to understand complex biological systems. | https://medium.com/@kanakjr/integrative-omics-for-systems-biology-3cbb0188a157 | [Integrative-Omics-for-Systems-Biology.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Integrative-Omics-for-Systems-Biology.md) |
 | 86 | AI | AI in Film and Video Editing | Leveraging AI to automate and enhance film and video editing processes. | https://medium.com/@kanakjr/ai-in-film-and-video-editing-64a9d480eea8 | [AI-in-Film-and-Video-Editing.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-in-Film-and-Video-Editing.md) |
-| 87 | Public Blockchain | Blockchain for Peer-to-Peer Energy Trading | Enabling P2P energy trading among individuals with blockchain technology. |  | [Blockchain-for-Peer-to-Peer-Energy-Trading.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-for-Peer-to-Peer-Energy-Trading.md) |
+| 87 | Public Blockchain | Blockchain for Peer-to-Peer Energy Trading | Enabling P2P energy trading among individuals with blockchain technology. | https://medium.com/@kanakjr/blockchain-for-peer-to-peer-energy-trading-f1daa67a3575 | [Blockchain-for-Peer-to-Peer-Energy-Trading.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-for-Peer-to-Peer-Energy-Trading.md) |
 | 88 | Robotics | Soft Robotics for Delicate Manipulation | Soft robots capable of handling delicate objects and materials. |  | [Soft-Robotics-for-Delicate-Manipulation.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Soft-Robotics-for-Delicate-Manipulation.md) |
 | 89 | Energy Storage | Molten Salt Energy Storage | Using molten salt for high-temperature energy storage applications. |  | [Molten-Salt-Energy-Storage.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Molten-Salt-Energy-Storage.md) |
 | 90 | Multi Omics Sequencing | Glycomics and Immunotherapy | Exploring the role of glycomics in developing immunotherapies. |  | [Glycomics-and-Immunotherapy.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Glycomics-and-Immunotherapy.md) |
@@ -169,6 +169,8 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 149 | Energy Storage | Nanostructured Materials for Batteries | Developing nanostructured materials to enhance the performance and durability of batteries. |  | [Nanostructured-Materials-for-Batteries.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Nanostructured-Materials-for-Batteries.md) |
 | 150 | Multi Omics Sequencing | Synthetic Biology and Omics | Utilizing omics approaches to advance synthetic biology for engineering biological systems. |  | [Synthetic-Biology-and-Omics.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Synthetic-Biology-and-Omics.md) |
 <!-- TABLE END -->
+
+
 
 
 
