@@ -108,7 +108,7 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 88 | Robotics | Soft Robotics for Delicate Manipulation | Soft robots capable of handling delicate objects and materials. | https://medium.com/@kanakjr/soft-robotics-for-delicate-manipulation-55422371f965 | [Soft-Robotics-for-Delicate-Manipulation.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Soft-Robotics-for-Delicate-Manipulation.md) |
 | 89 | Energy Storage | Molten Salt Energy Storage | Using molten salt for high-temperature energy storage applications. | https://medium.com/@kanakjr/molten-salt-energy-storage-using-molten-salt-for-high-temperature-energy-storage-applications-1741d03083de | [Molten-Salt-Energy-Storage.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Molten-Salt-Energy-Storage.md) |
 | 90 | Multi Omics Sequencing | Glycomics and Immunotherapy | Exploring the role of glycomics in developing immunotherapies. | https://medium.com/@kanakjr/glycomics-and-immunotherapy-exploring-the-role-of-glycomics-in-developing-immunotherapies-e9771131757d | [Glycomics-and-Immunotherapy.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Glycomics-and-Immunotherapy.md) |
-| 91 | AI | AI in Predictive Policing | Using AI to predict and prevent crime in urban areas. |  | [AI-in-Predictive-Policing.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-in-Predictive-Policing.md) |
+| 91 | AI | AI in Predictive Policing | Using AI to predict and prevent crime in urban areas. | https://medium.com/@kanakjr/ai-in-predictive-policing-using-ai-to-predict-and-prevent-crime-in-urban-areas-a53d6386aaae | [AI-in-Predictive-Policing.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-in-Predictive-Policing.md) |
 | 92 | Public Blockchain | Blockchain for Music Royalties | Streamlining the distribution of music royalties with blockchain technology. |  | [Blockchain-for-Music-Royalties.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-for-Music-Royalties.md) |
 | 93 | Robotics | Robots in Precision Agriculture | Robots that perform precise agricultural tasks for crop management. |  | [Robots-in-Precision-Agriculture.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Robots-in-Precision-Agriculture.md) |
 | 94 | Energy Storage | Graphene Batteries | Developing graphene-based batteries for faster charging and higher capacity. |  | [Graphene-Batteries.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Graphene-Batteries.md) |
@@ -169,6 +169,8 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 149 | Energy Storage | Nanostructured Materials for Batteries | Developing nanostructured materials to enhance the performance and durability of batteries. |  | [Nanostructured-Materials-for-Batteries.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Nanostructured-Materials-for-Batteries.md) |
 | 150 | Multi Omics Sequencing | Synthetic Biology and Omics | Utilizing omics approaches to advance synthetic biology for engineering biological systems. |  | [Synthetic-Biology-and-Omics.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Synthetic-Biology-and-Omics.md) |
 <!-- TABLE END -->
+
+
 
 
 
