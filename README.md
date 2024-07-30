@@ -110,7 +110,7 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 90 | Multi Omics Sequencing | Glycomics and Immunotherapy | Exploring the role of glycomics in developing immunotherapies. | https://medium.com/@kanakjr/glycomics-and-immunotherapy-exploring-the-role-of-glycomics-in-developing-immunotherapies-e9771131757d | [Glycomics-and-Immunotherapy.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Glycomics-and-Immunotherapy.md) |
 | 91 | AI | AI in Predictive Policing | Using AI to predict and prevent crime in urban areas. | https://medium.com/@kanakjr/ai-in-predictive-policing-using-ai-to-predict-and-prevent-crime-in-urban-areas-a53d6386aaae | [AI-in-Predictive-Policing.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-in-Predictive-Policing.md) |
 | 92 | Public Blockchain | Blockchain for Music Royalties | Streamlining the distribution of music royalties with blockchain technology. | https://medium.com/@kanakjr/blockchain-for-music-royalties-a944fd86d27f | [Blockchain-for-Music-Royalties.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-for-Music-Royalties.md) |
-| 93 | Robotics | Robots in Precision Agriculture | Robots that perform precise agricultural tasks for crop management. |  | [Robots-in-Precision-Agriculture.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Robots-in-Precision-Agriculture.md) |
+| 93 | Robotics | Robots in Precision Agriculture | Robots that perform precise agricultural tasks for crop management. | https://medium.com/@kanakjr/robots-in-precision-agriculture-c6a85add19c4 | [Robots-in-Precision-Agriculture.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Robots-in-Precision-Agriculture.md) |
 | 94 | Energy Storage | Graphene Batteries | Developing graphene-based batteries for faster charging and higher capacity. |  | [Graphene-Batteries.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Graphene-Batteries.md) |
 | 95 | Multi Omics Sequencing | Epitranscriptomics and Gene Regulation | Studying RNA modifications and their impact on gene expression. |  | [Epitranscriptomics-and-Gene-Regulation.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Epitranscriptomics-and-Gene-Regulation.md) |
 | 96 | AI | AI for Customer Service Automation | Automating customer service interactions with AI chatbots and virtual assistants. |  | [AI-for-Customer-Service-Automation.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-for-Customer-Service-Automation.md) |
@@ -169,6 +169,8 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 149 | Energy Storage | Nanostructured Materials for Batteries | Developing nanostructured materials to enhance the performance and durability of batteries. |  | [Nanostructured-Materials-for-Batteries.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Nanostructured-Materials-for-Batteries.md) |
 | 150 | Multi Omics Sequencing | Synthetic Biology and Omics | Utilizing omics approaches to advance synthetic biology for engineering biological systems. |  | [Synthetic-Biology-and-Omics.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Synthetic-Biology-and-Omics.md) |
 <!-- TABLE END -->
+
+
 
 
 
