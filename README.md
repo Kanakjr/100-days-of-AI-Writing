@@ -113,7 +113,7 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 93 | Robotics | Robots in Precision Agriculture | Robots that perform precise agricultural tasks for crop management. | https://medium.com/@kanakjr/robots-in-precision-agriculture-c6a85add19c4 | [Robots-in-Precision-Agriculture.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Robots-in-Precision-Agriculture.md) |
 | 94 | Energy Storage | Graphene Batteries | Developing graphene-based batteries for faster charging and higher capacity. | https://medium.com/@kanakjr/graphene-batteries-developing-graphene-based-batteries-for-faster-charging-and-higher-capacity-cc764da2ab36 | [Graphene-Batteries.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Graphene-Batteries.md) |
 | 95 | Multi Omics Sequencing | Epitranscriptomics and Gene Regulation | Studying RNA modifications and their impact on gene expression. | https://medium.com/@kanakjr/epitranscriptomics-and-gene-regulation-d16a0d759904 | [Epitranscriptomics-and-Gene-Regulation.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Epitranscriptomics-and-Gene-Regulation.md) |
-| 96 | AI | AI for Customer Service Automation | Automating customer service interactions with AI chatbots and virtual assistants. |  | [AI-for-Customer-Service-Automation.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-for-Customer-Service-Automation.md) |
+| 96 | AI | AI for Customer Service Automation | Automating customer service interactions with AI chatbots and virtual assistants. | https://medium.com/@kanakjr/ai-for-customer-service-automation-12966aec8122 | [AI-for-Customer-Service-Automation.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-for-Customer-Service-Automation.md) |
 | 97 | Public Blockchain | Blockchain for Public Records | Maintaining secure and transparent public records with blockchain technology. |  | [Blockchain-for-Public-Records.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-for-Public-Records.md) |
 | 98 | Robotics | Nano-Robots for Medical Applications | Developing nano-robots for targeted drug delivery and diagnostics. |  | [Nano-Robots-for-Medical-Applications.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Nano-Robots-for-Medical-Applications.md) |
 | 99 | Energy Storage | Thermophotovoltaic Energy Conversion | Converting thermal radiation into electrical energy using photovoltaic cells. |  | [Thermophotovoltaic-Energy-Conversion.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Thermophotovoltaic-Energy-Conversion.md) |
@@ -169,6 +169,8 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 149 | Energy Storage | Nanostructured Materials for Batteries | Developing nanostructured materials to enhance the performance and durability of batteries. |  | [Nanostructured-Materials-for-Batteries.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Nanostructured-Materials-for-Batteries.md) |
 | 150 | Multi Omics Sequencing | Synthetic Biology and Omics | Utilizing omics approaches to advance synthetic biology for engineering biological systems. |  | [Synthetic-Biology-and-Omics.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Synthetic-Biology-and-Omics.md) |
 <!-- TABLE END -->
+
+
 
 
 
