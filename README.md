@@ -119,7 +119,7 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 99 | Energy Storage | Thermophotovoltaic Energy Conversion | Converting thermal radiation into electrical energy using photovoltaic cells. | https://medium.com/@kanakjr/thermophotovoltaic-energy-conversion-12c38fa40efa | [Thermophotovoltaic-Energy-Conversion.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Thermophotovoltaic-Energy-Conversion.md) |
 | 100 | Multi Omics Sequencing | Multi-Omics in Plant Biology | Applying multi-omics techniques to study plant biology and improve crop traits. | https://medium.com/@kanakjr/multi-omics-in-plant-biology-931775290589 | [Multi-Omics-in-Plant-Biology.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Multi-Omics-in-Plant-Biology.md) |
 | 101 | AI | AI in Sports Analytics | Applying AI for real-time analytics in sports to enhance performance and strategy. | https://medium.com/@kanakjr/ai-in-sports-analytics-2f42cf0969c9 | [AI-in-Sports-Analytics.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-in-Sports-Analytics.md) |
-| 102 | Public Blockchain | Blockchain in Voting Integrity | Enhancing the integrity and security of electoral processes with blockchain technology. |  | [Blockchain-in-Voting-Integrity.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-in-Voting-Integrity.md) |
+| 102 | Public Blockchain | Blockchain in Voting Integrity | Enhancing the integrity and security of electoral processes with blockchain technology. | https://medium.com/@kanakjr/blockchain-in-voting-integrity-c94a31bd4109 | [Blockchain-in-Voting-Integrity.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-in-Voting-Integrity.md) |
 | 103 | Robotics | Robots in Healthcare Assistance | Deploying robots for healthcare assistance to improve patient care. |  | [Robots-in-Healthcare-Assistance.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Robots-in-Healthcare-Assistance.md) |
 | 104 | Energy Storage | Advanced Supercapacitors | Developing high-performance supercapacitors for energy storage and rapid charging. |  | [Advanced-Supercapacitors.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Advanced-Supercapacitors.md) |
 | 105 | Multi Omics Sequencing | Multi-Omics in Environmental Science | Using multi-omics techniques to study environmental impacts on health. |  | [Multi-Omics-in-Environmental-Science.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Multi-Omics-in-Environmental-Science.md) |
@@ -169,6 +169,8 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 149 | Energy Storage | Nanostructured Materials for Batteries | Developing nanostructured materials to enhance the performance and durability of batteries. |  | [Nanostructured-Materials-for-Batteries.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Nanostructured-Materials-for-Batteries.md) |
 | 150 | Multi Omics Sequencing | Synthetic Biology and Omics | Utilizing omics approaches to advance synthetic biology for engineering biological systems. |  | [Synthetic-Biology-and-Omics.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Synthetic-Biology-and-Omics.md) |
 <!-- TABLE END -->
+
+
 
 
 
