@@ -122,7 +122,7 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 102 | Public Blockchain | Blockchain in Voting Integrity | Enhancing the integrity and security of electoral processes with blockchain technology. | https://medium.com/@kanakjr/blockchain-in-voting-integrity-c94a31bd4109 | [Blockchain-in-Voting-Integrity.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-in-Voting-Integrity.md) |
 | 103 | Robotics | Robots in Healthcare Assistance | Deploying robots for healthcare assistance to improve patient care. | https://medium.com/@kanakjr/robots-in-healthcare-assistance-aa8c8dbe10b5 | [Robots-in-Healthcare-Assistance.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Robots-in-Healthcare-Assistance.md) |
 | 104 | Energy Storage | Advanced Supercapacitors | Developing high-performance supercapacitors for energy storage and rapid charging. | https://medium.com/@kanakjr/advanced-supercapacitors-eb39a3720a7d | [Advanced-Supercapacitors.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Advanced-Supercapacitors.md) |
-| 105 | Multi Omics Sequencing | Multi-Omics in Environmental Science | Using multi-omics techniques to study environmental impacts on health. |  | [Multi-Omics-in-Environmental-Science.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Multi-Omics-in-Environmental-Science.md) |
+| 105 | Multi Omics Sequencing | Multi-Omics in Environmental Science | Using multi-omics techniques to study environmental impacts on health. | https://medium.com/@kanakjr/multi-omics-in-environmental-science-4525d84c9193 | [Multi-Omics-in-Environmental-Science.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Multi-Omics-in-Environmental-Science.md) |
 | 106 | AI | Deep Learning in Image Recognition | Enhancing image recognition capabilities using deep learning technologies. |  | [Deep-Learning-in-Image-Recognition.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Deep-Learning-in-Image-Recognition.md) |
 | 107 | Public Blockchain | Blockchain for Digital Rights Management | Improving digital rights management for creators using blockchain technology. |  | [Blockchain-for-Digital-Rights-Management.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-for-Digital-Rights-Management.md) |
 | 108 | Robotics | Industrial Automation with Robots | Advancing industrial automation through the integration of robotics technology. |  | [Industrial-Automation-with-Robots.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Industrial-Automation-with-Robots.md) |
@@ -169,6 +169,8 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 149 | Energy Storage | Nanostructured Materials for Batteries | Developing nanostructured materials to enhance the performance and durability of batteries. |  | [Nanostructured-Materials-for-Batteries.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Nanostructured-Materials-for-Batteries.md) |
 | 150 | Multi Omics Sequencing | Synthetic Biology and Omics | Utilizing omics approaches to advance synthetic biology for engineering biological systems. |  | [Synthetic-Biology-and-Omics.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Synthetic-Biology-and-Omics.md) |
 <!-- TABLE END -->
+
+
 
 
 
