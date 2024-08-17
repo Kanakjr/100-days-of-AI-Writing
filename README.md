@@ -126,7 +126,7 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 106 | AI | Deep Learning in Image Recognition | Enhancing image recognition capabilities using deep learning technologies. | https://medium.com/@kanakjr/deep-learning-in-image-recognition-68f98f4897f7 | [Deep-Learning-in-Image-Recognition.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Deep-Learning-in-Image-Recognition.md) |
 | 107 | Public Blockchain | Blockchain for Digital Rights Management | Improving digital rights management for creators using blockchain technology. | https://medium.com/@kanakjr/blockchain-for-digital-rights-management-b09c1d79a5c7 | [Blockchain-for-Digital-Rights-Management.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-for-Digital-Rights-Management.md) |
 | 108 | Robotics | Industrial Automation with Robots | Advancing industrial automation through the integration of robotics technology. | https://medium.com/@kanakjr/industrial-automation-with-robots-e344ef848ab1 | [Industrial-Automation-with-Robots.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Industrial-Automation-with-Robots.md) |
-| 109 | Energy Storage | Hybrid Energy Systems | Combining different energy storage technologies for optimized performance. |  | [Hybrid-Energy-Systems.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Hybrid-Energy-Systems.md) |
+| 109 | Energy Storage | Hybrid Energy Systems | Combining different energy storage technologies for optimized performance. | https://medium.com/@kanakjr/hybrid-energy-systems-combining-different-energy-storage-technologies-for-optimized-performance-79dece8638dc | [Hybrid-Energy-Systems.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Hybrid-Energy-Systems.md) |
 | 110 | Multi Omics Sequencing | Pathogenomics for Infectious Disease | Studying the genomics of pathogens to understand infectious diseases better. |  | [Pathogenomics-for-Infectious-Disease.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Pathogenomics-for-Infectious-Disease.md) |
 | 111 | AI | AI for Sustainable Agriculture | Utilizing AI to promote sustainable agricultural practices and resource management. |  | [AI-for-Sustainable-Agriculture.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-for-Sustainable-Agriculture.md) |
 | 112 | Public Blockchain | Decentralized Marketplaces | Creating peer-to-peer marketplaces using blockchain for secure transactions. |  | [Decentralized-Marketplaces.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Decentralized-Marketplaces.md) |
@@ -169,6 +169,8 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 149 | Energy Storage | Nanostructured Materials for Batteries | Developing nanostructured materials to enhance the performance and durability of batteries. |  | [Nanostructured-Materials-for-Batteries.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Nanostructured-Materials-for-Batteries.md) |
 | 150 | Multi Omics Sequencing | Synthetic Biology and Omics | Utilizing omics approaches to advance synthetic biology for engineering biological systems. |  | [Synthetic-Biology-and-Omics.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Synthetic-Biology-and-Omics.md) |
 <!-- TABLE END -->
+
+
 
 
 
