@@ -129,7 +129,7 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 109 | Energy Storage | Hybrid Energy Systems | Combining different energy storage technologies for optimized performance. | https://medium.com/@kanakjr/hybrid-energy-systems-combining-different-energy-storage-technologies-for-optimized-performance-79dece8638dc | [Hybrid-Energy-Systems.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Hybrid-Energy-Systems.md) |
 | 110 | Multi Omics Sequencing | Pathogenomics for Infectious Disease | Studying the genomics of pathogens to understand infectious diseases better. | https://medium.com/@kanakjr/pathogenomics-for-infectious-disease-a2b5bdafece8 | [Pathogenomics-for-Infectious-Disease.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Pathogenomics-for-Infectious-Disease.md) |
 | 111 | AI | AI for Sustainable Agriculture | Utilizing AI to promote sustainable agricultural practices and resource management. | https://medium.com/@kanakjr/ai-for-sustainable-agriculture-6ef49b1518b9 | [AI-for-Sustainable-Agriculture.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-for-Sustainable-Agriculture.md) |
-| 112 | Public Blockchain | Decentralized Marketplaces | Creating peer-to-peer marketplaces using blockchain for secure transactions. |  | [Decentralized-Marketplaces.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Decentralized-Marketplaces.md) |
+| 112 | Public Blockchain | Decentralized Marketplaces | Creating peer-to-peer marketplaces using blockchain for secure transactions. | https://medium.com/@kanakjr/decentralized-marketplaces-4bda7a90a684 | [Decentralized-Marketplaces.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Decentralized-Marketplaces.md) |
 | 113 | Robotics | Robotic Assistants in Education | Implementing robotic assistants to support educational processes and engagement. |  | [Robotic-Assistants-in-Education.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Robotic-Assistants-in-Education.md) |
 | 114 | Energy Storage | Lithium-Sulfur Batteries | Developing lithium-sulfur batteries for higher efficiency and energy density. |  | [Lithium-Sulfur-Batteries.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Lithium-Sulfur-Batteries.md) |
 | 115 | Multi Omics Sequencing | Stem Cell Genomics | Exploring the genomics of stem cells to understand their regenerative properties. |  | [Stem-Cell-Genomics.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Stem-Cell-Genomics.md) |
@@ -169,6 +169,8 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 149 | Energy Storage | Nanostructured Materials for Batteries | Developing nanostructured materials to enhance the performance and durability of batteries. |  | [Nanostructured-Materials-for-Batteries.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Nanostructured-Materials-for-Batteries.md) |
 | 150 | Multi Omics Sequencing | Synthetic Biology and Omics | Utilizing omics approaches to advance synthetic biology for engineering biological systems. |  | [Synthetic-Biology-and-Omics.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Synthetic-Biology-and-Omics.md) |
 <!-- TABLE END -->
+
+
 
 
 
