@@ -132,7 +132,7 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 112 | Public Blockchain | Decentralized Marketplaces | Creating peer-to-peer marketplaces using blockchain for secure transactions. | https://medium.com/@kanakjr/decentralized-marketplaces-4bda7a90a684 | [Decentralized-Marketplaces.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Decentralized-Marketplaces.md) |
 | 113 | Robotics | Robotic Assistants in Education | Implementing robotic assistants to support educational processes and engagement. | https://medium.com/@kanakjr/robotic-assistants-in-education-ce8d0bdd6eef | [Robotic-Assistants-in-Education.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Robotic-Assistants-in-Education.md) |
 | 114 | Energy Storage | Lithium-Sulfur Batteries | Developing lithium-sulfur batteries for higher efficiency and energy density. | https://medium.com/@kanakjr/lithium-sulfur-batteries-06fa85d80878 | [Lithium-Sulfur-Batteries.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Lithium-Sulfur-Batteries.md) |
-| 115 | Multi Omics Sequencing | Stem Cell Genomics | Exploring the genomics of stem cells to understand their regenerative properties. |  | [Stem-Cell-Genomics.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Stem-Cell-Genomics.md) |
+| 115 | Multi Omics Sequencing | Stem Cell Genomics | Exploring the genomics of stem cells to understand their regenerative properties. | https://medium.com/@kanakjr/stem-cell-genomics-c5d134a48182 | [Stem-Cell-Genomics.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Stem-Cell-Genomics.md) |
 | 116 | AI | Machine Learning in Financial Analysis | Applying machine learning to predict financial markets and analyze investment opportunities. |  | [Machine-Learning-in-Financial-Analysis.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Machine-Learning-in-Financial-Analysis.md) |
 | 117 | Public Blockchain | Smart Contracts for Insurance | Utilizing smart contracts in blockchain to automate and secure insurance processes. |  | [Smart-Contracts-for-Insurance.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Smart-Contracts-for-Insurance.md) |
 | 118 | Robotics | Robots in Environmental Monitoring | Using robots for environmental monitoring to collect data on ecological changes. |  | [Robots-in-Environmental-Monitoring.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Robots-in-Environmental-Monitoring.md) |
@@ -169,6 +169,8 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 149 | Energy Storage | Nanostructured Materials for Batteries | Developing nanostructured materials to enhance the performance and durability of batteries. |  | [Nanostructured-Materials-for-Batteries.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Nanostructured-Materials-for-Batteries.md) |
 | 150 | Multi Omics Sequencing | Synthetic Biology and Omics | Utilizing omics approaches to advance synthetic biology for engineering biological systems. |  | [Synthetic-Biology-and-Omics.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Synthetic-Biology-and-Omics.md) |
 <!-- TABLE END -->
+
+
 
 
 
