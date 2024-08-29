@@ -137,7 +137,7 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 117 | Public Blockchain | Smart Contracts for Insurance | Utilizing smart contracts in blockchain to automate and secure insurance processes. | https://medium.com/@kanakjr/smart-contracts-for-insurance-71d969bf65a8 | [Smart-Contracts-for-Insurance.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Smart-Contracts-for-Insurance.md) |
 | 118 | Robotics | Robots in Environmental Monitoring | Using robots for environmental monitoring to collect data on ecological changes. | https://medium.com/@kanakjr/robots-in-environmental-monitoring-0eaabf9f9e88 | [Robots-in-Environmental-Monitoring.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Robots-in-Environmental-Monitoring.md) |
 | 119 | Energy Storage | Ultrafast Charging Batteries | Innovating batteries that support ultrafast charging for electronic devices. | https://medium.com/@kanakjr/ultrafast-charging-batteries-4d6d0d44be7b | [Ultrafast-Charging-Batteries.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Ultrafast-Charging-Batteries.md) |
-| 120 | Multi Omics Sequencing | Functional Metagenomics | Applying functional metagenomics to explore microbial communities and their functions. |  | [Functional-Metagenomics.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Functional-Metagenomics.md) |
+| 120 | Multi Omics Sequencing | Functional Metagenomics | Applying functional metagenomics to explore microbial communities and their functions. | https://medium.com/@kanakjr/functional-metagenomics-1f49854eaa1c | [Functional-Metagenomics.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Functional-Metagenomics.md) |
 | 121 | AI | AI in Precision Medicine | Integrating AI with precision medicine to tailor healthcare to individual genetic profiles. |  | [AI-in-Precision-Medicine.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-in-Precision-Medicine.md) |
 | 122 | Public Blockchain | Cryptocurrency Regulations | Exploring the impact of regulations on the cryptocurrency market and innovation. |  | [Cryptocurrency-Regulations.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Cryptocurrency-Regulations.md) |
 | 123 | Robotics | Autonomous Delivery Robots | Developing autonomous robots for efficient and secure delivery services. |  | [Autonomous-Delivery-Robots.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Autonomous-Delivery-Robots.md) |
@@ -169,6 +169,8 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 149 | Energy Storage | Nanostructured Materials for Batteries | Developing nanostructured materials to enhance the performance and durability of batteries. |  | [Nanostructured-Materials-for-Batteries.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Nanostructured-Materials-for-Batteries.md) |
 | 150 | Multi Omics Sequencing | Synthetic Biology and Omics | Utilizing omics approaches to advance synthetic biology for engineering biological systems. |  | [Synthetic-Biology-and-Omics.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Synthetic-Biology-and-Omics.md) |
 <!-- TABLE END -->
+
+
 
 
 
