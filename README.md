@@ -139,7 +139,7 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 119 | Energy Storage | Ultrafast Charging Batteries | Innovating batteries that support ultrafast charging for electronic devices. | https://medium.com/@kanakjr/ultrafast-charging-batteries-4d6d0d44be7b | [Ultrafast-Charging-Batteries.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Ultrafast-Charging-Batteries.md) |
 | 120 | Multi Omics Sequencing | Functional Metagenomics | Applying functional metagenomics to explore microbial communities and their functions. | https://medium.com/@kanakjr/functional-metagenomics-1f49854eaa1c | [Functional-Metagenomics.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Functional-Metagenomics.md) |
 | 121 | AI | AI in Precision Medicine | Integrating AI with precision medicine to tailor healthcare to individual genetic profiles. | https://medium.com/@kanakjr/ai-in-precision-medicine-ee58eb3f6d4f | [AI-in-Precision-Medicine.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-in-Precision-Medicine.md) |
-| 122 | Public Blockchain | Cryptocurrency Regulations | Exploring the impact of regulations on the cryptocurrency market and innovation. |  | [Cryptocurrency-Regulations.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Cryptocurrency-Regulations.md) |
+| 122 | Public Blockchain | Cryptocurrency Regulations | Exploring the impact of regulations on the cryptocurrency market and innovation. | https://medium.com/@kanakjr/cryptocurrency-regulations-6a3566b617d2 | [Cryptocurrency-Regulations.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Cryptocurrency-Regulations.md) |
 | 123 | Robotics | Autonomous Delivery Robots | Developing autonomous robots for efficient and secure delivery services. |  | [Autonomous-Delivery-Robots.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Autonomous-Delivery-Robots.md) |
 | 124 | Energy Storage | Bioenergy with Carbon Capture | Combining bioenergy production with carbon capture technologies for cleaner energy. |  | [Bioenergy-with-Carbon-Capture.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Bioenergy-with-Carbon-Capture.md) |
 | 125 | Multi Omics Sequencing | Pharmacogenomics for Personalized Medicine | Utilizing pharmacogenomics to customize drug therapies based on individual genomics. |  | [Pharmacogenomics-for-Personalized-Medicine.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Pharmacogenomics-for-Personalized-Medicine.md) |
@@ -169,6 +169,8 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 149 | Energy Storage | Nanostructured Materials for Batteries | Developing nanostructured materials to enhance the performance and durability of batteries. |  | [Nanostructured-Materials-for-Batteries.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Nanostructured-Materials-for-Batteries.md) |
 | 150 | Multi Omics Sequencing | Synthetic Biology and Omics | Utilizing omics approaches to advance synthetic biology for engineering biological systems. |  | [Synthetic-Biology-and-Omics.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Synthetic-Biology-and-Omics.md) |
 <!-- TABLE END -->
+
+
 
 
 
