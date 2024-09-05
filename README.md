@@ -142,7 +142,7 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 122 | Public Blockchain | Cryptocurrency Regulations | Exploring the impact of regulations on the cryptocurrency market and innovation. | https://medium.com/@kanakjr/cryptocurrency-regulations-6a3566b617d2 | [Cryptocurrency-Regulations.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Cryptocurrency-Regulations.md) |
 | 123 | Robotics | Autonomous Delivery Robots | Developing autonomous robots for efficient and secure delivery services. | https://medium.com/@kanakjr/autonomous-delivery-robots-17d6aa290b35 | [Autonomous-Delivery-Robots.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Autonomous-Delivery-Robots.md) |
 | 124 | Energy Storage | Bioenergy with Carbon Capture | Combining bioenergy production with carbon capture technologies for cleaner energy. | https://medium.com/@kanakjr/bioenergy-with-carbon-capture-f82581b61e05 | [Bioenergy-with-Carbon-Capture.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Bioenergy-with-Carbon-Capture.md) |
-| 125 | Multi Omics Sequencing | Pharmacogenomics for Personalized Medicine | Utilizing pharmacogenomics to customize drug therapies based on individual genomics. |  | [Pharmacogenomics-for-Personalized-Medicine.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Pharmacogenomics-for-Personalized-Medicine.md) |
+| 125 | Multi Omics Sequencing | Pharmacogenomics for Personalized Medicine | Utilizing pharmacogenomics to customize drug therapies based on individual genomics. | https://medium.com/@kanakjr/pharmacogenomics-for-personalized-medicine-856028ae7bd1 | [Pharmacogenomics-for-Personalized-Medicine.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Pharmacogenomics-for-Personalized-Medicine.md) |
 | 126 | AI | AI in Traffic Management and Control | Implementing AI to improve traffic management and reduce congestion in urban areas. |  | [AI-in-Traffic-Management-and-Control.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-in-Traffic-Management-and-Control.md) |
 | 127 | Public Blockchain | Blockchain for Identity Verification | Enhancing identity verification processes with secure blockchain technology. |  | [Blockchain-for-Identity-Verification.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-for-Identity-Verification.md) |
 | 128 | Robotics | Robots for Precision Medicine | Using robots to automate and enhance precision in medical procedures and diagnostics. |  | [Robots-for-Precision-Medicine.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Robots-for-Precision-Medicine.md) |
@@ -169,6 +169,8 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 149 | Energy Storage | Nanostructured Materials for Batteries | Developing nanostructured materials to enhance the performance and durability of batteries. |  | [Nanostructured-Materials-for-Batteries.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Nanostructured-Materials-for-Batteries.md) |
 | 150 | Multi Omics Sequencing | Synthetic Biology and Omics | Utilizing omics approaches to advance synthetic biology for engineering biological systems. |  | [Synthetic-Biology-and-Omics.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Synthetic-Biology-and-Omics.md) |
 <!-- TABLE END -->
+
+
 
 
 
