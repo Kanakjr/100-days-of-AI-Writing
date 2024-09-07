@@ -144,7 +144,7 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 124 | Energy Storage | Bioenergy with Carbon Capture | Combining bioenergy production with carbon capture technologies for cleaner energy. | https://medium.com/@kanakjr/bioenergy-with-carbon-capture-f82581b61e05 | [Bioenergy-with-Carbon-Capture.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Bioenergy-with-Carbon-Capture.md) |
 | 125 | Multi Omics Sequencing | Pharmacogenomics for Personalized Medicine | Utilizing pharmacogenomics to customize drug therapies based on individual genomics. | https://medium.com/@kanakjr/pharmacogenomics-for-personalized-medicine-856028ae7bd1 | [Pharmacogenomics-for-Personalized-Medicine.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Pharmacogenomics-for-Personalized-Medicine.md) |
 | 126 | AI | AI in Traffic Management and Control | Implementing AI to improve traffic management and reduce congestion in urban areas. | https://medium.com/@kanakjr/ai-in-traffic-management-and-control-614a1e1f2d16 | [AI-in-Traffic-Management-and-Control.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-in-Traffic-Management-and-Control.md) |
-| 127 | Public Blockchain | Blockchain for Identity Verification | Enhancing identity verification processes with secure blockchain technology. |  | [Blockchain-for-Identity-Verification.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-for-Identity-Verification.md) |
+| 127 | Public Blockchain | Blockchain for Identity Verification | Enhancing identity verification processes with secure blockchain technology. | https://medium.com/@kanakjr/blockchain-for-identity-verification-57243f495954 | [Blockchain-for-Identity-Verification.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-for-Identity-Verification.md) |
 | 128 | Robotics | Robots for Precision Medicine | Using robots to automate and enhance precision in medical procedures and diagnostics. |  | [Robots-for-Precision-Medicine.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Robots-for-Precision-Medicine.md) |
 | 129 | Energy Storage | Next-Gen Hydrogen Storage | Solving hydrogen storage challenges for fuel cells and energy applications. |  | [Next-Gen-Hydrogen-Storage.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Next-Gen-Hydrogen-Storage.md) |
 | 130 | Multi Omics Sequencing | Comparative Genomics for Evolutionary Studies | Employing comparative genomics to study evolutionary biology and species differences. |  | [Comparative-Genomics-for-Evolutionary-Studies.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Comparative-Genomics-for-Evolutionary-Studies.md) |
@@ -169,6 +169,8 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 149 | Energy Storage | Nanostructured Materials for Batteries | Developing nanostructured materials to enhance the performance and durability of batteries. |  | [Nanostructured-Materials-for-Batteries.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Nanostructured-Materials-for-Batteries.md) |
 | 150 | Multi Omics Sequencing | Synthetic Biology and Omics | Utilizing omics approaches to advance synthetic biology for engineering biological systems. |  | [Synthetic-Biology-and-Omics.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Synthetic-Biology-and-Omics.md) |
 <!-- TABLE END -->
+
+
 
 
 
