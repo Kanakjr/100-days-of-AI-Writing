@@ -146,7 +146,7 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 126 | AI | AI in Traffic Management and Control | Implementing AI to improve traffic management and reduce congestion in urban areas. | https://medium.com/@kanakjr/ai-in-traffic-management-and-control-614a1e1f2d16 | [AI-in-Traffic-Management-and-Control.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-in-Traffic-Management-and-Control.md) |
 | 127 | Public Blockchain | Blockchain for Identity Verification | Enhancing identity verification processes with secure blockchain technology. | https://medium.com/@kanakjr/blockchain-for-identity-verification-57243f495954 | [Blockchain-for-Identity-Verification.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-for-Identity-Verification.md) |
 | 128 | Robotics | Robots for Precision Medicine | Using robots to automate and enhance precision in medical procedures and diagnostics. | https://medium.com/@kanakjr/robots-for-precision-medicine-3d5c2a6c4b78 | [Robots-for-Precision-Medicine.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Robots-for-Precision-Medicine.md) |
-| 129 | Energy Storage | Next-Gen Hydrogen Storage | Solving hydrogen storage challenges for fuel cells and energy applications. |  | [Next-Gen-Hydrogen-Storage.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Next-Gen-Hydrogen-Storage.md) |
+| 129 | Energy Storage | Next-Gen Hydrogen Storage | Solving hydrogen storage challenges for fuel cells and energy applications. | https://medium.com/@kanakjr/next-gen-hydrogen-storage-e7325a4309ce | [Next-Gen-Hydrogen-Storage.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Next-Gen-Hydrogen-Storage.md) |
 | 130 | Multi Omics Sequencing | Comparative Genomics for Evolutionary Studies | Employing comparative genomics to study evolutionary biology and species differences. |  | [Comparative-Genomics-for-Evolutionary-Studies.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Comparative-Genomics-for-Evolutionary-Studies.md) |
 | 131 | AI | Generative AI for Creative Design | Using generative AI models to innovate in the fields of art, design and creativity |  | [Generative-AI-for-Creative-Design.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Generative-AI-for-Creative-Design.md) |
 | 132 | Public Blockchain | Ethereum 2.0 and Scalability | Discussing the upgrades and scalability solutions of Ethereum 2.0 for blockchain applications. |  | [Ethereum-2.0-and-Scalability.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Ethereum-2.0-and-Scalability.md) |
@@ -169,6 +169,8 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 149 | Energy Storage | Nanostructured Materials for Batteries | Developing nanostructured materials to enhance the performance and durability of batteries. |  | [Nanostructured-Materials-for-Batteries.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Nanostructured-Materials-for-Batteries.md) |
 | 150 | Multi Omics Sequencing | Synthetic Biology and Omics | Utilizing omics approaches to advance synthetic biology for engineering biological systems. |  | [Synthetic-Biology-and-Omics.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Synthetic-Biology-and-Omics.md) |
 <!-- TABLE END -->
+
+
 
 
 
