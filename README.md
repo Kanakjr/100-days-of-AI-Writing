@@ -149,7 +149,7 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 129 | Energy Storage | Next-Gen Hydrogen Storage | Solving hydrogen storage challenges for fuel cells and energy applications. | https://medium.com/@kanakjr/next-gen-hydrogen-storage-e7325a4309ce | [Next-Gen-Hydrogen-Storage.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Next-Gen-Hydrogen-Storage.md) |
 | 130 | Multi Omics Sequencing | Comparative Genomics for Evolutionary Studies | Employing comparative genomics to study evolutionary biology and species differences. | https://medium.com/@kanakjr/comparative-genomics-for-evolutionary-studies-a8076b4f9ebc | [Comparative-Genomics-for-Evolutionary-Studies.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Comparative-Genomics-for-Evolutionary-Studies.md) |
 | 131 | AI | Generative AI for Creative Design | Using generative AI models to innovate in the fields of art, design and creativity | https://medium.com/@kanakjr/generative-ai-for-creative-design-853dcad76674 | [Generative-AI-for-Creative-Design.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Generative-AI-for-Creative-Design.md) |
-| 132 | Public Blockchain | Ethereum 2.0 and Scalability | Discussing the upgrades and scalability solutions of Ethereum 2.0 for blockchain applications. |  | [Ethereum-2.0-and-Scalability.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Ethereum-2.0-and-Scalability.md) |
+| 132 | Public Blockchain | Ethereum 2.0 and Scalability | Discussing the upgrades and scalability solutions of Ethereum 2.0 for blockchain applications. | https://medium.com/@kanakjr/ethereum-2-0-and-scalability-4e59fe3da1a9 | [Ethereum-2.0-and-Scalability.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Ethereum-2.0-and-Scalability.md) |
 | 133 | Robotics | Soft Robotics in Medicine | Exploring the application of soft robotics in medical devices and procedures. |  | [Soft-Robotics-in-Medicine.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Soft-Robotics-in-Medicine.md) |
 | 134 | Energy Storage | Dynamic Wireless Charging for Electric Vehicles | Developing systems for the dynamic wireless charging of electric vehicles on the move. |  | [Dynamic-Wireless-Charging-for-Electric-Vehicles.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Dynamic-Wireless-Charging-for-Electric-Vehicles.md) |
 | 135 | Multi Omics Sequencing | Genomics of Aging and Longevity | Studying the genomics associated with aging and longevity to uncover the secrets of a longer life. |  | [Genomics-of-Aging-and-Longevity.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Genomics-of-Aging-and-Longevity.md) |
@@ -169,6 +169,8 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 149 | Energy Storage | Nanostructured Materials for Batteries | Developing nanostructured materials to enhance the performance and durability of batteries. |  | [Nanostructured-Materials-for-Batteries.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Nanostructured-Materials-for-Batteries.md) |
 | 150 | Multi Omics Sequencing | Synthetic Biology and Omics | Utilizing omics approaches to advance synthetic biology for engineering biological systems. |  | [Synthetic-Biology-and-Omics.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Synthetic-Biology-and-Omics.md) |
 <!-- TABLE END -->
+
+
 
 
 
