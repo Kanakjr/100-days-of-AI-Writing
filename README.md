@@ -153,7 +153,7 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 133 | Robotics | Soft Robotics in Medicine | Exploring the application of soft robotics in medical devices and procedures. | https://medium.com/@kanakjr/soft-robotics-in-medicine-9150308566bf | [Soft-Robotics-in-Medicine.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Soft-Robotics-in-Medicine.md) |
 | 134 | Energy Storage | Dynamic Wireless Charging for Electric Vehicles | Developing systems for the dynamic wireless charging of electric vehicles on the move. | https://medium.com/@kanakjr/dynamic-wireless-charging-for-electric-vehicles-af28925f8833 | [Dynamic-Wireless-Charging-for-Electric-Vehicles.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Dynamic-Wireless-Charging-for-Electric-Vehicles.md) |
 | 135 | Multi Omics Sequencing | Genomics of Aging and Longevity | Studying the genomics associated with aging and longevity to uncover the secrets of a longer life. | https://medium.com/@kanakjr/genomics-of-aging-and-longevity-f76174f4410f | [Genomics-of-Aging-and-Longevity.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Genomics-of-Aging-and-Longevity.md) |
-| 136 | AI | Natural Language Understanding (NLU) | Advancing NLU to enable machines to understand and interpret human language more effectively. |  | [Natural-Language-Understanding-(NLU).md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Natural-Language-Understanding-(NLU).md) |
+| 136 | AI | Natural Language Understanding (NLU) | Advancing NLU to enable machines to understand and interpret human language more effectively. | https://medium.com/@kanakjr/natural-language-understanding-nlu-6de1e95ce1fb | [Natural-Language-Understanding-(NLU).md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Natural-Language-Understanding-(NLU).md) |
 | 137 | Public Blockchain | Blockchain for E-Governance | Implementing blockchain to enhance transparency and efficiency in government operations. |  | [Blockchain-for-E-Governance.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-for-E-Governance.md) |
 | 138 | Robotics | Exoskeleton Technology for Enhanced Mobility | Developing exoskeleton technology to assist with mobility and strength in individuals. |  | [Exoskeleton-Technology-for-Enhanced-Mobility.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Exoskeleton-Technology-for-Enhanced-Mobility.md) |
 | 139 | Energy Storage | Ammonia as an Energy Carrier | Exploring ammonia's potential as a green and efficient energy carrier for the future. |  | [Ammonia-as-an-Energy-Carrier.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Ammonia-as-an-Energy-Carrier.md) |
@@ -169,6 +169,8 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 149 | Energy Storage | Nanostructured Materials for Batteries | Developing nanostructured materials to enhance the performance and durability of batteries. |  | [Nanostructured-Materials-for-Batteries.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Nanostructured-Materials-for-Batteries.md) |
 | 150 | Multi Omics Sequencing | Synthetic Biology and Omics | Utilizing omics approaches to advance synthetic biology for engineering biological systems. |  | [Synthetic-Biology-and-Omics.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Synthetic-Biology-and-Omics.md) |
 <!-- TABLE END -->
+
+
 
 
 
