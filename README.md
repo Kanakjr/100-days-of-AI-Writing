@@ -157,7 +157,7 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 137 | Public Blockchain | Blockchain for E-Governance | Implementing blockchain to enhance transparency and efficiency in government operations. | https://medium.com/@kanakjr/blockchain-for-e-governance-0f894fb6012d | [Blockchain-for-E-Governance.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Blockchain-for-E-Governance.md) |
 | 138 | Robotics | Exoskeleton Technology for Enhanced Mobility | Developing exoskeleton technology to assist with mobility and strength in individuals. | https://medium.com/@kanakjr/exoskeleton-technology-for-enhanced-mobility-8cbd19d37dc3 | [Exoskeleton-Technology-for-Enhanced-Mobility.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Exoskeleton-Technology-for-Enhanced-Mobility.md) |
 | 139 | Energy Storage | Ammonia as an Energy Carrier | Exploring ammonia's potential as a green and efficient energy carrier for the future. | https://medium.com/@kanakjr/ammonia-as-an-energy-carrier-fcf1e96eeb68 | [Ammonia-as-an-Energy-Carrier.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Ammonia-as-an-Energy-Carrier.md) |
-| 140 | Multi Omics Sequencing | Neuroproteomics in Brain Research | Using neuroproteomics to delve into the protein dynamics of the brain for understanding neurological disorders. |  | [Neuroproteomics-in-Brain-Research.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Neuroproteomics-in-Brain-Research.md) |
+| 140 | Multi Omics Sequencing | Neuroproteomics in Brain Research | Using neuroproteomics to delve into the protein dynamics of the brain for understanding neurological disorders. | https://medium.com/@kanakjr/neuroproteomics-in-brain-research-d4b01cdda43f | [Neuroproteomics-in-Brain-Research.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Neuroproteomics-in-Brain-Research.md) |
 | 141 | AI | AI in Smart Home Automation | Enhancing smart home technologies with AI for better energy efficiency and convenience. |  | [AI-in-Smart-Home-Automation.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-in-Smart-Home-Automation.md) |
 | 142 | Public Blockchain | Decentralized Social Networks | Creating decentralized social networks to enhance user privacy and control over data. |  | [Decentralized-Social-Networks.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Decentralized-Social-Networks.md) |
 | 143 | Robotics | Human-Robot Interaction (HRI) | Advancing the field of HRI to create more intuitive and effective interactions between humans and robots. |  | [Human-Robot-Interaction-(HRI).md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Human-Robot-Interaction-(HRI).md) |
@@ -169,6 +169,8 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 149 | Energy Storage | Nanostructured Materials for Batteries | Developing nanostructured materials to enhance the performance and durability of batteries. |  | [Nanostructured-Materials-for-Batteries.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Nanostructured-Materials-for-Batteries.md) |
 | 150 | Multi Omics Sequencing | Synthetic Biology and Omics | Utilizing omics approaches to advance synthetic biology for engineering biological systems. |  | [Synthetic-Biology-and-Omics.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Synthetic-Biology-and-Omics.md) |
 <!-- TABLE END -->
+
+
 
 
 
