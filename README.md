@@ -159,7 +159,7 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 139 | Energy Storage | Ammonia as an Energy Carrier | Exploring ammonia's potential as a green and efficient energy carrier for the future. | https://medium.com/@kanakjr/ammonia-as-an-energy-carrier-fcf1e96eeb68 | [Ammonia-as-an-Energy-Carrier.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Ammonia-as-an-Energy-Carrier.md) |
 | 140 | Multi Omics Sequencing | Neuroproteomics in Brain Research | Using neuroproteomics to delve into the protein dynamics of the brain for understanding neurological disorders. | https://medium.com/@kanakjr/neuroproteomics-in-brain-research-d4b01cdda43f | [Neuroproteomics-in-Brain-Research.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Neuroproteomics-in-Brain-Research.md) |
 | 141 | AI | AI in Smart Home Automation | Enhancing smart home technologies with AI for better energy efficiency and convenience. | https://medium.com/@kanakjr/ai-in-smart-home-automation-857ffbfab09c | [AI-in-Smart-Home-Automation.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-in-Smart-Home-Automation.md) |
-| 142 | Public Blockchain | Decentralized Social Networks | Creating decentralized social networks to enhance user privacy and control over data. |  | [Decentralized-Social-Networks.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Decentralized-Social-Networks.md) |
+| 142 | Public Blockchain | Decentralized Social Networks | Creating decentralized social networks to enhance user privacy and control over data. | https://medium.com/@kanakjr/decentralized-social-networks-23960c3b84bb | [Decentralized-Social-Networks.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Decentralized-Social-Networks.md) |
 | 143 | Robotics | Human-Robot Interaction (HRI) | Advancing the field of HRI to create more intuitive and effective interactions between humans and robots. |  | [Human-Robot-Interaction-(HRI).md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Human-Robot-Interaction-(HRI).md) |
 | 144 | Energy Storage | Solid Electrolyte Interfaces in Batteries | Investigating solid electrolyte interfaces for improving battery safety and longevity. |  | [Solid-Electrolyte-Interfaces-in-Batteries.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Solid-Electrolyte-Interfaces-in-Batteries.md) |
 | 145 | Multi Omics Sequencing | Proteomics in Neurodegenerative Disease | Applying proteomics to understand and find treatments for neurodegenerative diseases. |  | [Proteomics-in-Neurodegenerative-Disease.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Proteomics-in-Neurodegenerative-Disease.md) |
@@ -169,6 +169,8 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 149 | Energy Storage | Nanostructured Materials for Batteries | Developing nanostructured materials to enhance the performance and durability of batteries. |  | [Nanostructured-Materials-for-Batteries.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Nanostructured-Materials-for-Batteries.md) |
 | 150 | Multi Omics Sequencing | Synthetic Biology and Omics | Utilizing omics approaches to advance synthetic biology for engineering biological systems. |  | [Synthetic-Biology-and-Omics.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Synthetic-Biology-and-Omics.md) |
 <!-- TABLE END -->
+
+
 
 
 
