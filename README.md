@@ -164,11 +164,13 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 144 | Energy Storage | Solid Electrolyte Interfaces in Batteries | Investigating solid electrolyte interfaces for improving battery safety and longevity. | https://medium.com/@kanakjr/solid-electrolyte-interfaces-in-batteries-da1f9e6bd186 | [Solid-Electrolyte-Interfaces-in-Batteries.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Solid-Electrolyte-Interfaces-in-Batteries.md) |
 | 145 | Multi Omics Sequencing | Proteomics in Neurodegenerative Disease | Applying proteomics to understand and find treatments for neurodegenerative diseases. | https://medium.com/@kanakjr/proteomics-in-neurodegenerative-disease-0806841e76e1 | [Proteomics-in-Neurodegenerative-Disease.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Proteomics-in-Neurodegenerative-Disease.md) |
 | 146 | AI | AI in Supply Chain Optimization | Using AI to streamline supply chain operations and enhance logistics efficiency. | https://medium.com/@kanakjr/ai-in-supply-chain-optimization-48b88b18075e | [AI-in-Supply-Chain-Optimization.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/AI-in-Supply-Chain-Optimization.md) |
-| 147 | Public Blockchain | Token Economy and Its Impact | Exploring the impact of token economies on various sectors and their potential for innovation. |  | [Token-Economy-and-Its-Impact.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Token-Economy-and-Its-Impact.md) |
+| 147 | Public Blockchain | Token Economy and Its Impact | Exploring the impact of token economies on various sectors and their potential for innovation. | https://medium.com/@kanakjr/token-economy-and-its-impact-1899bc093695 | [Token-Economy-and-Its-Impact.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Token-Economy-and-Its-Impact.md) |
 | 148 | Robotics | Construction Robots for Automation | Integrating robots into construction processes to improve efficiency and safety. |  | [Construction-Robots-for-Automation.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Construction-Robots-for-Automation.md) |
 | 149 | Energy Storage | Nanostructured Materials for Batteries | Developing nanostructured materials to enhance the performance and durability of batteries. |  | [Nanostructured-Materials-for-Batteries.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Nanostructured-Materials-for-Batteries.md) |
 | 150 | Multi Omics Sequencing | Synthetic Biology and Omics | Utilizing omics approaches to advance synthetic biology for engineering biological systems. |  | [Synthetic-Biology-and-Omics.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Synthetic-Biology-and-Omics.md) |
 <!-- TABLE END -->
+
+
 
 
 
