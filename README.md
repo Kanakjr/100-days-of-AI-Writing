@@ -167,8 +167,10 @@ You'll find an overview of the key topics covered. For each topic you can find t
 | 147 | Public Blockchain | Token Economy and Its Impact | Exploring the impact of token economies on various sectors and their potential for innovation. | https://medium.com/@kanakjr/token-economy-and-its-impact-1899bc093695 | [Token-Economy-and-Its-Impact.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Token-Economy-and-Its-Impact.md) |
 | 148 | Robotics | Construction Robots for Automation | Integrating robots into construction processes to improve efficiency and safety. | https://medium.com/@kanakjr/construction-robots-for-automation-9b4b1fc74505 | [Construction-Robots-for-Automation.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Construction-Robots-for-Automation.md) |
 | 149 | Energy Storage | Nanostructured Materials for Batteries | Developing nanostructured materials to enhance the performance and durability of batteries. | https://medium.com/@kanakjr/nanostructured-materials-for-batteries-e88620af8aeb | [Nanostructured-Materials-for-Batteries.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Nanostructured-Materials-for-Batteries.md) |
-| 150 | Multi Omics Sequencing | Synthetic Biology and Omics | Utilizing omics approaches to advance synthetic biology for engineering biological systems. |  | [Synthetic-Biology-and-Omics.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Synthetic-Biology-and-Omics.md) |
+| 150 | Multi Omics Sequencing | Synthetic Biology and Omics | Utilizing omics approaches to advance synthetic biology for engineering biological systems. | https://medium.com/@kanakjr/synthetic-biology-and-omics-820d935967d5 | [Synthetic-Biology-and-Omics.md](https://github.com/Kanakjr/100-days-of-AI-Writing/blob/main/articles/Synthetic-Biology-and-Omics.md) |
 <!-- TABLE END -->
+
+
 
 
 
